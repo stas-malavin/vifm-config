@@ -91,7 +91,7 @@ filetype *.Rhist,*.RHist,*Rhistory mate-terminal -e 'vim %c'
 
 " pdf
 filetype *.pdf zathura %c >/dev/null &,apvlv %c &,xpdf %c
-fileview *.pdf pdfinfo %c -
+fileview *.pdf pdfinfo %c
 
 " PostScript
 filextype *.ps,*.ps.gz gv %c %i&
