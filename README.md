@@ -1,2 +1,3 @@
 # Config folder for vifm
-## Including highlighting, filetypes, etc.
+
+Including highlighting, filetypes, etc.
