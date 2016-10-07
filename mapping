@@ -54,7 +54,7 @@ nmap w :view<cr>
 nmap VV :!mate-terminal -e "vim %c"<cr>
 nmap GI :!gimp %f &<cr>
 nmap AA :!audacious %f >/dev/null &<cr>
-nmap WW :win<space>
+nmap WW :!pdftotext %c - %m<cr>
 nmap RB :rb<cr>
 nmap co :!zip -r %c:r.zip %f<cr>
 

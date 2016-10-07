@@ -14,14 +14,14 @@
 =fusehome=/tmp/vifm_FUSE/
 =nogdefault
 =grepprg=grep\ -n\ -H\ -I\ -r\ %i\ %a\ %s
-=history=204
+=history=100
 =hlsearch
 =noiec
 =ignorecase
 =incsearch
 =laststatus
 =title
-=lines=48
+=lines=45
 =locateprg=locate\ %a
 =mintimeoutlen=150
 =rulerformat=%l/%S\ 
@@ -158,7 +158,7 @@
 1473611514
 
 # TUI:
-al
+ar
 q0
 v2
 ov
@@ -167,623 +167,610 @@ l12
 r-11,2
 
 # Left window history (oldest to newest):
-d/home/stas/Documents/TMP/git-study/.git/logs
-	refs
-1
-d/home/stas/Documents/TMP/git-study/.git/logs/refs
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	.Rproj.user
+2
+d/home/stas/Documents/TMP/pdf-auth-title-add/.Rproj.user
+	shared
+2
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf(1)
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf(1)
 	..
 0
-d/home/stas/Documents/TMP/git-study/.git/logs
-	refs
-1
-d/home/stas/Documents/TMP/git-study/.git
-	logs
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
 4
-d/home/stas/Documents/TMP/git-study/.git/logs
-	refs
-1
-d/home/stas/Documents/TMP/git-study/.git/logs/refs
-	heads
-1
-d/home/stas/Documents/TMP/git-study/.git/logs/refs/heads
-	master
-1
-d/home/stas/Documents/TMP/git-study/.git/logs/refs
-	heads
-1
-d/home/stas/Documents/TMP/git-study/.git/logs
-	refs
-1
-d/home/stas/Documents/TMP/git-study/.git
-	info
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	..
+0
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf
 3
-d/home/stas/Documents/TMP/git-study/.git/info
-	exclude
-1
-d/home/stas/Documents/TMP/git-study/.git
-	hooks
-2
-d/home/stas/Documents/TMP/git-study/.git/hooks
-	..
-0
-d/home/stas/Documents/TMP/git-study/.git
-	branches
-1
-d/home/stas/Documents/TMP/git-study/.git/branches
-	..
-0
-d/home/stas/Documents/TMP/git-study/.git
-	branches
-1
-d/home/stas/Documents/TMP/git-study
-	.git
-1
-d/home/stas/Documents/TMP/git-study/.git
-	branches
-1
-d/home/stas/Documents/TMP/git-study/.git/branches
-	..
-0
-d/home/stas/Documents/TMP/git-study/.git
-	branches
-1
-d/home/stas/Documents/TMP/git-study/.git/branches
-	..
-0
-d/home/stas/Documents/TMP/git-study/.git
-	logs
-4
-d/home/stas/Documents/TMP/git-study/.git/logs
-	refs
-1
-d/home/stas/Documents/TMP/git-study/.git/logs/refs
-	heads
-1
-d/home/stas/Documents/TMP/git-study/.git/logs/refs/heads
-	Experim
-1
-d/home/stas/Documents/TMP/git-study/.git/logs/refs
-	heads
-1
-d/home/stas/Documents/TMP/git-study/.git/logs
-	refs
-1
-d/home/stas/Documents/TMP/git-study/.git
-	logs
-4
-d/home/stas/Documents/TMP/git-study
-	1.txt
-2
-d/home/stas/Documents/TMP
-	git-study
-1
-d/home/stas/Documents/TMP/git-study
-	.git
-1
-d/home/stas/Documents/TMP/git-study/.git
-	logs
-4
-d/home/stas/Documents/TMP/git-study/.git/logs
-	refs
-1
-d/home/stas/Documents/TMP/git-study/.git/logs/refs
-	heads
-1
-d/home/stas/Documents/TMP/git-study/.git/logs/refs/heads
-	Experim
-1
-d/home/stas/Documents/TMP/git-study/.git/logs/refs
-	heads
-1
-d/home/stas/Documents/TMP/git-study/.git/logs
-	refs
-1
-d/home/stas/Documents/TMP/git-study/.git
-	refs
-6
-d/home/stas/Documents/TMP/git-study/.git/refs
-	heads
-1
-d/home/stas/Documents/TMP/git-study/.git/refs/heads
-	Experim
-1
-d/home/stas/Documents/TMP/git-study/.git/refs
-	tags
-2
-d/home/stas/Documents/TMP/git-study/.git/refs/tags
-	..
-0
-d/home/stas/Documents/TMP/git-study/.git/refs
-	tags
-2
-d/home/stas/Documents/TMP/git-study/.git
-	logs
-4
-d/home/stas/Documents/TMP/git-study/.git/logs
-	refs
-1
-d/home/stas/Documents/TMP/git-study/.git/logs/refs
-	heads
-1
-d/home/stas/Documents/TMP/git-study/.git/logs/refs/heads
-	Experim
-1
-d/home/stas/Documents/TMP/git-study/.git/logs/refs
-	heads
-1
-d/home/stas/Documents/TMP/git-study/.git/logs
-	refs
-1
-d/home/stas/Documents/TMP/git-study/.git
-	logs
-4
-d/home/stas/Documents/TMP/git-study
-	.git
-1
-d/home/stas/Documents/TMP/git-study/.git
-	description
-9
-d/home/stas/Documents/TMP/git-study
-	.git
-1
-d/home/stas/Documents/TMP/git-study/.git
-	index
-11
-d/home/stas/Documents/TMP/git-study
-	.git
-1
-d/home/stas/Documents/TMP/git-study/.git
-	logs
-4
-d/home/stas/Documents/TMP/git-study/.git/logs
-	refs
-1
-d/home/stas/Documents/TMP/git-study/.git/logs/refs
-	heads
-1
-d/home/stas/Documents/TMP/git-study/.git/logs/refs/heads
-	Experim
-1
-d/home/stas/Documents/TMP/git-study/.git/logs/refs
-	heads
-1
-d/home/stas/Documents/TMP/git-study/.git/logs
-	refs
-1
-d/home/stas/Documents/TMP/git-study/.git
-	logs
-4
-d/home/stas/Documents/TMP/git-study
-	1.txt
-2
-d/home/stas/Documents/TMP
-	git-study
-1
-d/home/stas/Documents/TMP/git-study
-	.git
-1
-d/home/stas/Documents/TMP/git-study/.git
-	refs
-6
-d/home/stas/Documents/TMP/git-study/.git/refs
-	heads
-1
-d/home/stas/Documents/TMP/git-study/.git/refs/heads
-	Experim
-1
-d/home/stas/Documents/TMP/git-study/.git/refs
-	heads
-1
-d/home/stas/Documents/TMP/git-study/.git
-	info
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf
+	Stepanjants-et-al-2002-The-First-Russian-Fisheries-Research-Expedition.pdf
 3
-d/home/stas/Documents/TMP/git-study/.git/info
-	exclude
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	Stepanjants-et-al-2002-The-First-Russian-Fisheries-Research-Expedition.pdf
 1
-d/home/stas/Documents/TMP/git-study/.git
-	objects
-5
-d/home/stas/Documents/TMP/git-study/.git/objects
-	pack
-16
-d/home/stas/Documents/TMP/git-study/.git
-	refs
-6
-d/home/stas/Documents/TMP/git-study/.git/refs
-	heads
-1
-d/home/stas/Documents/TMP/git-study/.git/refs/heads
-	master
-2
-d/home/stas/Documents/TMP/git-study/.git/refs
-	heads
-1
-d/home/stas/Documents/TMP/git-study/.git
-	branches
-1
-d/home/stas/Documents/TMP/git-study/.git/branches
+d/home/stas/Downloads
 	..
 0
-d/home/stas/Documents/TMP/git-study/.git
-	refs
-6
-d/home/stas/Documents/TMP/git-study/.git/refs
-	heads
-1
-d/home/stas/Documents/TMP/git-study/.git/refs/heads
-	Experim
-1
-d/home/stas/Documents/TMP/git-study/.git/refs
-	heads
-1
-d/home/stas/Documents/TMP/git-study/.git
-	logs
-4
-d/home/stas/Documents/TMP/git-study/.git/logs
-	refs
-1
-d/home/stas/Documents/TMP/git-study/.git/logs/refs
-	heads
-1
-d/home/stas/Documents/TMP/git-study/.git/logs/refs/heads
-	Experim
-1
-d/home/stas/Documents/TMP/git-study/.git/logs/refs
-	heads
-1
-d/home/stas/Documents/TMP/git-study/.git/logs
-	refs
-1
-d/home/stas/Documents/TMP/git-study/.git
-	logs
-4
-d/home/stas/Documents/TMP/git-study
-	1.txt
-2
-d/home/stas/Documents/TMP
-	git-study
-1
 d/home/stas/Documents
+	TMP
+12
+d/home/stas/Documents/TMP
+	pdf-auth-title-add
+3
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP
+	pdf-auth-title-add
+3
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP
+	pdf-auth-title-add
+3
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	Stepanjants-et-al-2002-The-First-Russian-Fisheries-Research-Expedition.pdf
+1
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf
+3
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf
+	Stepanjants-2006-Medusae-of-the-genus-Rhabdoon-in-the-Arctic-OceanRhabdoon.pdf
+2
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf
+3
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf
+	Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+1
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf
+3
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf
+	Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+1
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf
+3
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf
+	Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+1
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf
+3
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf
+	Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+1
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf
+3
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf
+	Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+1
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	README.md
+10
+d/home/stas/Documents/TMP
+	pdf-auth-title-add
+3
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	README.md
+10
+d/home/stas/Documents/TMP
+	vifm
+6
+d/home/stas/Documents/TMP/vifm
 	..
 0
-d/home/stas/Documents/SITE-LAB
-	.git
-1
-d/home/stas/Documents/SITE-LAB/.git
-	index
-11
-d/home/stas/Documents/SITE-LAB
-	en
+d/home/stas/Documents/TMP
+	vifm
+6
+d/home/stas/Documents
+	TMP
+12
+d/home/stas/Documents/TMP
+	vifm
+6
+d/home/stas/Documents/TMP/vifm
+	..
+0
+d/home/stas/Documents/TMP
+	pdf-auth-title-add
+3
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf
 4
-d/home/stas/Documents/SITE-LAB/en
-	staff.html
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf
+	Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+1
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	J. Renz*, 1, E. L. Markhaseva2 and K. Schulz1
+3
+d/home/stas/Documents/TMP/pdf-auth-title-add/J. Renz*, 1, E. L. Markhaseva2 and K. Schulz1
+	..
+0
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf
+3
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf
+	Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+1
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	..
+0
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+1
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+1
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+1
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	..
+0
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	..
+0
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	..
+0
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	..
+0
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	..
+0
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	..
+0
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf
+3
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf
+	Хлебович-Комендантов-2002-Изменчивость-числа-парагнат-Hediste.pdf
+5
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	..
+0
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	..
+0
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	..
+0
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	..
+0
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf
+	Carroll-et-al-2009-Bivalves-as-indicators-of-environmental-variation-and-potential-anthropogenic-impacts.pdf
+1
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	..
+0
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf
+3
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf
+	Хлебович-Комендантов-2002-Изменчивость-числа-парагнат-Hediste.pdf
 7
-d/home/stas/Documents/SITE-LAB
-	staff
-9
-d/home/stas/Documents/SITE-LAB/staff
-	ivanovan.html
-11
-d/home/stas/Documents/SITE-LAB
-	staff
-9
-d/home/stas/Documents/SITE-LAB/staff
-	ivanovan.html
-11
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	..
+0
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	..
+0
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf
+3
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf
+	Хлебович-Комендантов-2002-Изменчивость-числа-парагнат-Hediste(1).pdf
+7
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	Любин-и-др-2010-Приловы-макрозообентоса.pdf
+6
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf
+3
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf
+	Хлебович-Комендантов-2002-Изменчивость-числа-парагнат-Hediste-1.pdf
+7
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	..
+0
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	..
+0
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf
+3
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf
+	Хлебович-Комендантов-2002-Изменчивость-числа-парагнат-Hediste-1.pdf
+7
+d/home/stas/Documents/TMP/pdf-auth-title-add
+	pdf_out
+4
+d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+	Stepanjants-et-al-2002-The-First-Russian-Fisheries-Research-Expedition.pdf
+4
 d
 
 # Right window history (oldest to newest):
-D/home/stas/Downloads/Kiko-plus-master/images
-	..
-0
-D/home/stas/Downloads/Kiko-plus-master
-	tags
-8
-D/home/stas/Downloads/Kiko-plus-master/tags
-	..
-0
-D/home/stas/Downloads/Kiko-plus-master
-	images
-7
-D/home/stas/Downloads/Kiko-plus-master/images
-	image.png
-1
-D/home/stas/Downloads/Kiko-plus-master
-	images
-7
-D/home/stas/Downloads
-	Kiko-plus-master
-4
-D/home/stas/Downloads/Kiko-plus-master
-	_posts
-3
-D/home/stas/Downloads/Kiko-plus-master/_posts
-	2013-08-16-code-highlighting-post.md
-3
-D/home/stas/Downloads/Kiko-plus-master
-	.sass-cache
-1
-D/home/stas/Downloads/Kiko-plus-master/.sass-cache
-	..
-0
-D/home/stas/Downloads/Kiko-plus-master
-	assets
-8
-D/home/stas/Downloads
-	Kiko-plus-master
-1
-D/home/stas/Downloads/Kiko-plus-master
-	images
-9
-D/home/stas/Downloads/Kiko-plus-master/images
-	image.png
-1
-D/home/stas/Downloads/Kiko-plus-master
-	images
-9
-D/home/stas/Downloads/Kiko-plus-master/images
-	image.png
-1
-D/home/stas/Downloads/Kiko-plus-master
-	_includes
-4
-D/home/stas/Downloads/Kiko-plus-master/_includes
-	footer.html
-2
-D/home/stas/Downloads/Kiko-plus-master
-	_includes
-4
-D/home/stas/Downloads
-	Kiko-plus-master
-1
-D/home/stas/Videos
-	Monty.Python's.Flying.Circus.1969-1974.XviD.DVDRip-weconty
-2
-D/home/stas/Videos/Monty.Python's.Flying.Circus.1969-1974.XviD.DVDRip-weconty
-	MPFC.Season-1.(1969-1970)
-3
-D/home/stas/Videos/Monty.Python's.Flying.Circus.1969-1974.XviD.DVDRip-weconty/MPFC.Season-1.(1969-1970)
-	MPFC-1.05.XviD.DVDRip.[rus.eng]_weconty(V.Zavgorodniy).mp3
-20
-D/home/stas/Downloads
-	zebra-gh-pages
-5
-D/home/stas/Downloads/zebra-gh-pages
-	_config.yml
-15
-D/usr/local/tmp
-	000444
-4
-D/usr/local
-	tmp
-1
-D/usr/local/tmp
-	000777
-8
-D/home/stas/Downloads
-	animation-package.pdf
-37
-D/usr/share/doc/git
-	RelNotes
-1
-D/usr/share/doc/git/RelNotes
-	..
-0
-D/usr/share/doc/git
-	contrib
-2
-D/usr/share/doc/git/contrib
-	examples
-6
-D/usr/share/doc/git/contrib/examples
-	..
-0
-D/usr/share/doc/git/contrib
-	fast-import
-7
-D/usr/share/doc/git/contrib/fast-import
-	..
-0
 D/usr/share/doc/git/contrib
 	git-jump
-8
+28
 D/usr/share/doc/git/contrib/git-jump
 	..
-0
+20
 D/usr/share/doc/git/contrib
 	vim
-18
+38
 D/usr/share/doc/git/contrib/vim
 	README
-1
+21
 D/usr/share/doc/git/contrib
 	vim
-18
+38
 D/usr/share/doc/git
 	contrib
-2
+22
 D/usr/share/doc
 	git-man
-37
+57
 D/usr/share/doc/git-man
 	changelog.Debian.gz
-1
+21
 D/usr/share/doc
 	git-man
-37
+57
 D/usr/share/doc/git-man
 	changelog.Debian.gz
-1
+21
 D/usr/share/doc
 	gir1.2-mate-panel
-35
+55
 D/usr/share
 	gitweb
-37
+57
 D/usr/share/gitweb
 	static
-1
+21
 D/usr/share/gitweb/static
 	..
-0
+20
 D/usr/share/gitweb
 	static
-1
+21
 D/usr/share
 	git-core
-37
+57
 D/usr/share/git-core
 	templates
-1
+21
 D/usr/share/git-core/templates
 	..
-0
+20
 D/usr/share/git-core
 	contrib
-2
+22
 D/usr/share/git-core/contrib
 	..
-0
+20
 D/usr/share/git-core
 	contrib
-2
+22
 D/usr/share/git-core/contrib
 	hooks
-1
+21
 D/usr/share/git-core/contrib/hooks
 	..
-0
+20
 D/usr/share/git-core/contrib
 	hooks
-1
+21
 D/usr/share/git-core
 	contrib
-2
+22
 D/usr/share
 	git-core
-37
+57
 D/usr
 	local
-6
+26
 D/usr/local
 	share
-6
+26
 D/usr/local/share
 	man
-7
+27
 D/usr/local/share/man
 	..
-0
+20
 D/usr/local/share
 	doc
-5
+25
 D/usr/local/share/doc
 	vifm
-1
+21
 D/usr/local/share/doc/vifm
 	..
-0
+20
 D/usr/local/share/doc
 	vifm
-1
+21
 D/usr/local/share
 	man
-7
+27
 D/usr/local/share/man
 	..
-0
+20
 D/usr/local/share
 	emacs
-11
+31
 D/usr/local/share/emacs
 	..
-0
+20
 D/usr/local/share
 	emacs
-11
+31
 D/usr/local
 	bin
-2
+22
 D/usr
 	local
-6
+26
 D/usr/local
 	lib
-3
+23
 D/usr/local/lib
 	..
-0
+20
 D/usr/local
 	lib
-3
+23
 D/usr
 	local
-6
+26
 D/
 	etc
-3
+23
 D/etc
 	cups
-1
+21
 D/
 	etc
-3
+23
 D/home/stas/Downloads
 	..
-0
+20
 D/media/stas
 	..
-0
+20
 D/home/stas/Music
 	Unknown Artist
-3
+23
 D/home/stas/Music/Unknown Artist
 	..
-0
+20
 D/home/stas/Music
 	Евгений Дога - Избранное
-1
+21
 D/home/stas/Music/Евгений Дога - Избранное
 	CD2
-1
+21
 D/home/stas/Music/Евгений Дога - Избранное/CD2
 	..
-0
+20
 D/home/stas/Music/Евгений Дога - Избранное
 	CD1
-2
+22
 D/home/stas/Music/Евгений Дога - Избранное/CD1
 	01_Evgeniy Doga - Mojj Laskovyjj i Nezhnyjj Zver'
-5
+25
 D/home/stas/Music/Евгений Дога - Избранное/CD1/01_Evgeniy Doga - Mojj Laskovyjj i Nezhnyjj Zver'
 	..
-0
+20
 D/home/stas/Music/Евгений Дога - Избранное/CD1
 	01_Evgeniy Doga - Mojj Laskovyjj i Nezhnyjj Zver'
-5
+25
 D/home/stas/Music/Евгений Дога - Избранное
 	CD2
-1
+21
 D/home/stas/Music/Евгений Дога - Избранное/CD2
 	05_E.Doga - Koroleva Margo
-2
+22
 D/home/stas/Music/Евгений Дога - Избранное/CD2/05_E.Doga - Koroleva Margo
 	05. Thoughtful Mood And The Road.mp3
-2
+22
+D/home/stas/Documents/SITE-LAB/papers
+	Ivanova-Grebelniy-2014-On-the-food-of-the-Antarctic-sea-anemone-EMBS-abstract.pdf
+-4
+D/home/stas/.config/vifm
+	..
+-6
+D/home/stas/Downloads
+	github-git-cheat-sheet.pdf
+-1
+D/home/stas/.config/vifm
+	scripts
+-3
+D/home/stas/.config/vifm/scripts
+	README
+-5
+D/home/stas/.config/vifm
+	scripts
+-3
+D/home/stas/Downloads
+	Image-ExifTool-10.28
+-5
+D/home/stas/Downloads/Image-ExifTool-10.28
+	META.yml
+8
+D/home/stas/.config/vifm
+	marks
+1
+D/home/stas/Documents/SITE-LAB/papers
+	Любин-и-др-2010-Приловы-макрозообентоса.pdf
+21
+D/home/stas/Documents
+	_ETC
+-1
+D/home/stas
+	.R
+21
+D/home/stas/.R
+	..
+-6
+D/home/stas
+	R
+20
+D/home/stas/R
+	..
+-6
+D/home/stas
+	.Rprofile
+28
+D/media/stas
+	SSS
+-5
+D/media/stas/SSS
+	..
+-6
+D/media/stas
+	..
+-6
+D/home/stas/Downloads
+	..
+-6
+D/home/stas/Videos
+	Monty.Python's.Flying.Circus.1969-1974.XviD.DVDRip-weconty
+-4
+D/home/stas/Videos/Monty.Python's.Flying.Circus.1969-1974.XviD.DVDRip-weconty
+	MPFC.Season-1.(1969-1970)
+-3
+D/home/stas/Downloads
+	..
+-6
+D/home/stas/Videos
+	РЯЗАНОВ
+-5
+D/home/stas/Videos/РЯЗАНОВ
+	..
+-6
+D/home/stas/Videos
+	РЯЗАНОВ
+-5
+D/home/stas/Videos/РЯЗАНОВ
+	..
+-6
+D/home/stas/Videos
+	РЯЗАНОВ
+-5
+D/home/stas/Documents/GitHub/stas-malavin.github.io
+	_drafts
+-5
+D/home/stas/Documents/GitHub/stas-malavin.github.io/_drafts
+	set-author-and-title-metadata-to-pdf-from-filename-in-R.md
+-5
+D/home/stas/Documents/SITE-LAB
+	papers
+-5
+D/home/stas/Documents/SITE-LAB/papers
+	Меркульев-2015-Забытый-вид-из-Берингова-пролива–Buccinum-rodgersi.pdf
+10
+D/home/stas
+	.R
+16
+D/home/stas/.R
+	rstudio
+-5
+D/home/stas/.R/rstudio
+	keybindings
+-5
+D/home/stas/.R/rstudio/keybindings
+	rstudio_bindings.json
+-3
+D/home/stas/Downloads
+	..
+-6
 D
 
 # Command line history (oldest to newest):
 :mkdir _FICTION
-:!bash %c
-:!sudo umount
-:!sudo umount %c
-:cd /var/lib/apt/lists
-:!sudo rm %f
-:mkdir PHOTO
-:mkdir LDM.REF
-:mkdir CRV.REF
-:vim Gp1.txt
-:cd /mnt/
 :let
 :alink
 :cd /usr
@@ -838,7 +825,6 @@ D
 :cd /usr/local/tm
 :!convert %c -o Белинков-Россия-и-Черт.epub
 :!fbre
-:ej
 :mkdir _drafts
 :!git add .
 :mkdir assets
@@ -875,6 +861,16 @@ D
 :!git checkout master
 :!vim %c
 :!git branch
+:!git commit -a -m '~filetypes: pdf view to pdfinfo'
+:vim set-author-and-title-metadata-to-pdf-from-filename-in-R.md
+:mkdir PDF-AUTHORIZING
+:mkdir pdf
+:vim .gitignore
+:ej
+:mkdir pdf_out
+:map W :!pdftotext %c - %m<cr>
+:!pdftotext %c - %m
+:map WW :!pdftotext %c - %m<cr>
 
 # Search history (oldest to newest):
 /.co
@@ -984,8 +980,9 @@ D
 /.epub
 /blog
 /git
-/.
 /.vimrc
+/Key
+/.
 
 # Prompt history (oldest to newest):
 pPopulation-extract.pdf
@@ -1192,11 +1189,17 @@ p000333
 p000222
 p000666
 p000777
+ppdf-auth-title-add
+ppdf-auth-title-add.Rproj
+ppdf
+p_Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+pRenz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+pХлебович-Комендантов-2002-Изменчивость-числа-парагнат-Hediste-1.pdf
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/mnt/DATA/.vifm-Trash-1000/000__site
+""/mnt/DATA/.vifm-Trash-1000/001_Хлебович-Комендантов-2002-Изменчивость-числа-парагнат-Hediste.pdf
 
 # Directory stack (oldest to newest):
 
@@ -2182,7 +2185,73 @@ t/mnt/DATA/.vifm-Trash-1000/000_var-test.md
 t/mnt/DATA/.vifm-Trash-1000/000_image.png
 	/home/stas/Documents/GitHub/stas-malavin.github.io/images/image.png
 t/mnt/DATA/.vifm-Trash-1000/000__site
-	/home/stas/Documents/GitHub/stas-malavin.github.io/_drafts/_site
+	/home/stas/Downloads/Image-ExifTool-10.28/_site
+t/mnt/DATA/.vifm-Trash-1000/000_.git
+	/home/stas/Documents/TMP/PDF-AUTHORIZING/.git
+t/mnt/DATA/.vifm-Trash-1000/000_tidyverse-study
+	/home/stas/Documents/TMP/tidyverse-study
+t/mnt/DATA/.vifm-Trash-1000/000_Хлебович-Комендантов-2002-Изменчивость-числа-парагнат-Hediste.txt
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf/Хлебович-Комендантов-2002-Изменчивость-числа-парагнат-Hediste.txt
+t/mnt/DATA/.vifm-Trash-1000/001_Хлебович-Комендантов-2002-Изменчивость-числа-парагнат-Hediste.txt
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf/Хлебович-Комендантов-2002-Изменчивость-числа-парагнат-Hediste.txt
+t/mnt/DATA/.vifm-Trash-1000/000_Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.txt
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf/Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.txt
+t/mnt/DATA/.vifm-Trash-1000/000_Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+	/home/stas/Documents/TMP/pdf-auth-title-add/Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf_original
+	/home/stas/Documents/TMP/pdf-auth-title-add/Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf_original
+t/mnt/DATA/.vifm-Trash-1000/001_Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+	/home/stas/Documents/TMP/pdf-auth-title-add/Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+t/mnt/DATA/.vifm-Trash-1000/001_Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf_original
+	/home/stas/Documents/TMP/pdf-auth-title-add/Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf_original
+t/mnt/DATA/.vifm-Trash-1000/000__Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+	/home/stas/Documents/TMP/pdf-auth-title-add/_Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+t/mnt/DATA/.vifm-Trash-1000/002_Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+	/home/stas/Documents/TMP/pdf-auth-title-add/Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+t/mnt/DATA/.vifm-Trash-1000/003_Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+	/home/stas/Documents/TMP/pdf-auth-title-add/Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+t/mnt/DATA/.vifm-Trash-1000/002_Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf_original
+	/home/stas/Documents/TMP/pdf-auth-title-add/Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf_original
+t/mnt/DATA/.vifm-Trash-1000/000_J. Renz*, 1, E. L. Markhaseva2 and K. Schulz1
+	/home/stas/Documents/TMP/pdf-auth-title-add/J. Renz*, 1, E. L. Markhaseva2 and K. Schulz1
+t/mnt/DATA/.vifm-Trash-1000/004_Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out/Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Stepanjants-et-al-2002-The-First-Russian-Fisheries-Research-Expedition.pdf
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out/Stepanjants-et-al-2002-The-First-Russian-Fisheries-Research-Expedition.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Stepanjants-et-al-2002-The-First-Russian-Fisheries-Research-Expedition.pdf_original
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out/Stepanjants-et-al-2002-The-First-Russian-Fisheries-Research-Expedition.pdf_original
+t/mnt/DATA/.vifm-Trash-1000/000_Stepanjants-et-al-2002-The-First-Russian-Fisheries-Research-Expedition.txt
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out/Stepanjants-et-al-2002-The-First-Russian-Fisheries-Research-Expedition.txt
+t/mnt/DATA/.vifm-Trash-1000/005_Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out/Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+t/mnt/DATA/.vifm-Trash-1000/006_Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+	/home/stas/Documents/TMP/pdf-auth-title-add/Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_pdf_out
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+t/mnt/DATA/.vifm-Trash-1000/007_Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out/Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+t/mnt/DATA/.vifm-Trash-1000/001_pdf_out
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
+t/mnt/DATA/.vifm-Trash-1000/008_Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out/Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+t/mnt/DATA/.vifm-Trash-1000/009_Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out/Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+t/mnt/DATA/.vifm-Trash-1000/010_Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out/Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+t/mnt/DATA/.vifm-Trash-1000/011_Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out/Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Stepanjants-2006-Medusae-of-the-genus-Rhabdoon-in-the-Arctic-OceanRhabdoon.pdf
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out/Stepanjants-2006-Medusae-of-the-genus-Rhabdoon-in-the-Arctic-OceanRhabdoon.pdf
+t/mnt/DATA/.vifm-Trash-1000/001_Stepanjants-et-al-2002-The-First-Russian-Fisheries-Research-Expedition.pdf
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out/Stepanjants-et-al-2002-The-First-Russian-Fisheries-Research-Expedition.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Любин-и-др-2010-Приловы-макрозообентоса.pdf
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out/Любин-и-др-2010-Приловы-макрозообентоса.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Хлебович-Комендантов-2002-Изменчивость-числа-парагнат-Hediste.pdf
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out/Хлебович-Комендантов-2002-Изменчивость-числа-парагнат-Hediste.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Barbashova-Malavin-Kurashov-2013-M.possolskii.txt
+	/home/stas/Documents/SITE-LAB/papers/Barbashova-Malavin-Kurashov-2013-M.possolskii.txt
+t/mnt/DATA/.vifm-Trash-1000/001_Хлебович-Комендантов-2002-Изменчивость-числа-парагнат-Hediste.pdf
+	/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out/Хлебович-Комендантов-2002-Изменчивость-числа-парагнат-Hediste.pdf
 
 # State:
 f
