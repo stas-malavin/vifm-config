@@ -12,17 +12,17 @@
 " %D the other window directory name.
 " %m run the command in a menu window
 
-command! df df -h %m 2> /dev/null
+command! df df -h %m 2>/dev/null
 command! diff vim -d %f %F
 command! run !! ./%f
 command! make !!make
 command! vgrep vim "+grep %a"
 command! nano mate-terminal -e "nano %a"
 command! vim mate-terminal -e "vim %a"
-command! ff firefox > /dev/null &
-command! gimp gimp %a > /dev/null &
-command! pdf zathura %c & >/dev/null
-command! R mate-terminal "-e R"
+command! ff firefox >/dev/null &
+command! gimp gimp %a >/dev/null &
+command! pdf zathura %c >/dev/null &
+command! R mate-terminal -e "R"
 command! zipq zip -r %d:t %f
 command! zip zip %a -r %f
 command! rb reboot
@@ -31,3 +31,5 @@ command! vol alsamixer
 command! olli curlftpfs -o user=amphipod:amphipod amphipod.dnsalias.net -r /mnt/OLLI
 command! cafa curlftpfs -o user=cafaca_stas kryton.beget.ru ~/Documents/LMR_SITE/temp.cafa.su
 command! win sudo mount %a /dev/sda3 /mnt/Win
+command! jek mate-terminal -e "jekyll serve --port=4321"
+command! jekd mate-terminal -e "jekyll serve --port=4321 --drafts"

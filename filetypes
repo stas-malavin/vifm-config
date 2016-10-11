@@ -129,13 +129,14 @@ filetype *.o nm %f | less
 
 " Images
 filetype *.xcf gimp %c 2> /dev/null &
-filetype *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm,*.tif,*.tiff feh -Sfilename --verbose --draw-filename --draw-tinted --scale-down --start-at %c * 2>/dev/null & 
+filetype *.bmp,*.jpg,*.jpeg,*.png,*.xpm,*.tif,*.tiff feh -Sfilename --verbose --draw-filename --draw-tinted --scale-down --start-at %c * 2>/dev/null & 
 "        \ {View in feh}
 "        \ {View in sxiv}
 "        \ sxiv,
 "        \ {View in gpicview}
 "        \ gpicview %c,
 fileviewer *.bmp,*.jpg,*.jpeg,*.png,*.gif,*.xpm convert -identify %f -verbose /dev/null
+filetype *.gif eom %f 2>/dev/null &
 
 " MD5
 filetype *.md5
