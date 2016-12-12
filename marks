@@ -1,7 +1,8 @@
 "Marks for vifm
 
-" My system: mark capital letters for system folders and anything outside Documents
-" Mark small case letters for Documents folders
+"My system:
+"mark capital letters for system folders and anything outside Documents
+"mark small case letters for Documents folders
 
 mark B /bin
 mark b ~/Documents/GitHub/stas-malavin.github.io
@@ -22,6 +23,7 @@ mark p ~/Pictures
 mark r ~/R/x86_64-pc-linux-gnu-library/
 mark s ~/Documents/SITE-LAB
 mark t ~/Documents/TRANSLATION
+mark T ~/Documents/GDrive/Text-Mining
 mark v ~/Videos
 mark V ~/.config/vifm
 mark W /mnt/WIN/Users/Stas.Malavin
