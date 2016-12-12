@@ -51,12 +51,14 @@ nmap s :sort<cr>
 nmap w :view<cr>
 :help c
 
-nmap VV :!mate-terminal -e "vim %c"<cr>
-nmap GI :!gimp %f &<cr>
 nmap AA :!audacious %f >/dev/null &<cr>
-nmap WW :!pdftotext %c - %m<cr>
-nmap RB :rb<cr>
 nmap co :!zip -r %c:r.zip %f<cr>
+nmap EE :ej<cr>
+nmap GI :!gimp %f &<cr>
+nmap LL :alink!<cr>
+nmap RB :rb<cr>
+nmap VV :!mate-terminal -e "vim %c"<cr>
+nmap WW :!pdftotext %c - %m<cr>
 
 "nmap vo :vol %s<cr>
 "nmap pr :!mate-terminal -e htop<cr>

@@ -8,17 +8,20 @@ mark b ~/Documents/GitHub/stas-malavin.github.io
 mark C ~/.config
 mark d ~/Documents
 mark D ~/Downloads
-mark e /home/stas/Documents/EnviroSurveR
-mark g /home/stas/Documents/GAMMARACANTHUS
+mark e ~/Documents/EnviroSurveR
+mark f ~/Documents/_ETC/FREELANCE
+mark g ~/Documents/GAMMARACANTHUS
 mark G ~/GitHub
 mark h ~/
 mark H ~/
 mark l ~/Documents/БИБЛИОТЕКА
+mark L ~/Calibre\ Library
 mark m ~/Music
 mark M /media/stas
 mark p ~/Pictures
-mark r /home/stas/R/x86_64-pc-linux-gnu-library/
+mark r ~/R/x86_64-pc-linux-gnu-library/
 mark s ~/Documents/SITE-LAB
+mark t ~/Documents/TRANSLATION
 mark v ~/Videos
 mark V ~/.config/vifm
 mark W /mnt/WIN/Users/Stas.Malavin

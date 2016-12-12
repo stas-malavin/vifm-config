@@ -109,7 +109,7 @@ filetype *.wav,*.mp3,*.flac,*.ogg,*.m4a mate-terminal -e mplayer %c
 fileviewer *.mp3 mp3info
 
 " Video
-filetype *.avi,*.mp4,*.wmv,*.dat,*.3gp,*.ogv,*.mkv,*.mpg,*.vob,*.flv,*.webm
+filetype *.avi,*.mp4,*.wmv,*.dat,*.3gp,*.ogv,*.mkv,*.mpg,*.vob,*.flv,*.webm,*.m4v
         \ vlc %c >/dev/null &
 "        \ {View using ffplay}
 "        \ ffplay -fs %c,

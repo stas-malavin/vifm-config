@@ -27,9 +27,13 @@ command! zipq zip -r %d:t %f
 command! zip zip %a -r %f
 command! rb reboot
 command! ej eject -v %d/%c
+command! um umount %c
 command! vol alsamixer
-command! olli curlftpfs -o user=amphipod:amphipod amphipod.dnsalias.net -r /mnt/OLLI
+command! olli : execute '!curlftpfs -o user=amphipod:amphipod amphipod.dnsalias.net -r /mnt/OLLI'
+            \| cd /mnt/OLLI
 command! cafa curlftpfs -o user=cafaca_stas kryton.beget.ru ~/Documents/LMR_SITE/temp.cafa.su
 command! win sudo mount %a /dev/sda3 /mnt/Win
 command! jek mate-terminal -e "jekyll serve --port=4321"
 command! jekd mate-terminal -e "jekyll serve --port=4321 --drafts"
+command! rclone rclone sync %d remote:%d:t
+

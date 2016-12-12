@@ -14,7 +14,7 @@
 =fusehome=/tmp/vifm_FUSE/
 =nogdefault
 =grepprg=grep\ -n\ -H\ -I\ -r\ %i\ %a\ %s
-=history=100
+=history=341
 =hlsearch
 =noiec
 =ignorecase
@@ -43,8 +43,8 @@
 =vicmd=vim
 =vixcmd=
 =wrapscan
-=[viewcolumns=-{name}..,10%{size}.,-8%{ctime}.
-=]viewcolumns=-{name}..,10%{size}.,-8%{ctime}.
+=[viewcolumns=-{name}..,10%{size}.,-12%{mtime}.
+=]viewcolumns=-{name}..,10%{size}.,-12%{mtime}.
 =[sortgroups=
 =]sortgroups=
 =[nolsview
@@ -87,7 +87,11 @@
 'H
 	/home/stas/
 	..
-1461060159
+1477499181
+'L
+	/home/stas/Calibre Library
+	..
+1476645971
 'M
 	/media/stas
 	..
@@ -99,7 +103,7 @@
 'V
 	/home/stas/.config/vifm
 	..
-1475517115
+1477987432
 'W
 	/mnt/WIN/Users/Stas.Malavin
 	..
@@ -121,9 +125,9 @@
 	..
 1465880414
 'f
-	/home/stas/Documents/FREELANCE
+	/home/stas/Documents/_ETC/FREELANCE
 	..
-1461060159
+1477499181
 'g
 	/home/stas/Documents/GAMMARACANTHUS
 	..
@@ -131,7 +135,7 @@
 'h
 	/home/stas/
 	..
-1473611514
+1477499181
 'l
 	/home/stas/Documents/БИБЛИОТЕКА
 	..
@@ -140,6 +144,10 @@
 	/home/stas/Music
 	..
 1473611514
+'o
+	/home/stas/Downloads
+	Baur, H. & Leuenberger, C. (2011) Analysis of ratios in multivariate
+1478859684
 'p
 	/home/stas/Pictures
 	..
@@ -152,6 +160,14 @@
 	/home/stas/Documents/SITE-LAB
 	..
 1474531315
+'t
+	/home/stas/Documents/TRANSLATION
+	..
+1477251714
+'u
+	/home/stas/Documents/GitHub/stas-malavin.github.io/_drafts
+	Plot
+1477310839
 'v
 	/home/stas/Videos
 	..
@@ -164,718 +180,970 @@ v2
 ov
 m-1
 l12
-r-11,2
+r-10,2
 
 # Left window history (oldest to newest):
-d/home/stas/Documents/TMP/pdf-auth-title-add/pdf
-	Хлебович-Комендантов-2002-Изменчивость-числа-парагнат-Hediste-1.pdf
-7
-d/home/stas/Documents/TMP/pdf-auth-title-add
-	pdf_out
-4
-d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
-	..
-0
-d/home/stas/Documents/TMP/pdf-auth-title-add
-	pdf
-3
-d/home/stas/Documents/TMP/pdf-auth-title-add/pdf
-	Stepanyants-et-al-2002-The-First-Russian-Fisheries-Research-Expedition.pdf
-5
-d/home/stas/Documents/TMP/pdf-auth-title-add
-	pdf_out
-4
-d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
-	..
-0
-d/home/stas/Documents/TMP/pdf-auth-title-add
-	pdf
-3
-d/home/stas/Documents/TMP/pdf-auth-title-add/pdf
-	Хлебович-Комендантов-2002-Изменчивость-числа-парагнат-Hediste.pdf
-7
-d/home/stas/Documents/TMP/pdf-auth-title-add
-	pdf_out
-4
-d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
-	Хлебович-Комендантов-2002-Изменчивость-числа-парагнат-Hediste.pdf
-7
-d/home/stas/Documents/TMP/pdf-auth-title-add
-	pdf_out_site_papers
-5
-d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out_site_papers
-	..
-0
-d/home/stas/Documents/TMP/pdf-auth-title-add
-	pdf
-3
-d/home/stas/Documents/TMP/pdf-auth-title-add/pdf
-	Хлебович-Комендантов-2002-Изменчивость-числа-парагнат-Hediste.pdf
-7
-d/home/stas/Documents/TMP/pdf-auth-title-add
-	pdf_out
-4
-d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
-	..
-0
-d/home/stas/Documents/TMP/pdf-auth-title-add
-	pdf1
-4
-d/home/stas/Documents/TMP/pdf-auth-title-add/pdf1
-	..
-0
-d/home/stas/Documents/TMP/pdf-auth-title-add
-	pdf1
-4
-d/home/stas/Documents/TMP/pdf-auth-title-add/pdf1
-	Bozhenova-Sheiko-2001-Additions-to-the-fauna-of-hydroids-of-the-family-Sertulariidae-Kamchatka.pdf
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/MESSAGES_TW/2016-11-16
+	Arsenal
 1
-d/home/stas/Documents/TMP/pdf-auth-title-add
-	pdf_out
-5
-d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
-	..
-0
-d/home/stas/Documents/TMP/pdf-auth-title-add
-	pdf1
+d/home/stas/Documents/GAMMARACANTHUS
+	SET1
 4
-d/home/stas/Documents/TMP/pdf-auth-title-add/pdf1
-	Bozhenova-Sheiko-2001-Additions-to-the-fauna-of-hydroids-of-the-family-Sertulariidae-Kamchatka.pdf
+d/home/stas/Calibre Library
+	Alieksandr Kuprin
+2
+d/home/stas/Calibre Library/Alieksandr Kuprin
+	Listrighony (355)
 1
-d/home/stas/Documents/TMP/pdf-auth-title-add
-	pdf1
+d/home/stas/Calibre Library/Alieksandr Kuprin/Listrighony (355)
+	Listrighony - Alieksandr Kuprin.epub
+2
+d/home/stas/Documents/GAMMARACANTHUS
+	SET1
 4
-d/home/stas/Documents/TMP/pdf-auth-title-add/pdf1
-	Bozhenova-Sheiko-2001-Additions-to-the-fauna-of-hydroids-of-the-family-Sertulariidae-Kamchatka.pdf
+d/home/stas/Documents/GAMMARACANTHUS/SET1
+	PHOTO
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	SET2
+17
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PR5d
+13
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5d
+	KER1-PR5d.tif
+14
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	He
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/He
+	CHU1-He.tif
 1
-d/home/stas/Documents/TMP/pdf-auth-title-add
-	pdf_out
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PR5cx
+12
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5cx
+	CHU1-PR5cx.tif
+1
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PR5cx
+12
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5cx
+	CHU1-PR5cx.tif
+1
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PR5d
+13
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5d
+	CHU2-PR5d.tif
+2
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PR5d
+13
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	SET2
+17
+d/home/stas/Documents/GAMMARACANTHUS/SET1
+	PHOTO
 5
-d/home/stas/Documents/TMP/pdf-auth-title-add/pdf_out
-	..
-0
-d/home/stas/Documents/TMP/pdf-auth-title-add
-	pdf_out
-5
-d/home/stas/Documents/TMP
-	pdf-auth-title-add
-3
-d/home/stas/Documents
-	GAMMARACANTHUS
-4
 d/home/stas/Documents/GAMMARACANTHUS
 	LIT
 3
 d/home/stas/Documents/GAMMARACANTHUS/LIT
-	Sutcliffe-2000-Subspecies-morphs-clines-Gammarus-duebeni.pdf
+	Bousfield_1989_Pontoporeia_&_Gammaracanthus.pdf
+6
+d/home/stas/Documents/GAMMARACANTHUS
+	BOX_5_Gammaracanthus
+1
+d/home/stas/Documents/GAMMARACANTHUS/BOX_5_Gammaracanthus
+	Gammaracanthus_loricatus_01.jpg
+1
+d/home/stas/Documents/GAMMARACANTHUS
+	SET1
+4
+d/home/stas/Documents/GAMMARACANTHUS/SET1
+	PHOTO
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	PR5cx
+15
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/PR5cx
+	AES1-PR5cx.tif
+1
+d/home/stas/Documents/_ETC/FREELANCE
+	Twit_RBC
+12
+d/home/stas/Documents/_ETC/FREELANCE/Twit_RBC
+	NewTerms-2016-11-21.csv
+17
+d/home/stas/Documents/_ETC/FREELANCE
+	TMP
+11
+d/home/stas/Documents/GAMMARACANTHUS
+	SEQ
+4
+d/home/stas/Documents/GAMMARACANTHUS/SEQ
+	C190_LCO_G06.ab1
+36
+d/home/stas/Documents/_ETC/FREELANCE
+	..
+0
+d/home/stas/Documents/GitHub/stas-malavin.github.io
+	_drafts
+3
+d/home/stas/Documents/GitHub/stas-malavin.github.io/_drafts
+	2013-08-12-sample-link-post.md
+2
+d/home/stas/Documents/GitHub/stas-malavin.github.io
+	_drafts
+3
+d/home/stas/Documents/_ETC/FREELANCE
+	Twit_RBC
+12
+d/home/stas/Documents/_ETC/FREELANCE/Twit_RBC
+	NewTerms-2016-11-21.xlsx
+18
+d/home/stas/Documents
+	BRACON
+3
+d/home/stas/Documents/BRACON
+	FIN1
+2
+d/home/stas/Documents/BRACON/FIN1
+	PLOTS
+4
+d/home/stas/Documents/BRACON/FIN1/PLOTS
+	..
+0
+d/home/stas/Documents/BRACON/FIN1
+	PLOTS
+4
+d/home/stas/Documents/BRACON
+	FIN
+1
+d/home/stas/Documents/BRACON/FIN
+	Оцифровка-заднее.png
+15
+d/home/stas/Documents/BRACON
+	FIN1
+2
+d/home/stas/Documents/BRACON/FIN1
+	SHAPES
+6
+d/home/stas/Documents/BRACON/FIN1/SHAPES
+	F
+1
+d/home/stas/Documents/BRACON/FIN1/SHAPES/F
+	002.txt
+1
+d/home/stas/Documents/BRACON/FIN1/SHAPES
+	F
+1
+d/home/stas/Documents/BRACON/FIN1
+	ERROR
+3
+d/home/stas/Documents/BRACON
+	FIN
+1
+d/home/stas/Documents/BRACON/FIN
+	WINGS
+3
+d/home/stas/Documents/BRACON/FIN/WINGS
+	001-187fl.jpg
+1
+d/home/stas/Documents/BRACON/FIN
+	WINGS
+3
+d/home/stas/Documents/BRACON
+	FIN1
+2
+d/home/stas/Documents/BRACON/FIN1
+	SHAPES
+6
+d/home/stas/Documents/BRACON/FIN1/SHAPES
+	F
+1
+d/home/stas/Documents/BRACON/FIN1
+	SHAPES
+6
+d/home/stas/Documents/BRACON/FIN1/SHAPES
+	001-187fl.txt
+3
+d/home/stas/Documents/BRACON/FIN1
+	Wings_meas.xlsx
+34
+d/home/stas/Documents/_ETC/FREELANCE
+	ALEXANDR_SPORT
+3
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
+	TABLES
+9
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES
+	..
+0
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
+	TABLES
+10
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES
+	Everton.xlsx
+6
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
+	R
 8
+d/home/stas/Documents/GAMMARACANTHUS
+	..
+0
+d/home/stas/Documents/БИБЛИОТЕКА
+	_STAT
+4
+d/home/stas/Documents/БИБЛИОТЕКА/_STAT
+	R
+10
+d/home/stas/Documents/БИБЛИОТЕКА/_STAT/R
+	Heiberger, Neuwirth 2009 R Through Excel. A Spreadsheet Interface for Statistics, Data Analysis, and Graphics.pdf
+25
+d/home/stas/Documents/_ETC/FREELANCE
+	BASH_EXAMPLES
+4
+d/home/stas/Documents/GAMMARACANTHUS
+	SET1
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1
+	PLOTS
+6
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1
+	Gmcnt-char-map.xlsx
+12
 d/home/stas/Documents/GAMMARACANTHUS
 	LIT
 3
-d/home/stas/Documents
-	БИБЛИОТЕКА
-13
-d/home/stas/Documents/БИБЛИОТЕКА
-	MORPH-LIT
+d/home/stas/Documents/GAMMARACANTHUS/LIT
+	1952-Ломакина-амфиподы-1.pdf
 6
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT
-	_LIT_REVIEW
-1
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT/_LIT_REVIEW
-	NOTES
-1
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT/_LIT_REVIEW/NOTES
-	Стекольников_2003_Hirsutiella.txt
-10
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT/_LIT_REVIEW
-	plan.todo
-6
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT
-	_LIT_REVIEW
-1
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT/_LIT_REVIEW
-	plan.todo
-6
-d/home/stas/Documents
-	TMP
-12
-d/home/stas/Documents/TMP
-	pdf-auth-title-add
-3
-d/home/stas/Documents/БИБЛИОТЕКА
-	_BOOKS
-1
-d/home/stas/Documents/БИБЛИОТЕКА/_BOOKS
-	..
-0
-d/home/stas/Documents
-	TMP
-12
-d/home/stas/Documents/TMP
-	pdf-auth-title-add
-3
-d/home/stas/Documents/TMP/pdf-auth-title-add
-	pdf1
-4
-d/home/stas/Documents/TMP/pdf-auth-title-add/pdf1
-	Bozhenova-Sheiko-2001-Additions-to-the-fauna-of-hydroids-of-the-family-Sertulariidae-Kamchatka.pdf
-1
-d/home/stas/Documents/TMP/pdf-auth-title-add
-	pdf_out
+d/home/stas/Documents/GAMMARACANTHUS
+	SET1
 5
-d/home/stas/Documents/BRACON/FIN1/PLOTS
-	Fsum-clust.gif
-7
-d/home/stas/Documents/BRACON/FIN1
-	Osc-09.10.16.xls
-14
-d/home/stas/Videos
-	Jizn.kak.dom.2001.DVDRip
-1
-d/home/stas/Documents/GitHub/stas-malavin.github.io
-	_drafts
-2
-d/home/stas/Documents/GitHub/stas-malavin.github.io/_drafts
-	set-author-and-title-metadata-to-pdf-from-filename-in-R.md
+d/home/stas/Documents/GAMMARACANTHUS/SET1
+	PLOTS
 6
-d/home/stas/Documents/GitHub/stas-malavin.github.io
-	_drafts
-2
-d/home/stas/Documents/GitHub/stas-malavin.github.io/_drafts
-	correlation-exploration.md
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS
+	Cx5_pca.png
+5
+d/home/stas/Documents/_ETC/FREELANCE
+	Twit_RBC
+13
+d/home/stas/Documents/_ETC/FREELANCE/Twit_RBC
+	mystem
+6
+d/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/mystem
+	mamarama-res.txt
 1
-d/home/stas/Documents/SITE-LAB/papers_out
-	..
-0
-d/home/stas/Documents/SITE-LAB
-	papers
+d/home/stas/Documents/_ETC/FREELANCE/Twit_RBC
+	R
 8
-d/home/stas/Documents/SITE-LAB/papers
-	Denisenko-2015-New-species-of-Parasmittina.pdf
-25
-d/home/stas/Documents/БИБЛИОТЕКА
-	MORPH-LIT
+d/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/R
+	mystem.R
 6
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT
-	Amphipods
-3
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT/Amphipods
-	Interstitial ecomorphs of Niphargus.ppt
-16
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT
-	Ecomorphology and biogeography
-6
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT/Ecomorphology and biogeography
-	!!! Cardini ea 2010 Biogeographic Analysis Using Geometric Morphometrics.pdf
-1
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT
-	env
-7
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT/env
-	..
-0
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT
-	EvoDevo
-8
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT/EvoDevo
-	..
-0
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT
-	NEW
+d/home/stas/Documents/_ETC/FREELANCE/Twit_RBC
+	Lemm-test-res.csv
 17
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT/NEW
-	Frédérich_et_al_2008_Ontogenetic_shape_changes_in_Pomacentridae_and_their_relationships_with_feeding_strategies.pdf
+d/home/stas/Documents/_ETC/FREELANCE
+	Twit_RBC
+13
+d/home/stas/Documents/_ETC/FREELANCE/Twit_RBC
+	Lemm-test.xlsx
+21
+d/home/stas/Documents/_ETC/FREELANCE
+	ALEXANDR_SPORT
+3
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
+	R
+8
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/R
+	Sanderland.R
+4
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
+	TABLES
 10
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT
-	SOFTWARE
-19
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT/SOFTWARE
-	Olsen-Westneat-2015-StereoMorph-package-MEE-paper.pdf
-7
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT
-	Methods
-11
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT/Methods
-	..
-0
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT
-	ontogenesis
-18
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT/ontogenesis
-	Wilson_Sanchez-Villagra_2010_Diversity trends and their ontogenetic basis.pdf
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES
+	Arsenal.csv
+1
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
+	RESULTS
 9
-d/home/stas/Documents/БИБЛИОТЕКА/MORPH-LIT
-	ontogenesis
-18
-d/home/stas/Documents
-	TRANSLATION
-13
-d/home/stas/Documents/TRANSLATION
-	..
-0
-d/home/stas/Documents
-	..
-0
-d/home/stas/Documents/SITE-LAB
-	papers
-8
-d/home/stas/Documents/SITE-LAB/papers
-	Denisenko_et_al_2013_Bryozoan_epifauna_on_brachiopods_from_the_Faroe_Islands_(NE_Atlantic).pdf
-1
-d/home/stas/Documents/SITE-LAB
-	books
-2
-d/home/stas/Documents/SITE-LAB/books
-	Фауна-Восточно-Сибирского-моря-2010.pdf
-13
-d/home/stas/Documents/SITE-LAB
-	papers
-8
-d/home/stas/Documents/SITE-LAB/papers
-	Iraida_Pavlovna_Morozova_2008.pdf
-1
-d/home/stas/Documents/GitHub/stas-malavin.github.io
-	_drafts
-2
-d/home/stas/Documents/GitHub/stas-malavin.github.io/_drafts
-	set-author-and-title-metadata-to-pdf-from-filename-in-R.md
-8
-d/home/stas/Documents/GitHub/stas-malavin.github.io
-	_posts
-5
-d/home/stas/Documents/GitHub/stas-malavin.github.io/_posts
-	2013-08-16-code-highlighting-post.md
-4
-d/home/stas/Documents/GitHub/stas-malavin.github.io
-	_drafts
-2
-d/home/stas/Documents/GitHub/stas-malavin.github.io/_drafts
-	set-author-and-title-metadata-to-pdf-from-filename-in-R.md
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/RESULTS
+	2016-11-21
 7
-d/home/stas/Documents/GitHub/stas-malavin.github.io
-	_posts
-5
-d/home/stas/Documents/GitHub/stas-malavin.github.io/_posts
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/RESULTS/2016-11-21
+	Arsenal.csv
+1
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/RESULTS
+	2016-11-21
+7
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
+	RESULTS
+9
+d/home/stas/Documents
 	..
 0
-d/home/stas/Documents/GitHub/stas-malavin.github.io
-	_drafts
+d/home/stas/Documents/GAMMARACANTHUS
+	LIT
+3
+d/home/stas/Documents/GAMMARACANTHUS/LIT
+	Vainola-et-al-2001-Phylogeography-of-Gammaracanthus.pdf
+14
+d/home/stas/Documents/GAMMARACANTHUS
+	SET1
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1
+	PHOTO
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	Gp1
+3
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/Gp1
+	AES1-Gp1.tif
+1
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	SET2
+17
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Gp1
+3
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp1
+	CHU1-Gp1.tif
+1
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Gp1
+3
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	Gp1
+3
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/Gp1
+	OST3-Gp1.tif
+19
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	PR5d
+16
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/PR5d
+	AES1-PR5d.tif
+1
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	PR5d
+16
+d/home/stas/Documents/GAMMARACANTHUS/SET1
+	PHOTO
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	SET2
+17
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PR5cx
+12
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5cx
+	KER1-PR5cx.tif
+14
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PR5d
+13
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5d
+	TYP7-PR5d.tif
+25
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Gp1
+3
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp1
+	TYP7-Gp1.tif
+25
+d/home/stas/Documents/EnviroSurveR
+	WinBuilder
 2
-d/home/stas/Documents/GitHub/stas-malavin.github.io/_drafts
-	2016-08-15-style-test.md
-4
-d/home/stas/Documents/GitHub/stas-malavin.github.io
-	_drafts
+d/home/stas/Documents/EnviroSurveR/WinBuilder
+	..
+0
+d/home/stas/Documents/EnviroSurveR
+	EnviroSurveR
+1
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR
+	_data
+3
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
+	Hydrobio
+3
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/Hydrobio
+	..
+0
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
+	CTD
+1
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD
+	..
+0
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
+	CTD1
 2
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD1
+	..
+0
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
+	CTD
+1
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD
+	..
+0
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
+	CTD1
+2
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD1
+	..
+0
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
+	CTD1
+2
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD1
+	418.csv
+1
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
+	CTD_KOL_Data.xls
+7
+d/home/stas/Documents/GAMMARACANTHUS
+	SET1
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1
+	PHOTO
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	Gp1
+3
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/Gp1
+	AES3-Gp1.tif
+3
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	SET2
+17
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Gp1
+3
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp1
+	DIL1-Gp1.tif
+7
+d/home/stas/Documents/_ETC/FREELANCE
+	..
+0
+d/home/stas/Documents/EnviroSurveR
+	EnviroSurveR
+1
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR
+	_data
+3
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
+	CTD1
+2
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD1
+	418.csv
+1
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
+	CTD
+1
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD
+	..
+0
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
+	CTD1
+2
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD1
+	418.csv
+1
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
+	CTD1
+2
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR
+	_R
+7
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_R
+	two-y-axes-master
+1
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_R/two-y-axes-master
+	..
+0
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_R
+	two-y-axes-master
+1
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_R/two-y-axes-master
+	two-y-axes.r
+3
 d
 
 # Right window history (oldest to newest):
-D/home/stas/Music/Евгений Дога - Избранное
-	CD2
-21
-D/home/stas/Music/Евгений Дога - Избранное/CD2
-	05_E.Doga - Koroleva Margo
-22
-D/home/stas/Music/Евгений Дога - Избранное/CD2/05_E.Doga - Koroleva Margo
-	05. Thoughtful Mood And The Road.mp3
-22
-D/home/stas/Documents/SITE-LAB/papers
-	Ivanova-Grebelniy-2014-On-the-food-of-the-Antarctic-sea-anemone-EMBS-abstract.pdf
+D/home/stas/Downloads
+	Nucl. Acids Res.-1997-Aljanabi-4692-3.pdf
+4
+D/home/stas/Videos
+	..
 0
-D/home/stas/.config/vifm
+D/home/stas
+	.vimperatorrc
+36
+D/home/stas/Videos
+	Лекция Оксаны Лавровой — «О комплексе жертвы»-kdDCI6EWzA0.mp4
+14
+D/home/stas/Downloads
+	LLL
+1
+D/home/stas/Downloads/LLL
+	IMG_20161115_1_3.jpg
+2
+D/home/stas/Downloads
+	LLL
+1
+D/home/stas/Downloads/LLL
+	IMG_20161115_1_3.jpg
+2
+D/home/stas/Downloads
+	LLL
+1
+D/home/stas/Downloads/LLL
+	IMG_20161115_1_3.jpg
+1
+D/home/stas/Downloads
+	LLL
+1
+D/home/stas/Downloads/LLL
+	IMG_20161115_1_3.jpg
+3
+D/home/stas/Downloads
+	LLL
+1
+D/home/stas/Downloads/LLL
+	IMG_20161115_1_3.jpg
+3
+D/home/stas/Downloads
+	Nucl. Acids Res.-1997-Aljanabi-4692-3.pdf
+5
+D/media/stas
+	BROKEN-CARD
+1
+D/media/stas/BROKEN-CARD
+	My Files
+5
+D/media/stas/BROKEN-CARD/My Files
+	Books
+1
+D/media/stas/BROKEN-CARD/My Files/Books
+	Леви
+1
+D/media/stas/BROKEN-CARD/My Files/Books/Леви
+	..
+0
+D/media/stas/BROKEN-CARD/My Files/Books
+	Кривин
+1
+D/media/stas/BROKEN-CARD/My Files/Books/Кривин
+	Zolotoi Tielienok (polnaia viersiia) - Ievghienii Pietrov.epub
+1
+D/media/stas/BROKEN-CARD/My Files/Books
+	Кривин
+1
+D/media/stas/BROKEN-CARD/My Files/Books/Кривин
+	Zavtrashniie skazki - Fieliks Davidovich Krivin.epub
+1
+D/media/stas/BROKEN-CARD/My Files/Books
+	Кривин
+1
+D/media/stas/BROKEN-CARD/My Files
+	Books
+1
+D/media/stas/BROKEN-CARD
+	My Files
+5
+D/media/stas
 	..
 0
 D/home/stas/Downloads
-	github-git-cheat-sheet.pdf
+	..
 0
-D/home/stas/.config/vifm
-	scripts
+D/media/stas
+	BROKEN-CARD
+1
+D/media/stas/BROKEN-CARD
+	My Files
+5
+D/media/stas/BROKEN-CARD/My Files
+	Books
+1
+D/media/stas/BROKEN-CARD/My Files/Books
+	Heriott
+1
+D/media/stas/BROKEN-CARD/My Files/Books/Heriott
+	..
 0
-D/home/stas/.config/vifm/scripts
-	README
+D/media/stas/BROKEN-CARD/My Files/Books
+	Heriott
+1
+D/media/stas/BROKEN-CARD/My Files
+	Books
+1
+D/media/stas/BROKEN-CARD
+	My Files
+5
+D/media/stas
+	..
 0
-D/home/stas/.config/vifm
-	scripts
+D/home/stas/Downloads
+	..
+0
+D/home/stas
+	Downloads
+4
+D/home/stas/Downloads
+	..
+0
+D/home/stas
+	Downloads
+4
+D/home/stas/Downloads
+	Image-ExifTool-10.28
+3
+D/home/stas/Downloads/Image-ExifTool-10.28
+	..
 0
 D/home/stas/Downloads
 	Image-ExifTool-10.28
-0
-D/home/stas/Downloads/Image-ExifTool-10.28
-	META.yml
-8
-D/home/stas/.config/vifm
-	marks
+3
+D/home/stas/Videos
+	Благословите женщину
+6
+D/home/stas
+	Videos
+17
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp2
+	TYP9-Gp2.txt
 1
-D/home/stas/Documents/SITE-LAB/papers
-	Любин-и-др-2010-Приловы-макрозообентоса.pdf
-21
-D/home/stas/Documents
-	_ETC
-0
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Gp1
+2
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp1
+	TYP9-Gp1.txt
+2
+D/home/stas/Downloads
+	syen12081-sup-0001-FigureS1.pdf
+11
 D/home/stas
-	.R
+	.vimperatorrc
+25
+D/home/stas/Downloads
+	Baur-Leuenberger-2011-Analysis-of-ratios-in-multivariate-morphometry.pdf
 21
-D/home/stas/.R
+D/media/stas
+	9016-4EF8
+1
+D/media/stas/9016-4EF8
+	Sounds
+5
+D/media/stas/9016-4EF8/Sounds
 	..
 0
-D/home/stas
-	R
-20
-D/home/stas/R
+D/media/stas/9016-4EF8
+	Android
+1
+D/media/stas/9016-4EF8/Android
+	media
+3
+D/media/stas/9016-4EF8/Android/media
 	..
 0
+D/media/stas/9016-4EF8/Android
+	media
+3
+D/media/stas/9016-4EF8
+	Sounds
+5
+D/media/stas/9016-4EF8/Sounds
+	..
+0
+D/media/stas/9016-4EF8
+	ScreenCapture
+4
+D/media/stas/9016-4EF8/ScreenCapture
+	..
+0
+D/media/stas/9016-4EF8
+	ScreenCapture
+4
+D/media/stas/9016-4EF8/ScreenCapture
+	..
+0
+D/media/stas/9016-4EF8
+	DCIM
+5
+D/media/stas/9016-4EF8/DCIM
+	Camera
+1
+D/media/stas/9016-4EF8/DCIM/Camera
+	..
+0
+D/media/stas/9016-4EF8/DCIM
+	Camera
+1
+D/media/stas/9016-4EF8
+	Music
+1
+D/media/stas/9016-4EF8/Music
+	Дога
+1
+D/media/stas/9016-4EF8/Music/Дога
+	..
+0
+D/media/stas/9016-4EF8/Music
+	Дога
+1
+D/media/stas/9016-4EF8/Music/Дога
+	..
+0
+D/media/stas/9016-4EF8/Music
+	Дога
+1
+D/media/stas/9016-4EF8/Music/Дога
+	..
+0
+D/media/stas/9016-4EF8/Music
+	Дога
+1
+D/media/stas/9016-4EF8
+	Music
+1
+D/media/stas
+	..
+0
+D/home/stas/Downloads
+	mystem
+5
 D/home/stas
 	.Rprofile
-28
-D/media/stas
-	SSS
-0
-D/media/stas/SSS
-	..
-0
-D/media/stas
-	..
-0
-D/home/stas/Downloads
-	..
-0
+29
 D/home/stas/Videos
-	Monty.Python's.Flying.Circus.1969-1974.XviD.DVDRip-weconty
-0
-D/home/stas/Videos/Monty.Python's.Flying.Circus.1969-1974.XviD.DVDRip-weconty
-	MPFC.Season-1.(1969-1970)
-0
-D/home/stas/Downloads
-	..
-0
-D/home/stas/Videos
-	РЯЗАНОВ
-0
-D/home/stas/Videos/РЯЗАНОВ
-	..
-0
-D/home/stas/Videos
-	РЯЗАНОВ
-0
-D/home/stas/Videos/РЯЗАНОВ
-	..
-0
-D/home/stas/Videos
-	РЯЗАНОВ
-0
-D/home/stas/Documents/GitHub/stas-malavin.github.io
-	_drafts
-0
-D/home/stas/Documents/GitHub/stas-malavin.github.io/_drafts
-	set-author-and-title-metadata-to-pdf-from-filename-in-R.md
-0
-D/home/stas/Documents/SITE-LAB
-	papers
-0
-D/home/stas/Documents/SITE-LAB/papers
-	Меркульев-2015-Забытый-вид-из-Берингова-пролива–Buccinum-rodgersi.pdf
+	ХРЖАНОВСКИЙ-НОРШТЕЙН
+11
+D/home/stas/Videos/ХРЖАНОВСКИЙ-НОРШТЕЙН
+	Ya.k.vam.lechu.vospominan'em.VHSRip.by.SadCat.avi
 10
 D/home/stas
-	.R
-16
-D/home/stas/.R
-	rstudio
-0
-D/home/stas/.R/rstudio
-	keybindings
-0
-D/home/stas/.R/rstudio/keybindings
-	rstudio_bindings.json
-0
+	.vimperatorrc
+32
 D/home/stas/Downloads
+	tickets.pdf
+5
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS
+	PCA_var_plot
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS/PCA_var_plot
 	..
 0
-D/home/stas/.config/vifm
-	mapping
-4
-D/home/stas/Downloads
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS
+	M.pca_2_3
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS/M.pca_2_3
 	..
 0
-D/home/stas/Documents/SITE-LAB
-	papers
-1
-D/home/stas/Documents/SITE-LAB/papers
-	Denisenko-2001-LONG-TERM-CHANGES-OF-ZOOBENTHOS-BIOMASS-IN-THE-BARENTS-SEA.pdf
-40
-D/home/stas/Downloads
-	Booker2016.rar
-9
-D/home/stas/Videos
-	РЯЗАНОВ
-1
-D/home/stas/Videos/РЯЗАНОВ
-	..
-0
-D/home/stas/Videos
-	Monty.Python's.Flying.Circus.1969-1974.XviD.DVDRip-weconty
-3
-D/home/stas/Videos/Monty.Python's.Flying.Circus.1969-1974.XviD.DVDRip-weconty
-	MPFC.Season-1.(1969-1970)
-3
-D/home/stas/Videos/Monty.Python's.Flying.Circus.1969-1974.XviD.DVDRip-weconty/MPFC.Season-1.(1969-1970)
-	MPFC-1.07.XviD.DVDRip.[rus.eng]_weconty(DVD).ac3
-16
-D/home/stas/Videos/Monty.Python's.Flying.Circus.1969-1974.XviD.DVDRip-weconty
-	MPFC.Season-1.(1969-1970)
-3
-D/home/stas/Videos
-	Monty.Python's.Flying.Circus.1969-1974.XviD.DVDRip-weconty
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS
+	mice-imput-check.pdf
 3
 D/home/stas/Downloads
-	Image-ExifTool-10.28
+	1st announcement short.pdf
+24
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS
+	M_detr_PCA-PC_1-2.jpeg
 1
-D/home/stas/Downloads/Image-ExifTool-10.28
-	META.yml
-12
 D/home/stas/Downloads
-	img-4.jpg
+	mystem-3.0-linux3.1-64bit.tar.gz
+7
+D/home/stas
+	.vimperatorrc
+37
+D/home
+	stas
+1
+D/home/stas
+	.vimperatorrc
+37
+D/home/stas/Downloads
+	tickets.pdf
+5
+D/home/stas
+	kbenoit-dfm-question.R
+37
+D/home/stas/Videos
+	Фильм Оксаны Бычковой «Еще один год»-RkqAUHPUYg0.mp4
+15
+D/home/stas/Documents/БИБЛИОТЕКА
+	_STAT
+1
+D/home/stas/Documents/БИБЛИОТЕКА/_STAT
+	R
+1
+D/home/stas/Documents/БИБЛИОТЕКА/_STAT/R
+	Husson-Le-Pages-2010-Exploratory-multivariate-analysis.pdf
+6
+D/home/stas
+	.gksu.lock
 27
-D/home/stas/Pictures
-	Screenshot at 2016-10-07 21:33:09.png
-5
-D/home/stas/Downloads
-	Moulton-1973-Principal-Component-Analysis-of-Variation-in-form-within-Oncaea-Conifera.pdf
-3
+D/home
+	stas
+1
 D/home/stas/Videos
-	РЯЗАНОВ
-1
-D/home/stas/Videos/РЯЗАНОВ
-	Жестокий романс.1984.mkv
-5
-D/media/stas
-	..
-0
-D/home/stas/Music
-	Unknown Artist
-1
-D/home/stas/Music/Unknown Artist
-	Unknown Album
-1
-D/home/stas/Music/Unknown Artist/Unknown Album
-	..
-0
-D/home/stas/Music/Unknown Artist
-	Песни нашего века I
-1
-D/home/stas/Music
-	Chanson
-2
-D/home/stas/Music/Chanson
-	Charles Aznavour
-1
-D/home/stas/Music/Chanson/Charles Aznavour
-	..
-0
-D/home/stas/Downloads
-	asunder-2.8
-3
-D/home/stas/Downloads/asunder-2.8
-	README
+	Фильм Оксаны Бычковой «Еще один год»-RkqAUHPUYg0.mp4
 15
 D/home/stas/Downloads
-	asunder-2.8
-3
-D/home/stas/Music
-	Unknown Artist
-1
-D/home/stas/Music/Unknown Artist
-	Песни нашего века I
-1
-D/home/stas/Music
-	Chanson
-2
-D/home/stas/Music/Chanson
-	Charles Aznavour
-1
-D/home/stas/Music/Chanson/Charles Aznavour
-	..
-0
-D/home/stas/Music/Chanson
-	Charles Aznavour
-1
-D/home/stas/Music
-	Chanson
-2
-D/home/stas
-	Music
-14
-D/home/stas/Music
-	Chanson
-2
-D/home/stas
-	.xsession-errors
-25
-D/home/stas/Music
-	Chanson
-2
-D/home/stas/Music/Chanson
-	Charles Aznavour
-1
-D/home/stas/Music/Chanson/Charles Aznavour
-	..
-0
-D/home/stas/Music/Chanson
-	Dalida
-1
-D/home/stas/Documents/SITE-LAB/papers_out
-	Bozhenova-Sheiko-1999-New-records-of-the-benthic-medusa-Ptychogastria-polaris.pdf
+	tickets.pdf
 5
+D/home/stas
+	.Rprofile
+29
 D/home/stas/Downloads
-	15185712.epub
-4
-D/home/stas/Videos
-	Monty.Python's.Flying.Circus.1969-1974.XviD.DVDRip-weconty
-3
-D/home/stas/Videos/Monty.Python's.Flying.Circus.1969-1974.XviD.DVDRip-weconty
-	MPFC.Season-1.(1969-1970)
-3
-D/home/stas/Videos/Monty.Python's.Flying.Circus.1969-1974.XviD.DVDRip-weconty/MPFC.Season-1.(1969-1970)
-	MPFC-1.12.XviD.DVDRip.[rus.eng]_weconty.avi
-9
-D/home/stas/Documents/SITE-LAB
-	papers_out
+	FactoMineR
+2
+D/home/stas/Downloads/FactoMineR
+	..
+0
+D/home/stas/Downloads
+	Fedorov
 1
-D/home/stas/Documents/SITE-LAB/papers_out
-	Denisenko_2010_The_description_and_prediction_of_benthic_biodiversity_in_high_arctic_and_freshwater-dominated_marine_areas__The_southern_Onega_Bay_(the_White_Sea).pdf
-8
-D/home/stas/Pictures
-	set_meta.png
-5
+D/home/stas/Downloads/Fedorov
+	..
+0
+D/home/stas/Downloads
+	FactoMineR
+2
+D/home/stas/Downloads/FactoMineR
+	R
+1
+D/home/stas/Downloads/FactoMineR/R
+	plot.HCPC.R
+28
+D/home/stas/Videos
+	..
+0
 D/home/stas/Documents
 	TMP
-2
-D/home/stas/Downloads
-	JOHANSSON_et_al-2009-Biological_Journal_of_the_Linnean_Society.pdf
-4
-D/home/stas/Videos
-	Monty.Python's.Flying.Circus.1969-1974.XviD.DVDRip-weconty
-4
-D/home/stas/Videos/Monty.Python's.Flying.Circus.1969-1974.XviD.DVDRip-weconty
-	MPFC.Season-1.(1969-1970)
-3
-D/home/stas/Videos/Monty.Python's.Flying.Circus.1969-1974.XviD.DVDRip-weconty/MPFC.Season-1.(1969-1970)
-	MPFC-1.13.XviD.DVDRip.[rus.eng]_weconty.avi
-7
-D/home/stas/Documents/SITE-LAB/papers
-	Denisenko-2001-LONG-TERM-CHANGES-OF-ZOOBENTHOS-BIOMASS-IN-THE-BARENTS-SEA.pdf
-40
-D/home/stas/Documents/SITE-LAB
-	papers_out
 1
-D/home/stas/Documents/SITE-LAB/papers_out
-	Grebelnyi-1975-Antarctic-Actiniaria-&-Corallimorpharia.pdf
-8
+D/home/stas/Downloads
+	tickets.pdf
+6
 D
 
 # Command line history (oldest to newest):
-:mkdir _FICTION
-:!cvlc %c &
-:cp &
-:mkdir MOMOCS
-:mkdir sour
-:mkdir FIN1
-:mkdir ERROR
-:mkdir PICT
-:mkdir SHAPES
-:mkdir R
-:mkdir F
-:mkdir H
-:mkdir PLOTS
 :mkdir BACKUP
-:vim Fcurves.csv
-:!vlc %c &
-:mkdir Fedorov
-:CD
-:mkdir ЗУБОВ-И-ДР
-:split
-:vsplit
-:cd /usr/local/
-:cd /usr/share/applications/screensavers
-:!sudo vim %c
-:!g
-:mkdir A2
-:comm
-:delete %c &
-:delete &
-:sort=
-:diff
-:copy &
-:source ~/.config/vifm/commands
-:!convert -density 200 %f OM.m2_boxplot.pdf
-:!convert -density 150 %f OM.m2_boxplot.pdf
-:!convert -density 200 %f 200_OM.m2_boxplot.pdf
-:!pandoc -f html -t epub3 -o %c.epub %c
-:!pandoc %c -o %c.epub
-:cd /usr/local/tm
-:!convert %c -o Белинков-Россия-и-Черт.epub
-:!fbre
-:mkdir _drafts
-:!git add .
-:mkdir assets
-:!nano %c
-:mkdir cv
-:!pluma %c &
-:vim var-test.md
-:source /home/stas/.config/vifm/marks
-:vim 
-:vim lifeR.md
-:!jekyll serve
-:vim regexp-in-r.md
-:!jekyll serve --drafts --port 4321
-:cd /usr/local/tmp
-:!vlc 
-:vim ggplot-cheatsheet.md
-:vim Exploring-Fin-open-data-with-tidyverse.md
-:vim maps-of-different-regions-in-r.md
-:!sudo chown stas:stas
-:!sudo chown stas:stas %c
-:!sudo chown -r stas:stas %c
-:!sudo chown -R stas:stas %c
-:cd usr/share/doc/git/
-:cd usr/share/doc/
-:cd /usr/share/doc/git/
-:mkdir git-study
-:!git init
-:!echo 'get out!' >2.txt
-:!echo 'hello!' >1.txt
-:!git 
-:!git commit -a -m '~ 2.txt'
-:!git checkout Experim
-:!git checkout master
-:!vim %c
-:!git branch
-:!git commit -a -m '~filetypes: pdf view to pdfinfo'
-:vim set-author-and-title-metadata-to-pdf-from-filename-in-R.md
-:mkdir PDF-AUTHORIZING
-:mkdir pdf
-:vim .gitignore
-:ej
-:mkdir pdf_out
-:map W :!pdftotext %c - %m<cr>
-:!pdftotext %c - %m
-:map WW :!pdftotext %c - %m<cr>
-:win 
-:source %c
-:source %f
+:!convert %c -rotate 90 tmp.png
+:!convert %c -density 300 -rotate -90 tmp.png
+:!convert -rotate
+:vim Phrases.md
+:mkdir Plot
+:vim partial-matching-in-r.md
+:!exiftool -Author="Многолетние изменения донной фауны Баренцева моря и гидрологические флюктуации вдоль разреза \"Кольский меридиан\"" %c
+:!exiftool -Title="Многолетние изменения донной фауны Баренцева моря и гидрологические флюктуации вдоль разреза \"Кольский меридиан\"" %c
+:!exiftool -Title="Многолетние изменения донной фауны Баренцева " %c
+:!exiftool -Author="С.Г. Денисенко" %c
+:invert
+:!exiftool -Author="SALVE DAHLE, STANISLAV G. DENISENKO, NINA V. DENISENKO & SABINE J. COCHRANE" %c
+:!exiftool -Title="BENTHIC FAUNA IN THE PECHORA SEA" %c
+:mkdir ETC
+:mkdir NEW
+:source ~/.config/vifm/marks
+:vim PicoPure.md
+:!file -i %c %m
+:!iconv -f windows-1251 -t utf-8 -o freqrnc_readme-utf8.txt %c
+:zip %f
+:!zip plot.zip %f
+:mkdir Шварц
+:rj
+:so
+:!pandoc -i md -o docx %c
+:!pandoc -f markdown -t docx %c
+:!pandoc -f markdown -t docx %c -o %c:r.docx
+:mkdir PORTFOLIO
+:!zip tr_examples.zip %f
+:copy %c; cd ~/
+:copy %c | cd ~/
+:!umount %c
+:cd /mnt
+:cd /mnt/OLLI
+:cd /mnt/OLLI/
+:um
+:commands
+:source /home/stas/.config/vifm/commands
+:olli
+:!sudo umount %c
+:!convert *.JPG belaya2016.pdf
+:mkdir 30percent
+:mkdir 1000
+:!zip -r belaya.zip %c
+:mkdir DIC
+:vim RStudio-todo.txt
+:stop
+:vim PESTEL-dic-links.txt
+:vim TODO
+:!libre
+:mkdir Text-Mining-presentation
+:copy -l
+:!cp -rl %c %D 
+:!cp -l %c %D 
 :source /home/stas/.config/vifm/mapping
-:mkdir pdf_out_site_papers
-:mkdir pdf1
-:mkdir Dalida
-:vim correlation-exploration.md
-:!exiftool -Author='Nina V. Denisenko' %c
-:mkdir TRANSLATION
-:vim Glass-Warriors.md
+:mkdir LIT
+:mkdir Baur-ea-study
+:mkdir BOOKS
+:mkdir BEARDSLEY
+:mkdir DL
+:mkdir Ross-1909
+:mkdir Last-Letters-of-Aubrey-Beardsley
+:mkdir M-lect-pic
+:mkdir RESULTS
+:!zip commands.zip %f
+:!zip -r %c:r.zip %c
+:mkdir LLL
+:mkdir Леви
+:mkdir Кривин
+:mkdir Heriott
+:mkdir MESSAGES
+:mkdir COMMENTS
+:diff
+:mkdir Music
+:mkdir Дога
+:copy &
+:ej
+:mkdir SEQ
+:vim sprintf.md
+:mkdir 
+:vim Ruler.txt
+:mkdir TABLES
+:mkdir mystem
+:cd /usr/bin
+:sudo copy -p %c
+:!sudo copy -p %c
+:!sudo cp -p %c
+:!mystem mamarama.txt mamarama-res.txt
+:!mystem -n mamarama.txt mamarama-res.txt
+:!mystem -c mamarama.txt mamarama-res.txt
+:!mystem -lc mamarama.txt mamarama-res.txt
+:!mystem -nc mamarama.txt mamarama-res.txt
+:!mystem -l mamarama.txt mamarama-res.txt
+:!mystem -w mamarama.txt mamarama-res.txt
+:!mystem  mamarama.txt mamarama-res.txt
+:!mystem -d mamarama.txt mamarama-res.txt
+:!rstudio %c &
+:!mystem -ld mamarama.txt mamarama-res.txt
+:cd /usr/local/tmp
+:cd /usr/local/t
 :cd /usr/local/tmp/
-:!exiftool -Author='S.Yu. Gagaev' %c
-:!exiftool -Title='On the fauna of Actiniaria and Corallimorpharia of the Eastern Antarctic costal waters' %c
-:!jekyll serve --port 4321 %m
 
 # Search history (oldest to newest):
+/Pl
+/cx
+/Cx
+/DYL
+/Bear
 /.co
 /Гребельный
 /Mon
@@ -889,6 +1157,35 @@ D
 /Petry
 /116hl_1
 /295fl
+/Cal
+/.hml
+/.html
+/Anto
+/Pushkin
+/Bykov
+/Slie
+/Trifon
+/A1
+/Cx5
+/D5
+/PR5\.
+/\(1\)
+/PR5d
+/PR5cx
+/Gp1
+/Gp2
+/He
+/Mdp-1
+/Mdp-2
+/Mx2
+/Pp7
+/Up2
+/Up3
+/PL3\.
+/3d
+/3d\(
+/PL3d\.
+/PL3cx\.
 /050fr-hr
 /098hl_1
 /116hl_
@@ -980,13 +1277,62 @@ D
 /.conf
 /.config$
 /feh
-/.epub
 /blog
 /git
 /.vimrc
 /Key
 /q
+/Ryo
+/Prolu
+/png
+/tmp
+/txt
+/jpg
+/xt
+/doc
+/^pdf
+/\.htm
+/\.pdf
+/.rp
+/cali
+/DIL
+/Kro
+/Milne
+/Ross
+/Bell$
+/Bell_
+/.vimperatorr
+/Tito
+/Para
+/Pa
+/mining
+/text
+/busi
+/Cl
+/Legend
+/woo
+/Шити
+/RD
+/zip
+/33
+/.epub
+/DY
+/.vimp
+/vimperator
+/vimperatorr
+/Lis
+/Tie
+/Her
 /.
+/Kup
+/.rpro
+/.vimp.*rc
+/huss`
+/expl
+/huss
+/my
+/.vi.*rc
+/.rprof
 
 # Prompt history (oldest to newest):
 pPopulation-extract.pdf
@@ -1033,6 +1379,21 @@ pTMP
 pwings.rda-old
 pcurves.txt
 pcurveH.txt
+p2016-11-17.RData
+p2016-11-17.Rhistory
+pPR5cx
+pPR5.txt
+pPR5d
+pmice-imput-check.pdf
+p_MESSAGES_FB
+p_MESSAGES_TW
+p_RESULTS
+pRESULTS
+pTABLES
+pchelsea.csv
+pSPb-Msc-22_11_2016.pdf
+pMsc-Spb-28_11_2016.pdf
+pRStudio1.png
 pSHAPES
 pPp7
 pcurveF.txt
@@ -1110,6 +1471,41 @@ p38-TO
 pMORPH-LIT
 psapsan.pdf
 phydrochem.csv
+pGorchev-PlanSpasenija.epub
+pTrifonov-MosPovesti.epub
+pЛеГуин
+pCHU3-A1.tif
+pCHU3-A2.tif
+pCHU4-A1.tif
+pCHU4-A2.tif
+pCHU5-A1.tif
+pCHU5-A2.tif
+pKER1-A1.tif
+pKER1-A2.tif
+pLAP1-A1.tif
+pLAP1-A2.tif
+pLAP2-A1.tif
+pLAP2-A2.tif
+pLAP3-A1.tif
+pLAP3-A2.tif
+pLAP5-A1.tif
+pLAP5-A2.tif
+pLAP6-A1.tif
+pLAP6-A2.tif
+pCHU4-PR5cx.tif
+pKRI2-Mdp-2.tif
+pKRI2-Mdp-1.tif
+pCHU3-Pp7.tif
+pCHU1-PL3d.tif
+pCHU1-PL3pl.tif
+pCHU3-PL3d.tif
+pCHU3-PL3pl.tif
+pCHU5-PL3.tif
+pPR5cx.txt
+pPR5d.txt
+pPL3cx.txt
+pPL3pl.txt
+pPL3d.txt
 pclasses.R
 pМосква-Питер.pdf
 pEnvirosSurveR_20160701_2.png
@@ -1210,10 +1606,81 @@ pMoulton-1973-Principal-Component-Analysis-of-Variation-in-form-within-Oncaea-Co
 pDenisenko_2010_The_description_and_prediction_of_benthic_biodiversity_in_high_arctic_and_freshwater-dominated_marine_areas__The_southern_Onega_Bay_(the_White_Sea).pdf
 pOlsen-Westneat-2015-StereoMorph-package-paper.pdf
 pOlsen-Westneat-2015-StereoMorph-package-MEE-paper.pdf
+pВопросит-констр-СМИ.pdf
+psteak1.jpeg
+psteak2.jpeg
+psteak3.jpeg
+pgw1.jpeg
+pPlot1
+ptwitter.R
+pOLD
+pgw2.jpeg
+pgw3.jpeg
+pPicoPure.pdf
+pgw.md
+pScreenshot at 2016-10-27 16:12:07.png
+pScr1.png
+pscr2.png
+pscr1.png
+ptm-intro.pdf
+ptm-2007-paper.pdf
+pgw_inro_tr.docx
+pKRI2-A21.tif
+pKRI2-A2.tif
+pKRI2-A1.tif
+pАвансовый-отчет-шаблон.xls
+pDon.Kihot_1957.avi
+pSpasojevic-ea-2016-Araniella.pdf
+pBaur-ea-2014-Anisopteromalus.pdf
+pfriedl-2006-Mastering-regular-expressions.pdf
+pTextbooks-General-Statistics
+pvan-Buuren-Groothuis-Oudshoorn-2011-mice-Multivariate-Imputation-by-Chained-Equations-in-R.pdf
+p813.full.pdf
+pBaur, H. & Leuenberger, C. (2011) Analysis of ratios in multivariate
+pBaur-Leuenberger-2011-Analysis-of-ratios-in-multivariate-morphometry.pdf
+pLászló-ea-2013-Multivariate-ratio-analysis-reveals-Trigonoderus-pedicellaris-as-a-valid-species.pdf
+pQubaiová-ea-2015-Taxonomic-revision-of-genus-Ablattaria.pdf
+pBaur_Leuenberger_Ratio_Analysis_corr_2.R
+pBrush-and-Pencil-1907-Anent-the-Art-of-Beardsley.pdf
+pLast-Letters-of-Aubrey-Beardsley-1904
+pAubrey-Beardsley-and-the-Yellow-Book-1903.pdf
+pNavarre-1999-The-Publishing-History-of-Aubrey-Beardsley's-Compositions-for-Oscar-Wilde's-Salomé.pdf
+pBeardsley-list-of-correspondence-etc.pdf
+pThe-Savoy-v1-1896-I.pdf
+pTe-Savoy-v2-1896-IV.pdf
+pThe-Yellow-Book-v1-1894.pdf
+pMdp-2.txt
+pMdp-1
+pMdp-2
+pTM-lect-pic
+pРис1.jpg
+pРис1-1.png
+pРис1-2.png
+pРис2.jpg
+pРис3.png
+pРис3.jpg
+pРис.jpg
+pис2.png
+pРис24.png
+pРис2.png
+pРис4.png
+pРис5-1.png
+pРис5-2.png
+pРис6-2.png
+pРис6-1.png
+pSouthampton.csv
+pPR5cx_set2.txt
+pMESSAGES_FB
+pMESSAGES_TW
+pПесни-нашего-века
+p_TABLES
+pBurnley.csv
+pHusson-Le-Pages-2010-Exploratory-multivariate-analysis.pdf
 
 # Local filter history (oldest to newest):
 
 # Registers:
+""/mnt/DATA/.vifm-Trash-1000/000_two-y-axes-master.zip
 
 # Directory stack (oldest to newest):
 
@@ -2488,10 +2955,572 @@ t/mnt/DATA/.vifm-Trash-1000/000_Grebelnyi_2007_New_Records_of_the_Sea_Anemone_Pt
 	/home/stas/Documents/SITE-LAB/papers/Grebelnyi_2007_New_Records_of_the_Sea_Anemone_Ptychodactis_patula_in_the_Northern_and_Far_Eastern_Seas_of_Russia.pdf
 t/mnt/DATA/.vifm-Trash-1000/000_Houart-et-al-2013-Discovery-syntypes-Trophon-birileffi.pdf
 	/home/stas/Documents/SITE-LAB/papers/Houart-et-al-2013-Discovery-syntypes-Trophon-birileffi.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Markhaseva-2010-New-Scolecitrichidae-deep-Antarctic-Diaiscolecithrix.pdf
+	/home/stas/Documents/SITE-LAB/papers/Markhaseva-2010-New-Scolecitrichidae-deep-Antarctic-Diaiscolecithrix.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Markhaseva-2012-Ryocalanus.pdf
+	/home/stas/Documents/SITE-LAB/papers_out/Markhaseva-2012-Ryocalanus.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_.papers-meta.txt.swp
+	/home/stas/Documents/SITE-LAB/.papers-meta.txt.swp
+t/mnt/DATA/.vifm-Trash-1000/001_Gorchev-Svolochi.epub
+	/home/stas/Documents/БИБЛИОТЕКА/_FICTION/Gorchev-Svolochi/Gorchev-Svolochi.epub
+t/home/stas/.local/share/vifm/Trash/000_Горчев Дмитрий. Мерзость - TheLib.Ru.html.zip
+	/home/stas/Downloads/Горчев Дмитрий. Мерзость - TheLib.Ru.html.zip
+t/mnt/DATA/.vifm-Trash-1000/000_Горчев Дмитрий. План спасения - TheLib.Ru.html.zip
+	/home/stas/Documents/БИБЛИОТЕКА/_FICTION/Gorchev-Plan-Spasenija/Горчев Дмитрий. План спасения - TheLib.Ru.html.zip
+t/mnt/DATA/.vifm-Trash-1000/000_[Gorchev_Dmitry]_Svolochi(BookFi).fb2.zip
+	/home/stas/Documents/БИБЛИОТЕКА/_FICTION/[Gorchev_Dmitry]_Svolochi(BookFi).fb2.zip
+t/mnt/DATA/.vifm-Trash-1000/000_Горчев-Красота.epub
+	/home/stas/Documents/БИБЛИОТЕКА/_FICTION/Горчев-Красота.epub
+t/mnt/DATA/.vifm-Trash-1000/000_Gorchev-Krasota.txt
+	/home/stas/Documents/БИБЛИОТЕКА/_FICTION/Gorchev-Krasota.txt
+t/mnt/DATA/.vifm-Trash-1000/000_Gorchev-Svolochi
+	/home/stas/Documents/БИБЛИОТЕКА/_FICTION/Gorchev-Svolochi
+t/mnt/DATA/.vifm-Trash-1000/001_tmp
+	/home/stas/Documents/БИБЛИОТЕКА/_FICTION/tmp
+t/mnt/DATA/.vifm-Trash-1000/000_losskiy_nikolay_usloviya_absolyutnogo_dobra.zip
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/losskiy_nikolay_usloviya_absolyutnogo_dobra.zip
+t/home/stas/.local/share/vifm/Trash/000_Горчев Дмитрий. Сволочи - TheLib.Ru.html.zip
+	/home/stas/Downloads/Горчев Дмитрий. Сволочи - TheLib.Ru.html.zip
+t/home/stas/.local/share/vifm/Trash/000_Usloviya absolyutnogo dobra.fb2
+	/home/stas/Downloads/Usloviya absolyutnogo dobra.fb2
+t/mnt/DATA/.vifm-Trash-1000/000_01.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/01.html
+t/mnt/DATA/.vifm-Trash-1000/000_02.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/02.html
+t/mnt/DATA/.vifm-Trash-1000/000_03.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/03.html
+t/mnt/DATA/.vifm-Trash-1000/000_04.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/04.html
+t/mnt/DATA/.vifm-Trash-1000/000_05.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/05.html
+t/mnt/DATA/.vifm-Trash-1000/000_06.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/06.html
+t/mnt/DATA/.vifm-Trash-1000/000_07.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/07.html
+t/mnt/DATA/.vifm-Trash-1000/000_08.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/08.html
+t/mnt/DATA/.vifm-Trash-1000/000_09.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/09.html
+t/mnt/DATA/.vifm-Trash-1000/000_10.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/10.html
+t/mnt/DATA/.vifm-Trash-1000/000_11.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/11.html
+t/mnt/DATA/.vifm-Trash-1000/000_12.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/12.html
+t/mnt/DATA/.vifm-Trash-1000/000_13.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/13.html
+t/mnt/DATA/.vifm-Trash-1000/000_14.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/14.html
+t/mnt/DATA/.vifm-Trash-1000/000_15.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/15.html
+t/mnt/DATA/.vifm-Trash-1000/000_16.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/16.html
+t/mnt/DATA/.vifm-Trash-1000/000_17.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/17.html
+t/mnt/DATA/.vifm-Trash-1000/000_18.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/18.html
+t/mnt/DATA/.vifm-Trash-1000/000_19.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/19.html
+t/mnt/DATA/.vifm-Trash-1000/000_20.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/20.html
+t/mnt/DATA/.vifm-Trash-1000/000_21.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/21.html
+t/mnt/DATA/.vifm-Trash-1000/000_22.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/22.html
+t/mnt/DATA/.vifm-Trash-1000/000_23.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/23.html
+t/mnt/DATA/.vifm-Trash-1000/000_24.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/24.html
+t/mnt/DATA/.vifm-Trash-1000/000_25.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/25.html
+t/mnt/DATA/.vifm-Trash-1000/001_index.html
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/index.html
+t/mnt/DATA/.vifm-Trash-1000/000_astafyev3.rar
+	/home/stas/Documents/БИБЛИОТЕКА/_BOOKS/astafyev3.rar
+t/mnt/DATA/.vifm-Trash-1000/000_Thumbs.db
+	/home/stas/Documents/GAMMARACANTHUS/SET1/SET2/Thumbs.db
+t/home/stas/.local/share/vifm/Trash/000_.viminfo
+	/home/stas/.viminfo
+t/home/stas/.local/share/vifm/Trash/000_.xsession-errors
+	/home/stas/.xsession-errors
+t/mnt/DATA/.vifm-Trash-1000/000_DATA-MATRIX.csv
+	/home/stas/Documents/GAMMARACANTHUS/SET1/DATA-MATRIX.csv
+t/mnt/DATA/.vifm-Trash-1000/000_A1,A2.csv
+	/home/stas/Documents/GAMMARACANTHUS/SET1/A1,A2.csv
+t/mnt/DATA/.vifm-Trash-1000/000_tmp-0.png
+	/home/stas/Documents/TRANSLATION/tmp-0.png
+t/mnt/DATA/.vifm-Trash-1000/000_tmp-1.png
+	/home/stas/Documents/TRANSLATION/tmp-1.png
+t/mnt/DATA/.vifm-Trash-1000/000_tmp-2.png
+	/home/stas/Documents/TRANSLATION/tmp-2.png
+t/mnt/DATA/.vifm-Trash-1000/000_tmp-3.png
+	/home/stas/Documents/TRANSLATION/tmp-3.png
+t/mnt/DATA/.vifm-Trash-1000/000_tmp-4.png
+	/home/stas/Documents/TRANSLATION/tmp-4.png
+t/mnt/DATA/.vifm-Trash-1000/000_tmp-5.png
+	/home/stas/Documents/TRANSLATION/tmp-5.png
+t/mnt/DATA/.vifm-Trash-1000/000_tmp-0.jpeg
+	/home/stas/Documents/TRANSLATION/tmp-0.jpeg
+t/mnt/DATA/.vifm-Trash-1000/001_tmp-0.png
+	/home/stas/Documents/TRANSLATION/tmp-0.png
+t/mnt/DATA/.vifm-Trash-1000/000_tmp-1.jpeg
+	/home/stas/Documents/TRANSLATION/tmp-1.jpeg
+t/mnt/DATA/.vifm-Trash-1000/001_tmp-1.png
+	/home/stas/Documents/TRANSLATION/tmp-1.png
+t/mnt/DATA/.vifm-Trash-1000/000_tmp-2.jpeg
+	/home/stas/Documents/TRANSLATION/tmp-2.jpeg
+t/mnt/DATA/.vifm-Trash-1000/001_tmp-2.png
+	/home/stas/Documents/TRANSLATION/tmp-2.png
+t/mnt/DATA/.vifm-Trash-1000/000_tmp-3.jpeg
+	/home/stas/Documents/TRANSLATION/tmp-3.jpeg
+t/mnt/DATA/.vifm-Trash-1000/001_tmp-3.png
+	/home/stas/Documents/TRANSLATION/tmp-3.png
+t/mnt/DATA/.vifm-Trash-1000/000_tmp-4.jpeg
+	/home/stas/Documents/TRANSLATION/tmp-4.jpeg
+t/mnt/DATA/.vifm-Trash-1000/001_tmp-4.png
+	/home/stas/Documents/TRANSLATION/tmp-4.png
+t/mnt/DATA/.vifm-Trash-1000/000_tmp-5.jpeg
+	/home/stas/Documents/TRANSLATION/tmp-5.jpeg
+t/mnt/DATA/.vifm-Trash-1000/001_tmp-5.png
+	/home/stas/Documents/TRANSLATION/tmp-5.png
+t/mnt/DATA/.vifm-Trash-1000/000_tmp.jpg
+	/home/stas/Documents/TRANSLATION/tmp.jpg
+t/mnt/DATA/.vifm-Trash-1000/000_anger.txt
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/anger.txt
+t/mnt/DATA/.vifm-Trash-1000/000_disgust.txt
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/disgust.txt
+t/mnt/DATA/.vifm-Trash-1000/000_fear.txt
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/fear.txt
+t/mnt/DATA/.vifm-Trash-1000/000_joy.txt
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/joy.txt
+t/mnt/DATA/.vifm-Trash-1000/000_sadness.txt
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/sadness.txt
+t/mnt/DATA/.vifm-Trash-1000/000_surprise.txt
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/surprise.txt
+t/mnt/DATA/.vifm-Trash-1000/000_WNArus.rar
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/WNArus.rar
+t/mnt/DATA/.vifm-Trash-1000/001_WNArus.rar
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/DIC/WNArus.rar
+t/mnt/DATA/.vifm-Trash-1000/000_DIC
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/DIC
+t/mnt/DATA/.vifm-Trash-1000/001_anger.txt
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/anger.txt
+t/mnt/DATA/.vifm-Trash-1000/001_disgust.txt
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/disgust.txt
+t/mnt/DATA/.vifm-Trash-1000/001_fear.txt
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/fear.txt
+t/mnt/DATA/.vifm-Trash-1000/001_joy.txt
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/joy.txt
+t/mnt/DATA/.vifm-Trash-1000/001_sadness.txt
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/sadness.txt
+t/mnt/DATA/.vifm-Trash-1000/001_surprise.txt
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/surprise.txt
+t/mnt/DATA/.vifm-Trash-1000/000_WordNet-affect
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/WordNet-affect
+t/mnt/DATA/.vifm-Trash-1000/000_Plot1
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/Plot1
+t/mnt/DATA/.vifm-Trash-1000/000_Plot
+	/home/stas/Documents/GitHub/stas-malavin.github.io/_drafts/Plot
+t/home/stas/.local/share/vifm/Trash/001_.viminfo
+	/home/stas/.viminfo
+t/mnt/DATA/.vifm-Trash-1000/001_Markhaseva-2012-Ryocalanus.pdf
+	/home/stas/Documents/SITE-LAB/papers/Markhaseva-2012-Ryocalanus.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Markhaseva-2012-Xancithrix.pdf
+	/home/stas/Documents/SITE-LAB/papers/Markhaseva-2012-Xancithrix.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Markhaseva-2014-Kyphocalanus-male.pdf
+	/home/stas/Documents/SITE-LAB/papers/Markhaseva-2014-Kyphocalanus-male.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Markhaseva-2015-Vensiasa-incerta-new-genus-species.pdf
+	/home/stas/Documents/SITE-LAB/papers/Markhaseva-2015-Vensiasa-incerta-new-genus-species.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Markhaseva-Ferrari-1996-Three-new-species-Ryocalanus-Eastern-Pacific.pdf
+	/home/stas/Documents/SITE-LAB/papers/Markhaseva-Ferrari-1996-Three-new-species-Ryocalanus-Eastern-Pacific.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Markhaseva-Schulz-2006-Lamiantennula-gen-n.pdf
+	/home/stas/Documents/SITE-LAB/papers/Markhaseva-Schulz-2006-Lamiantennula-gen-n.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Markhaseva-Shulz-2007-Brodskius-Omorius-Rythabis-deep-Antarctic.pdf
+	/home/stas/Documents/SITE-LAB/papers/Markhaseva-Shulz-2007-Brodskius-Omorius-Rythabis-deep-Antarctic.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Markhaseva_et_al2012_Pseudocalanus.pdf
+	/home/stas/Documents/SITE-LAB/papers/Markhaseva_et_al2012_Pseudocalanus.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Markhaseva_Ferrari_2005.pdf
+	/home/stas/Documents/SITE-LAB/papers/Markhaseva_Ferrari_2005.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Markhaseva_Schulz_2010_Procenognatha_Ranthaxus.pdf
+	/home/stas/Documents/SITE-LAB/papers/Markhaseva_Schulz_2010_Procenognatha_Ranthaxus.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Markhaseva_Semenova_2005.pdf
+	/home/stas/Documents/SITE-LAB/papers/Markhaseva_Semenova_2005.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Merdigera_invisa.pdf
+	/home/stas/Documents/SITE-LAB/papers/Merdigera_invisa.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Merkulyev-2008-Optical-geometrical-characteristics-of-fragmented-figures.pdf
+	/home/stas/Documents/SITE-LAB/papers/Merkulyev-2008-Optical-geometrical-characteristics-of-fragmented-figures.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Merkulyev-Merkulyeva-2009-Effects-of-Amplitude-Frequency-Characteristics.pdf
+	/home/stas/Documents/SITE-LAB/papers/Merkulyev-Merkulyeva-2009-Effects-of-Amplitude-Frequency-Characteristics.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Merkulyev-Rogovanov-2009-Phenomenological-Description-of-Local-Extremes.pdf
+	/home/stas/Documents/SITE-LAB/papers/Merkulyev-Rogovanov-2009-Phenomenological-Description-of-Local-Extremes.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Osobennosti_visokogornoi_malakofauni.pdf
+	/home/stas/Documents/SITE-LAB/papers/Osobennosti_visokogornoi_malakofauni.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Petryashov_1989_Arctic_Ocean_Mysids.pdf
+	/home/stas/Documents/SITE-LAB/papers/Petryashov_1989_Arctic_Ocean_Mysids.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_PETRYASHOV_et_al_2013_BIOGEOGRAPHICAL_ANALYSIS_CHUKCHI_SEA.pdf
+	/home/stas/Documents/SITE-LAB/papers/PETRYASHOV_et_al_2013_BIOGEOGRAPHICAL_ANALYSIS_CHUKCHI_SEA.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Renaud-2009-Cont-benthicDiv.pdf
+	/home/stas/Documents/SITE-LAB/papers/Renaud-2009-Cont-benthicDiv.pdf
+t/mnt/DATA/.vifm-Trash-1000/012_Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+	/home/stas/Documents/SITE-LAB/papers/Renz_Markhaseva_Schulz_2013_Yrocalanus_Ryocalanus.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Salasar-Vallejo_Buzhinskaja-2011-Revision-Diplocirrus-Bradiella-Diversibranchius.pdf
+	/home/stas/Documents/SITE-LAB/papers/Salasar-Vallejo_Buzhinskaja-2011-Revision-Diplocirrus-Bradiella-Diversibranchius.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Salazar-Vallejo_Buzhinskaya-2013-Six-new-deep-water-sternaspid-species-Pacific-Ocean.pdf
+	/home/stas/Documents/SITE-LAB/papers/Salazar-Vallejo_Buzhinskaya-2013-Six-new-deep-water-sternaspid-species-Pacific-Ocean.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_SAMIN_SMIRNOV_MASSIN_2013_SEMPER_HOLOTHURIANS.pdf
+	/home/stas/Documents/SITE-LAB/papers/SAMIN_SMIRNOV_MASSIN_2013_SEMPER_HOLOTHURIANS.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Sirenko-Gagaev-2007-Unusual-Abundance-of-Macrobenthos-and-biological-invasions-in-the-Chukchi-Sea.pdf
+	/home/stas/Documents/SITE-LAB/papers/Sirenko-Gagaev-2007-Unusual-Abundance-of-Macrobenthos-and-biological-invasions-in-the-Chukchi-Sea.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Sirenko-Gagaev-2011-Предварительные-результаты-работы-ЗИН-РАН-полученные-в-ходе-МПГ.pdf
+	/home/stas/Documents/SITE-LAB/papers/Sirenko-Gagaev-2011-Предварительные-результаты-работы-ЗИН-РАН-полученные-в-ходе-МПГ.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Sirenko-Gagaev-2012-Under-the-ice-of-the-South-Ocean.pdf
+	/home/stas/Documents/SITE-LAB/papers/Sirenko-Gagaev-2012-Under-the-ice-of-the-South-Ocean.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Sirenko-Markhaseva-Buzhinskaya-Petryshov-Stepanjants-1996-Suprabenthic-invertebrates-Polarstern-Laptev-Sea.pdf
+	/home/stas/Documents/SITE-LAB/papers/Sirenko-Markhaseva-Buzhinskaya-Petryshov-Stepanjants-1996-Suprabenthic-invertebrates-Polarstern-Laptev-Sea.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Sitnikova-ea-2014-Zoologicheskie-issledovania-No16_Physidae.pdf
+	/home/stas/Documents/SITE-LAB/papers/Sitnikova-ea-2014-Zoologicheskie-issledovania-No16_Physidae.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Sitnikova-ea-2014-Zoologicheskie-issledovania-No16_Planorbidae.pdf
+	/home/stas/Documents/SITE-LAB/papers/Sitnikova-ea-2014-Zoologicheskie-issledovania-No16_Planorbidae.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Somerfield-et-al-2009-Assessing-evidence-for-random-assembly-of-marinebenthic-communities.pdf
+	/home/stas/Documents/SITE-LAB/papers/Somerfield-et-al-2009-Assessing-evidence-for-random-assembly-of-marinebenthic-communities.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Денисенко-2005-Многолетние-изменения-фауны-Баренцева-моря-и-гидрологические-флюктуации.pdf_original
+	/home/stas/Documents/SITE-LAB/papers_out/Денисенко-2005-Многолетние-изменения-фауны-Баренцева-моря-и-гидрологические-флюктуации.pdf_original
+t/mnt/DATA/.vifm-Trash-1000/000_Денисенко-2006-Информационная-мера-Шеннона-и-ее-применение-в-оценках-биоразнообразия.pdf_original
+	/home/stas/Documents/SITE-LAB/papers_out/Денисенко-2006-Информационная-мера-Шеннона-и-ее-применение-в-оценках-биоразнообразия.pdf_original
+t/mnt/DATA/.vifm-Trash-1000/000_Dahle_et_al_1998_Benthic_fauna_in_the_Pechora_sea.pdf_original
+	/home/stas/Documents/SITE-LAB/papers/Dahle_et_al_1998_Benthic_fauna_in_the_Pechora_sea.pdf_original
+t/home/stas/.local/share/vifm/Trash/000_boardingPass.pdf
+	/home/stas/Downloads/boardingPass.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_mile2.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/R/mile2.R
+t/mnt/DATA/.vifm-Trash-1000/000_script.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/R/script.R
+t/mnt/DATA/.vifm-Trash-1000/000_1214_001.pdf
+	/home/stas/Documents/TRANSLATION/1214_001.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_milestone1-1.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/R/milestone1-1.R
+t/mnt/DATA/.vifm-Trash-1000/000_plot.zip
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/Plot/plot.zip
+t/home/stas/.local/share/vifm/Trash/000_21342389(1).epub
+	/home/stas/Downloads/21342389(1).epub
+t/home/stas/.local/share/vifm/Trash/000_21342389.epub
+	/home/stas/Downloads/21342389.epub
+t/home/stas/.local/share/vifm/Trash/000_00170744.epub
+	/home/stas/Downloads/00170744.epub
+t/mnt/DATA/.vifm-Trash-1000/000_PicoPure.docx
+	/home/stas/Documents/TRANSLATION/PicoPure.docx
+t/mnt/DATA/.vifm-Trash-1000/001_PicoPure.docx
+	/home/stas/Documents/TRANSLATION/PicoPure.docx
+t/mnt/DATA/.vifm-Trash-1000/000_gw.md
+	/home/stas/Documents/TRANSLATION/gw.md
+t/mnt/DATA/.vifm-Trash-1000/000_gw1.jpeg
+	/home/stas/Documents/TRANSLATION/gw1.jpeg
+t/mnt/DATA/.vifm-Trash-1000/000_gw2.jpeg
+	/home/stas/Documents/TRANSLATION/gw2.jpeg
+t/home/stas/.local/share/vifm/Trash/000_Kroeyer_1845_Amphipods.pdf
+	/home/stas/Downloads/Kroeyer_1845_Amphipods.pdf
+t/home/stas/.local/share/vifm/Trash/000_Kroeyer_1838_Conspectus_Crustaceorum_Groenlandiae.pdf
+	/home/stas/Downloads/Kroeyer_1838_Conspectus_Crustaceorum_Groenlandiae.pdf
+t/home/stas/.local/share/vifm/Trash/000_%c
+	/home/stas/Downloads/%c
+t/mnt/DATA/.vifm-Trash-1000/000_30percent
+	/home/stas/Pictures/Белая-2016/R/30percent
+t/mnt/DATA/.vifm-Trash-1000/000_facebok.R
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/R/facebok.R
+t/mnt/DATA/.vifm-Trash-1000/000_opinion-lexicon-English.rar
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/DIC/opinion-lexicon-English.rar
+t/mnt/DATA/.vifm-Trash-1000/000_.~lock.Osc-09.10.16_modifMSA.xls#
+	/home/stas/Documents/BRACON/FIN1/.~lock.Osc-09.10.16_modifMSA.xls#
+t/mnt/DATA/.vifm-Trash-1000/000_.~lock.Pictures.csv#
+	/home/stas/Documents/BRACON/FIN1/.~lock.Pictures.csv#
+t/mnt/DATA/.vifm-Trash-1000/000_Kos-2016-Stephidae-Temoridae.pdf_original
+	/home/stas/Documents/SITE-LAB/books/Kos-2016-Stephidae-Temoridae.pdf_original
+t/mnt/DATA/.vifm-Trash-1000/000_Markhaseva_1996_Copepods_Aetidaeide_World_Ocean_key.pdf_original
+	/home/stas/Documents/SITE-LAB/books/Markhaseva_1996_Copepods_Aetidaeide_World_Ocean_key.pdf_original
+t/mnt/DATA/.vifm-Trash-1000/000_Бужинская-2013-Многощетинковые-черви-Тихого-океана.pdf_original
+	/home/stas/Documents/SITE-LAB/books/Бужинская-2013-Многощетинковые-черви-Тихого-океана.pdf_original
+t/mnt/DATA/.vifm-Trash-1000/000_Морские-беспозвоночные-Арктики-Антарктики-и-Субантарктики.pdf_original
+	/home/stas/Documents/SITE-LAB/books/Морские-беспозвоночные-Арктики-Антарктики-и-Субантарктики.pdf_original
+t/mnt/DATA/.vifm-Trash-1000/000_Фауна-Восточно-Сибирского-моря-2010.pdf_original
+	/home/stas/Documents/SITE-LAB/books/Фауна-Восточно-Сибирского-моря-2010.pdf_original
+t/mnt/DATA/.vifm-Trash-1000/000_Фауна-и-зоогеография-бентоса-Чукотского-моря-2008.pdf_original
+	/home/stas/Documents/SITE-LAB/books/Фауна-и-зоогеография-бентоса-Чукотского-моря-2008.pdf_original
+t/mnt/DATA/.vifm-Trash-1000/000_Фауна-и-экосистемы-моря-Лаптевых-2004-Т-1.pdf_original
+	/home/stas/Documents/SITE-LAB/books/Фауна-и-экосистемы-моря-Лаптевых-2004-Т-1.pdf_original
+t/mnt/DATA/.vifm-Trash-1000/000_Фауна-и-экосистемы-моря-Лаптевых-2004-Т-2.pdf_original
+	/home/stas/Documents/SITE-LAB/books/Фауна-и-экосистемы-моря-Лаптевых-2004-Т-2.pdf_original
+t/mnt/DATA/.vifm-Trash-1000/000_Хлебович-2007-Картеш-и-около.pdf_original
+	/home/stas/Documents/SITE-LAB/books/Хлебович-2007-Картеш-и-около.pdf_original
+t/mnt/DATA/.vifm-Trash-1000/000_Хлебович-2010-Кадры-из-жизни-одного-зоолога.pdf_original
+	/home/stas/Documents/SITE-LAB/books/Хлебович-2010-Кадры-из-жизни-одного-зоолога.pdf_original
+t/mnt/DATA/.vifm-Trash-1000/000_Хлебович-2012-Экология-особи.pdf_original
+	/home/stas/Documents/SITE-LAB/books/Хлебович-2012-Экология-особи.pdf_original
+t/mnt/DATA/.vifm-Trash-1000/000_Хлебович-2013-Животные-и-мы.pdf_original
+	/home/stas/Documents/SITE-LAB/books/Хлебович-2013-Животные-и-мы.pdf_original
+t/mnt/DATA/.vifm-Trash-1000/000_Экосистемы-и-биоресурсы-Чукотского-моря-2009.pdf_original
+	/home/stas/Documents/SITE-LAB/books/Экосистемы-и-биоресурсы-Чукотского-моря-2009.pdf_original
+t/mnt/DATA/.vifm-Trash-1000/000_Lemmatized-2016_11_07.csv
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/Lemmatized-2016_11_07.csv
+t/home/stas/.local/share/vifm/Trash/000_Ivanova-Grebelniy-2016-On-the-food-of-the-Antarctic-sea-anemone.pdf
+	/home/stas/Downloads/Ivanova-Grebelniy-2016-On-the-food-of-the-Antarctic-sea-anemone.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Claude 2008 Morphometrics with R.pdf
+	/home/stas/Documents/БИБЛИОТЕКА/_STAT/Morphometrics/Claude 2008 Morphometrics with R.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Kabacoff 2011 R in Action.pdf
+	/home/stas/Documents/БИБЛИОТЕКА/_STAT/Textbooks/Kabacoff 2011 R in Action.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Teetor 2011 R Cookbook.pdf
+	/home/stas/Documents/БИБЛИОТЕКА/_STAT/Textbooks-General-Statistics/Teetor 2011 R Cookbook.pdf
+t/mnt/DATA/.vifm-Trash-1000/001_Teetor 2011 R Cookbook.pdf
+	/home/stas/Documents/БИБЛИОТЕКА/_STAT/Textbooks-General-Statistics/Teetor 2011 R Cookbook.pdf
+t/home/stas/.local/share/vifm/Trash/000_Paradis-2012-APE.pdf
+	/home/stas/.config/vifm/Paradis-2012-APE.pdf
+t/home/stas/.local/share/vifm/Trash/000_RDataMining-slides-text-mining(1).pdf
+	/home/stas/Downloads/RDataMining-slides-text-mining(1).pdf
+t/home/stas/.local/share/vifm/Trash/000_Text_Mining_Handbook_Advanced_Approaches.pdf
+	/home/stas/Downloads/Text_Mining_Handbook_Advanced_Approaches.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_R Reference Manual Base Package, Vol. 1.pdf
+	/home/stas/Documents/БИБЛИОТЕКА/_STAT/R/R Reference Manual Base Package, Vol. 1.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_R Reference Manual Base Package, Vol. 2.pdf
+	/home/stas/Documents/БИБЛИОТЕКА/_STAT/R/R Reference Manual Base Package, Vol. 2.pdf
+t/home/stas/.local/share/vifm/Trash/000_Taxonomic revision of the Hydroporus bodemeyeri species complex Coleoptera Dytiscidae with a geometric morphometric analysis of body shape within the.pdf
+	/home/stas/Downloads/Taxonomic revision of the Hydroporus bodemeyeri species complex Coleoptera Dytiscidae with a geometric morphometric analysis of body shape within the.pdf
+t/home/stas/.local/share/vifm/Trash/000_parasitic_wasps_data(2).txt
+	/home/stas/Downloads/parasitic_wasps_data(2).txt
+t/home/stas/.local/share/vifm/Trash/000_syen12081-sup-0005-AppendixS1.pdf
+	/home/stas/Downloads/syen12081-sup-0005-AppendixS1.pdf
+t/home/stas/.local/share/vifm/Trash/000_syen12081-sup-0004-TableS3.pdf
+	/home/stas/Downloads/syen12081-sup-0004-TableS3.pdf
+t/home/stas/.local/share/vifm/Trash/000_syen12081-sup-0003-TableS2.pdf
+	/home/stas/Downloads/syen12081-sup-0003-TableS2.pdf
+t/home/stas/.local/share/vifm/Trash/000_syen12081-sup-0002-TableS1.pdf
+	/home/stas/Downloads/syen12081-sup-0002-TableS1.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_33347-8.zip
+	/home/stas/Documents/BOOKS/BEARDSLEY/DL/33347-8.zip
+t/mnt/DATA/.vifm-Trash-1000/000_33347-h.zip
+	/home/stas/Documents/BOOKS/BEARDSLEY/DL/33347-h.zip
+t/mnt/DATA/.vifm-Trash-1000/000_33347.zip
+	/home/stas/Documents/BOOKS/BEARDSLEY/DL/33347.zip
+t/mnt/DATA/.vifm-Trash-1000/000_aubreybeardsley33347gut.zip
+	/home/stas/Documents/BOOKS/BEARDSLEY/DL/aubreybeardsley33347gut.zip
+t/home/stas/.local/share/vifm/Trash/003_tickets.pdf
+	/home/stas/Downloads/tickets.pdf
+t/home/stas/.local/share/vifm/Trash/000_order_77814481083891.pdf
+	/home/stas/Downloads/order_77814481083891.pdf
+t/home/stas/.local/share/vifm/Trash/000_o-soprotivlenii-zlu-siloyu_2567.epub
+	/home/stas/Downloads/o-soprotivlenii-zlu-siloyu_2567.epub
+t/home/stas/.local/share/vifm/Trash/000_Психологическая_топология_пути.epub
+	/home/stas/Downloads/Психологическая_топология_пути.epub
+t/home/stas/.local/share/vifm/Trash/000_Куприн Александр Листригоны (1958).fb2
+	/home/stas/Downloads/Куприн Александр Листригоны (1958).fb2
+t/home/stas/.local/share/vifm/Trash/000_Obyknoviennoie_chudo-Drakon-Ievghienii_Shvarts.epub
+	/home/stas/Downloads/Obyknoviennoie_chudo-Drakon-Ievghienii_Shvarts.epub
+t/home/stas/.local/share/vifm/Trash/000_Skazka_o_potieriannom_vriemieni-Ievghienii_Shvarts.epub
+	/home/stas/Downloads/Skazka_o_potieriannom_vriemieni-Ievghienii_Shvarts.epub
+t/home/stas/.local/share/vifm/Trash/000_Tien-Golyi_korol-Ievghienii_Shvarts.epub
+	/home/stas/Downloads/Tien-Golyi_korol-Ievghienii_Shvarts.epub
+t/home/stas/.local/share/vifm/Trash/000_Pozvonki_minuvshikh_dniei-Ievghienii_L-vovich_Shva.epub
+	/home/stas/Downloads/Pozvonki_minuvshikh_dniei-Ievghienii_L-vovich_Shva.epub
+t/home/stas/.local/share/vifm/Trash/000_21342185.epub
+	/home/stas/Downloads/21342185.epub
+t/home/stas/.local/share/vifm/Trash/000_Shvarc_Evgenii__Drakon_www.Litmir.net_36198_ltr.epub
+	/home/stas/Downloads/Shvarc_Evgenii__Drakon_www.Litmir.net_36198_ltr.epub
+t/home/stas/.local/share/vifm/Trash/000_273618_308.epub
+	/home/stas/Downloads/273618_308.epub
+t/home/stas/.local/share/vifm/Trash/000_novikov_v_i_roman_s_yazykom_tri_esse.zip
+	/home/stas/Downloads/novikov_v_i_roman_s_yazykom_tri_esse.zip
+t/home/stas/.local/share/vifm/Trash/000_Alexandr_Blok_-_Stikhotvorenia_i_poemy_1907_1921.fb2
+	/home/stas/Downloads/Alexandr_Blok_-_Stikhotvorenia_i_poemy_1907_1921.fb2
+t/home/stas/.local/share/vifm/Trash/000_Starobinec_Perehodnyy-vozrast.122243.fb2.mobi
+	/home/stas/Downloads/Starobinec_Perehodnyy-vozrast.122243.fb2.mobi
+t/mnt/DATA/.vifm-Trash-1000/000_1kao_a_roteet_s_natural_language_processing_and_text_mining.zip
+	/home/stas/Documents/_ETC/FREELANCE/Text-Mining-presentation/1kao_a_roteet_s_natural_language_processing_and_text_mining.zip
+t/mnt/DATA/.vifm-Trash-1000/000_miner_g_practical_text_mining_and_statistical_analysis_for_n.zip
+	/home/stas/Documents/_ETC/FREELANCE/Text-Mining-presentation/miner_g_practical_text_mining_and_statistical_analysis_for_n.zip
+t/mnt/DATA/.vifm-Trash-1000/000_Text-Mining-presentation
+	/home/stas/Documents/_ETC/FREELANCE/Text-Mining-presentation
+t/mnt/DATA/.vifm-Trash-1000/000_Downloads.7z
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/Plot/TM-lect-pic/Downloads.7z
+t/mnt/DATA/.vifm-Trash-1000/000_commands.zip
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES/commands.zip
+t/mnt/DATA/.vifm-Trash-1000/000_2016-11-15
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/RESULTS/2016-11-15
+t/home/stas/.local/share/vifm/Trash/000_Архив1.zip
+	/home/stas/Downloads/Архив1.zip
+t/home/stas/.local/share/vifm/Trash/000_dayer_ueyn_kak_izbavit_sya_ot_kompleksa_zhertvy_khvatit_zavi.zip
+	/home/stas/Downloads/dayer_ueyn_kak_izbavit_sya_ot_kompleksa_zhertvy_khvatit_zavi.zip
+t/home/stas/.local/share/vifm/Trash/000_сандерленд161116.xlsx
+	/home/stas/Downloads/сандерленд161116.xlsx
+t/mnt/DATA/.vifm-Trash-1000/000_2016-11-15.zip
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/RESULTS/2016-11-15.zip
+t/mnt/DATA/.vifm-Trash-1000/000_2016-11-16
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/MESSAGES_FB/2016-11-16
+t/mnt/DATA/.vifm-Trash-1000/001_2016-11-16
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/MESSAGES_TW/2016-11-16
+t/mnt/DATA/.vifm-Trash-1000/000_.TYP9-Gp1.txt.swp
+	/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp1/.TYP9-Gp1.txt.swp
+t/mnt/DATA/.vifm-Trash-1000/000_BACKUP
+	/home/stas/Documents/GAMMARACANTHUS/SET1/BACKUP/BACKUP
+t/home/stas/.local/share/vifm/Trash/002_.viminfo
+	/home/stas/.viminfo
+t/home/stas/.local/share/vifm/Trash/001_.xsession-errors
+	/home/stas/.xsession-errors
+t/mnt/DATA/.vifm-Trash-1000/000_PR5
+	/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5
+t/mnt/DATA/.vifm-Trash-1000/000_PL
+	/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PL
+t/mnt/DATA/.vifm-Trash-1000/000_OST1-PR5cx.txt
+	/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5cx/OST1-PR5cx.txt
+t/mnt/DATA/.vifm-Trash-1000/000_OST2-PR5cx.txt
+	/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5cx/OST2-PR5cx.txt
+t/mnt/DATA/.vifm-Trash-1000/000_OST1-PR5cx.tif
+	/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/PR5cx/OST1-PR5cx.tif
+t/mnt/DATA/.vifm-Trash-1000/000_OST2-PR5cx.tif
+	/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/PR5cx/OST2-PR5cx.tif
+t/mnt/DATA/.vifm-Trash-1000/000_2016-11-17.RData
+	/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5d/2016-11-17.RData
+t/mnt/DATA/.vifm-Trash-1000/000_2016-11-17.Rhistory
+	/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5d/2016-11-17.Rhistory
+t/mnt/DATA/.vifm-Trash-1000/000_cutting1.vim
+	/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5d/cutting1.vim
+t/mnt/DATA/.vifm-Trash-1000/000_cutting.vim
+	/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PL3d/cutting.vim
+t/mnt/DATA/.vifm-Trash-1000/001_Rplot.pdf
+	/home/stas/Documents/GAMMARACANTHUS/SET1/Rplot.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_Rplot01.pdf
+	/home/stas/Documents/GAMMARACANTHUS/SET1/Rplot01.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_FB-tm-exmpl.R
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/R/FB-tm-exmpl.R
+t/mnt/DATA/.vifm-Trash-1000/000_Bournemouth.csv
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES/Bournemouth.csv
+t/mnt/DATA/.vifm-Trash-1000/000_HullCity.csv
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES/HullCity.csv
+t/mnt/DATA/.vifm-Trash-1000/000_LesterCity.csv
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES/LesterCity.csv
+t/mnt/DATA/.vifm-Trash-1000/000_Liverpool.csv
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES/Liverpool.csv
+t/mnt/DATA/.vifm-Trash-1000/000_ManCity.csv
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES/ManCity.csv
+t/mnt/DATA/.vifm-Trash-1000/000_Sanderland.csv
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES/Sanderland.csv
+t/mnt/DATA/.vifm-Trash-1000/000_Southampton.csv
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES/Southampton.csv
+t/mnt/DATA/.vifm-Trash-1000/000_Stokecity.csv
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES/Stokecity.csv
+t/mnt/DATA/.vifm-Trash-1000/000_Watford.csv
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES/Watford.csv
+t/mnt/DATA/.vifm-Trash-1000/000_WestBromwichAlbion.csv
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES/WestBromwichAlbion.csv
+t/mnt/DATA/.vifm-Trash-1000/002_2016-11-16
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/MESSAGES_FB/2016-11-16
+t/mnt/DATA/.vifm-Trash-1000/000_2016-11-17
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/MESSAGES_FB/2016-11-17
+t/mnt/DATA/.vifm-Trash-1000/000_2016-11-18
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/MESSAGES_FB/2016-11-18
+t/mnt/DATA/.vifm-Trash-1000/000_2016-11-19
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/MESSAGES_FB/2016-11-19
+t/mnt/DATA/.vifm-Trash-1000/003_2016-11-16
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/MESSAGES_TW/2016-11-16
+t/mnt/DATA/.vifm-Trash-1000/001_2016-11-17
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/MESSAGES_TW/2016-11-17
+t/mnt/DATA/.vifm-Trash-1000/001_2016-11-18
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/MESSAGES_TW/2016-11-18
+t/mnt/DATA/.vifm-Trash-1000/001_2016-11-19
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/MESSAGES_TW/2016-11-19
+t/mnt/DATA/.vifm-Trash-1000/002_2016-11-19
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/RESULTS/2016-11-19
+t/mnt/DATA/.vifm-Trash-1000/000_TABLES
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES
+t/mnt/DATA/.vifm-Trash-1000/000_CD
+	/home/stas/Documents/TMP/CD
+t/home/stas/.local/share/vifm/Trash/000_Tottenham Hotspur.xlsx
+	/home/stas/Downloads/Tottenham Hotspur.xlsx
+t/home/stas/.local/share/vifm/Trash/000_chelsea.ods
+	/home/stas/Downloads/chelsea.ods
+t/home/stas/.local/share/vifm/Trash/000_Everton.xlsx
+	/home/stas/Downloads/Everton.xlsx
+t/home/stas/.local/share/vifm/Trash/000_rstudio-1.0.44-amd64.deb
+	/home/stas/Downloads/rstudio-1.0.44-amd64.deb
+t/home/stas/.local/share/vifm/Trash/000_herriot_james_all_things_wise_and_wonderful.rar
+	/home/stas/Downloads/herriot_james_all_things_wise_and_wonderful.rar
+t/home/stas/.local/share/vifm/Trash/000_herriot_james_the_lord_god_made_them_all.rar
+	/home/stas/Downloads/herriot_james_the_lord_god_made_them_all.rar
+t/home/stas/.local/share/vifm/Trash/000_herriot_james_every_living_thing.rar
+	/home/stas/Downloads/herriot_james_every_living_thing.rar
+t/home/stas/.local/share/vifm/Trash/000_1herriot_james_all_things_bright_and_beautiful.rar
+	/home/stas/Downloads/1herriot_james_all_things_bright_and_beautiful.rar
+t/home/stas/.local/share/vifm/Trash/000_Кривин_-_Завтрашние_сказки.epub
+	/home/stas/Downloads/Кривин_-_Завтрашние_сказки.epub
+t/home/stas/.local/share/vifm/Trash/000_Кривин_-_Сегодняшние_сказки_(Земля_обетованная_вокруг_нас).epub
+	/home/stas/Downloads/Кривин_-_Сегодняшние_сказки_(Земля_обетованная_вокруг_нас).epub
+t/home/stas/.local/share/vifm/Trash/000_Кривин_-_Сегодняшние_сказки_(Строительство_земли_обетованной).epub
+	/home/stas/Downloads/Кривин_-_Сегодняшние_сказки_(Строительство_земли_обетованной).epub
+t/home/stas/.local/share/vifm/Trash/000_Кривин_-_Вчерашние_сказки.epub
+	/home/stas/Downloads/Кривин_-_Вчерашние_сказки.epub
+t/home/stas/.local/share/vifm/Trash/000_Айтматов_-_Белый_пароход.epub
+	/home/stas/Downloads/Айтматов_-_Белый_пароход.epub
+t/home/stas/.local/share/vifm/Trash/000_Гранин__Адамович_-_Блокадная_книга.epub
+	/home/stas/Downloads/Гранин__Адамович_-_Блокадная_книга.epub
+t/home/stas/.local/share/vifm/Trash/000_Петров__Ильф_-_Золотой_Теленок_(полная_версия).epub
+	/home/stas/Downloads/Петров__Ильф_-_Золотой_Теленок_(полная_версия).epub
+t/mnt/DATA/.vifm-Trash-1000/000__MESSAGES_FB
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/_MESSAGES_FB
+t/mnt/DATA/.vifm-Trash-1000/000__MESSAGES_TW
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/_MESSAGES_TW
+t/mnt/DATA/.vifm-Trash-1000/000__RESULTS
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/_RESULTS
+t/home/stas/.local/share/vifm/Trash/000_Gmcnt-paper.odt
+	/home/stas/Downloads/Gmcnt-paper.odt
+t/home/stas/.local/share/vifm/Trash/000_Gmcnt-paper.docx
+	/home/stas/Downloads/Gmcnt-paper.docx
+t/home/stas/.local/share/vifm/Trash/000_TEST_1.xlsx
+	/home/stas/Downloads/TEST_1.xlsx
+t/mnt/DATA/.vifm-Trash-1000/000_NewTerms-2016-11-21-DRAFT.csv
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/NewTerms-2016-11-21-DRAFT.csv
+t/home/stas/.local/share/vifm/Trash/000_точки-25.07.jpg
+	/home/stas/Downloads/точки-25.07.jpg
+t/home/stas/.local/share/vifm/Trash/001_Gmcnt-paper.odt
+	/home/stas/Downloads/Gmcnt-paper.odt
+t/mnt/DATA/.vifm-Trash-1000/000_AFC Bournemouth.ods
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES/AFC Bournemouth.ods
+t/mnt/DATA/.vifm-Trash-1000/000_arsenal.ods
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES/arsenal.ods
+t/mnt/DATA/.vifm-Trash-1000/000_Burnley.ods
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES/Burnley.ods
+t/mnt/DATA/.vifm-Trash-1000/000_Chelsea F.C..ods
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES/Chelsea F.C..ods
+t/mnt/DATA/.vifm-Trash-1000/000_Crystal Palace.ods
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES/Crystal Palace.ods
+t/home/stas/.local/share/vifm/Trash/000_twitter.pbix
+	/home/stas/Downloads/twitter.pbix
+t/home/stas/.local/share/vifm/Trash/000_Msc-Spb-28_11_2016.pdf
+	/home/stas/Downloads/Msc-Spb-28_11_2016.pdf
+t/home/stas/.local/share/vifm/Trash/000_SPb-Msc-22_11_2016.pdf
+	/home/stas/Downloads/SPb-Msc-22_11_2016.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_PCA_var_plot
+	/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS/PCA_var_plot
+t/mnt/DATA/.vifm-Trash-1000/000_M_PCA_var_plot.pdf
+	/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS/M_PCA_var_plot.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_M.pca_2_3
+	/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS/M.pca_2_3
+t/mnt/DATA/.vifm-Trash-1000/000_M.pca_2_3.jpeg
+	/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS/M.pca_2_3.jpeg
+t/mnt/DATA/.vifm-Trash-1000/000_M.pca_2_3.png
+	/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS/M.pca_2_3.png
+t/mnt/DATA/.vifm-Trash-1000/000_twts.txt
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/twts.txt
+t/mnt/DATA/.vifm-Trash-1000/000_tmp.txt
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/tmp.txt
+t/mnt/DATA/.vifm-Trash-1000/000_networks.R
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/R/networks.R
+t/home/stas/.local/share/vifm/Trash/000_kbenoit-dfm-question.R
+	/home/stas/kbenoit-dfm-question.R
+t/home/stas/.local/share/vifm/Trash/000_FactoMineR_1.29.tar.gz
+	/home/stas/Downloads/FactoMineR_1.29.tar.gz
+t/mnt/DATA/.vifm-Trash-1000/000_two-y-axes-master.zip
+	/home/stas/Documents/EnviroSurveR/EnviroSurveR/_R/two-y-axes-master.zip
 
 # State:
 f
-i1
+i0
 [.0
 [F
 F

@@ -87,9 +87,9 @@ set scrolloff=4
 " Set custom status line look
 set statusline="  %t%= %A %10u:%-7g %15s %20d  "
 
-windo set viewcolumns=-{name}..,10%{size}.,-8%{ctime}.
+windo set viewcolumns=-{name}..,10%{size}.,-12%{mtime}.
 winrun ^ set sort=iname
-winrun $ set sort=-mtime
+winrun $ set sort=-ctime
 
 
 source ~/.config/vifm/mapping
