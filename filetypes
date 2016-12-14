@@ -86,7 +86,8 @@ filetype *.msg mate-terminal -e 'vim %c -S ~/.vim/msg_opt.vim'
 " R files
 " Remember!! For each new R project create a new folder!
 filetype *.r,*.R mate-terminal -e 'vim %c'
-filetype *.RData,*.rda,*.Rproj mate-terminal -e 'bash -c "cp %c ./.RData; cp %c:r.R*ist ./.Rhistory; R; rm .RData; rm .Rhistory"'
+filetype *.RData,*.rda, mate-terminal -e 'bash -c "cp %c ./.RData; cp %c:r.R*ist ./.Rhistory; R; rm .RData; rm .Rhistory"'
+filetype *.Rproj rstudio %c %i &
 filetype *.Rhist,*.RHist,*Rhistory mate-terminal -e 'vim %c'
 
 " pdf

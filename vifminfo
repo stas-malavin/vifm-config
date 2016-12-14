@@ -14,7 +14,7 @@
 =fusehome=/tmp/vifm_FUSE/
 =nogdefault
 =grepprg=grep\ -n\ -H\ -I\ -r\ %i\ %a\ %s
-=history=341
+=history=357
 =hlsearch
 =noiec
 =ignorecase
@@ -100,10 +100,14 @@
 	/home/stas/Pictures
 	..
 1461060159
+'T
+	/home/stas/Documents/GDrive/Text-Mining
+	..
+1481532487
 'V
 	/home/stas/.config/vifm
 	..
-1477987432
+1481546112
 'W
 	/mnt/WIN/Users/Stas.Malavin
 	..
@@ -174,7 +178,7 @@
 1473611514
 
 # TUI:
-al
+ar
 q0
 v2
 ov
@@ -183,24 +187,66 @@ l12
 r-10,2
 
 # Left window history (oldest to newest):
-d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/MESSAGES_TW/2016-11-16
-	Arsenal
+d/home/stas/Documents/GDrive/Text-Mining
+	test
+10
+d/home/stas/Documents/GDrive/Text-Mining/test
+	testtwitts.txt
 1
+d/home/stas/Documents/GDrive/Text-Mining
+	rda
+9
+d/home/stas/Documents/GDrive/Text-Mining/rda
+	twts.st
+2
+d/home/stas/Documents/GDrive/Text-Mining
+	dict
+4
+d/home/stas/Documents/GDrive
+	Text-Mining
+1
+d/home/stas/Documents
+	EnviroSurveR
+4
+d/home/stas/Documents/EnviroSurveR
+	EnviroSurveR
+1
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR
+	_data
+3
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
+	CTD2
+3
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD2
+	..
+0
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
+	Hydrobio
+4
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/Hydrobio
+	..
+0
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
+	CTD2
+3
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD2
+	Гидрология.xlsx
+9
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
+	CTD2
+3
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR
+	R
+11
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR/R
+	plot.CTD.R
+7
+d/home/stas/Documents/EnviroSurveR/EnviroSurveR
+	R
+11
 d/home/stas/Documents/GAMMARACANTHUS
 	SET1
-4
-d/home/stas/Calibre Library
-	Alieksandr Kuprin
-2
-d/home/stas/Calibre Library/Alieksandr Kuprin
-	Listrighony (355)
-1
-d/home/stas/Calibre Library/Alieksandr Kuprin/Listrighony (355)
-	Listrighony - Alieksandr Kuprin.epub
-2
-d/home/stas/Documents/GAMMARACANTHUS
-	SET1
-4
+5
 d/home/stas/Documents/GAMMARACANTHUS/SET1
 	PHOTO
 5
@@ -208,101 +254,218 @@ d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
 	SET2
 17
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
-	PR5d
-13
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5d
-	KER1-PR5d.tif
-14
+	A1
+1
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/A1
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	A2
+2
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/A2
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Gp1
+3
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp1
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Gp2
+4
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp2
+	..
+0
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
 	He
 5
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/He
-	CHU1-He.tif
-1
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PL3d
+9
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PL3d
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PL3pl
+10
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PL3pl
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Pp7
+11
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Pp7
+	..
+0
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
 	PR5cx
 12
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5cx
-	CHU1-PR5cx.tif
-1
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
-	PR5cx
-12
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5cx
-	CHU1-PR5cx.tif
-1
+	..
+0
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
 	PR5d
 13
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5d
-	CHU2-PR5d.tif
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	He
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/He
+	SVL1-He.tif
+26
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	He
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/He
+	SVL1-He.tif
+26
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	He
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	SET2
+17
+d/home/stas/Documents/GAMMARACANTHUS/SET1
+	SHAPES
+8
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	A1
+1
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/A1
+	SVL3-A1.txt
+34
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	He
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/He
+	LAP2-He.txt
+18
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	A2
 2
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/A2
+	DIL7-A2.txt
+25
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Mdp-2
+6
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Mdp-2
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Gp2
+4
+d/home/stas/Documents/GAMMARACANTHUS/SET1
+	SHAPES
+8
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Gp2
+4
+d/home/stas/Documents/GAMMARACANTHUS/SET1
+	SHAPES
+8
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	He
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/He
+	LAP2-He.txt
+18
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	A2
+2
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/A2
+	DIL7-A2.txt
+25
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Gp1
+3
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp1
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Gp1
+3
+d/home/stas/Documents/GAMMARACANTHUS/SET1
+	SHAPES
+8
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Gp1
+3
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp1
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Gp1
+3
+d/home/stas/Documents/GAMMARACANTHUS/SET1
+	PHOTO
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	SET2
+17
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Gp1
+3
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp1
+	SVL1-Gp1.tif
+26
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Gp2
+4
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp2
+	SVL1-Gp2.tif
+26
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Gp2
+4
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp2
+	SVL1-Gp2.tif
+26
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PR5cx
+12
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5cx
+	SVL1-PR5cx.tif
+26
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
 	PR5d
 13
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5d
+	SVL1-PR5d.tif
+26
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PL3pl
+10
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PL3pl
+	SVL1-PL3pl.tif
+26
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PL3d
+9
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PL3d
+	SVL1-PL3d.tif
+26
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Pp7
+11
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Pp7
+	SVL1-Pp7.tif
+26
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Pp7
+11
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
 	SET2
 17
 d/home/stas/Documents/GAMMARACANTHUS/SET1
 	PHOTO
 5
-d/home/stas/Documents/GAMMARACANTHUS
-	LIT
-3
-d/home/stas/Documents/GAMMARACANTHUS/LIT
-	Bousfield_1989_Pontoporeia_&_Gammaracanthus.pdf
-6
-d/home/stas/Documents/GAMMARACANTHUS
-	BOX_5_Gammaracanthus
-1
-d/home/stas/Documents/GAMMARACANTHUS/BOX_5_Gammaracanthus
-	Gammaracanthus_loricatus_01.jpg
-1
-d/home/stas/Documents/GAMMARACANTHUS
-	SET1
-4
-d/home/stas/Documents/GAMMARACANTHUS/SET1
-	PHOTO
-5
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
-	PR5cx
-15
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/PR5cx
-	AES1-PR5cx.tif
-1
-d/home/stas/Documents/_ETC/FREELANCE
-	Twit_RBC
-12
-d/home/stas/Documents/_ETC/FREELANCE/Twit_RBC
-	NewTerms-2016-11-21.csv
-17
-d/home/stas/Documents/_ETC/FREELANCE
-	TMP
-11
-d/home/stas/Documents/GAMMARACANTHUS
-	SEQ
-4
-d/home/stas/Documents/GAMMARACANTHUS/SEQ
-	C190_LCO_G06.ab1
-36
-d/home/stas/Documents/_ETC/FREELANCE
-	..
-0
-d/home/stas/Documents/GitHub/stas-malavin.github.io
-	_drafts
-3
-d/home/stas/Documents/GitHub/stas-malavin.github.io/_drafts
-	2013-08-12-sample-link-post.md
-2
-d/home/stas/Documents/GitHub/stas-malavin.github.io
-	_drafts
-3
-d/home/stas/Documents/_ETC/FREELANCE
-	Twit_RBC
-12
-d/home/stas/Documents/_ETC/FREELANCE/Twit_RBC
-	NewTerms-2016-11-21.xlsx
-18
 d/home/stas/Documents
 	BRACON
 3
@@ -310,772 +473,375 @@ d/home/stas/Documents/BRACON
 	FIN1
 2
 d/home/stas/Documents/BRACON/FIN1
-	PLOTS
-4
-d/home/stas/Documents/BRACON/FIN1/PLOTS
-	..
-0
-d/home/stas/Documents/BRACON/FIN1
-	PLOTS
-4
-d/home/stas/Documents/BRACON
-	FIN
-1
-d/home/stas/Documents/BRACON/FIN
-	Оцифровка-заднее.png
-15
-d/home/stas/Documents/BRACON
-	FIN1
-2
-d/home/stas/Documents/BRACON/FIN1
-	SHAPES
-6
-d/home/stas/Documents/BRACON/FIN1/SHAPES
-	F
-1
-d/home/stas/Documents/BRACON/FIN1/SHAPES/F
-	002.txt
-1
-d/home/stas/Documents/BRACON/FIN1/SHAPES
-	F
-1
-d/home/stas/Documents/BRACON/FIN1
-	ERROR
-3
-d/home/stas/Documents/BRACON
-	FIN
-1
-d/home/stas/Documents/BRACON/FIN
-	WINGS
-3
-d/home/stas/Documents/BRACON/FIN/WINGS
-	001-187fl.jpg
-1
-d/home/stas/Documents/BRACON/FIN
-	WINGS
-3
-d/home/stas/Documents/BRACON
-	FIN1
-2
-d/home/stas/Documents/BRACON/FIN1
-	SHAPES
-6
-d/home/stas/Documents/BRACON/FIN1/SHAPES
-	F
-1
-d/home/stas/Documents/BRACON/FIN1
-	SHAPES
-6
-d/home/stas/Documents/BRACON/FIN1/SHAPES
-	001-187fl.txt
-3
-d/home/stas/Documents/BRACON/FIN1
-	Wings_meas.xlsx
-34
-d/home/stas/Documents/_ETC/FREELANCE
-	ALEXANDR_SPORT
-3
-d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
-	TABLES
-9
-d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES
-	..
-0
-d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
-	TABLES
-10
-d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES
-	Everton.xlsx
-6
-d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
 	R
-8
-d/home/stas/Documents/GAMMARACANTHUS
-	..
-0
-d/home/stas/Documents/БИБЛИОТЕКА
-	_STAT
-4
-d/home/stas/Documents/БИБЛИОТЕКА/_STAT
-	R
-10
-d/home/stas/Documents/БИБЛИОТЕКА/_STAT/R
-	Heiberger, Neuwirth 2009 R Through Excel. A Spreadsheet Interface for Statistics, Data Analysis, and Graphics.pdf
-25
-d/home/stas/Documents/_ETC/FREELANCE
-	BASH_EXAMPLES
-4
-d/home/stas/Documents/GAMMARACANTHUS
-	SET1
 5
-d/home/stas/Documents/GAMMARACANTHUS/SET1
-	PLOTS
-6
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS
+d/home/stas/Documents/BRACON/FIN1/R
 	..
 0
-d/home/stas/Documents/GAMMARACANTHUS/SET1
-	Gmcnt-char-map.xlsx
-12
-d/home/stas/Documents/GAMMARACANTHUS
-	LIT
-3
-d/home/stas/Documents/GAMMARACANTHUS/LIT
-	1952-Ломакина-амфиподы-1.pdf
-6
-d/home/stas/Documents/GAMMARACANTHUS
-	SET1
-5
-d/home/stas/Documents/GAMMARACANTHUS/SET1
-	PLOTS
-6
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS
-	Cx5_pca.png
-5
-d/home/stas/Documents/_ETC/FREELANCE
-	Twit_RBC
-13
-d/home/stas/Documents/_ETC/FREELANCE/Twit_RBC
-	mystem
-6
-d/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/mystem
-	mamarama-res.txt
-1
-d/home/stas/Documents/_ETC/FREELANCE/Twit_RBC
-	R
-8
-d/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/R
-	mystem.R
-6
-d/home/stas/Documents/_ETC/FREELANCE/Twit_RBC
-	Lemm-test-res.csv
-17
-d/home/stas/Documents/_ETC/FREELANCE
-	Twit_RBC
-13
-d/home/stas/Documents/_ETC/FREELANCE/Twit_RBC
-	Lemm-test.xlsx
-21
-d/home/stas/Documents/_ETC/FREELANCE
-	ALEXANDR_SPORT
-3
-d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
-	R
-8
-d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/R
-	Sanderland.R
-4
-d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
-	TABLES
-10
-d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/TABLES
-	Arsenal.csv
-1
-d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
-	RESULTS
-9
-d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/RESULTS
-	2016-11-21
-7
-d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/RESULTS/2016-11-21
-	Arsenal.csv
-1
-d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/RESULTS
-	2016-11-21
-7
-d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
-	RESULTS
-9
 d/home/stas/Documents
-	..
-0
-d/home/stas/Documents/GAMMARACANTHUS
-	LIT
-3
-d/home/stas/Documents/GAMMARACANTHUS/LIT
-	Vainola-et-al-2001-Phylogeography-of-Gammaracanthus.pdf
-14
-d/home/stas/Documents/GAMMARACANTHUS
-	SET1
-5
-d/home/stas/Documents/GAMMARACANTHUS/SET1
-	PHOTO
-5
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
-	Gp1
-3
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/Gp1
-	AES1-Gp1.tif
-1
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
-	SET2
-17
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
-	Gp1
-3
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp1
-	CHU1-Gp1.tif
-1
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
-	Gp1
-3
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
-	Gp1
-3
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/Gp1
-	OST3-Gp1.tif
-19
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
-	PR5d
-16
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/PR5d
-	AES1-PR5d.tif
-1
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
-	PR5d
-16
-d/home/stas/Documents/GAMMARACANTHUS/SET1
-	PHOTO
-5
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
-	SET2
-17
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
-	PR5cx
-12
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5cx
-	KER1-PR5cx.tif
-14
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
-	PR5d
-13
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5d
-	TYP7-PR5d.tif
-25
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
-	Gp1
-3
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp1
-	TYP7-Gp1.tif
-25
-d/home/stas/Documents/EnviroSurveR
-	WinBuilder
-2
-d/home/stas/Documents/EnviroSurveR/WinBuilder
-	..
-0
-d/home/stas/Documents/EnviroSurveR
-	EnviroSurveR
-1
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR
-	_data
-3
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
-	Hydrobio
-3
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/Hydrobio
-	..
-0
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
-	CTD
-1
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD
-	..
-0
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
-	CTD1
-2
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD1
-	..
-0
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
-	CTD
-1
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD
-	..
-0
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
-	CTD1
-2
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD1
-	..
-0
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
-	CTD1
-2
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD1
-	418.csv
-1
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
-	CTD_KOL_Data.xls
+	GitHub
 7
+d/home/stas/Documents/GitHub
+	morphSM
+6
+d/home/stas/Documents/GitHub/morphSM
+	importSM.r
+5
 d/home/stas/Documents/GAMMARACANTHUS
 	SET1
 5
 d/home/stas/Documents/GAMMARACANTHUS/SET1
 	PHOTO
 5
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
-	Gp1
-3
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/Gp1
-	AES3-Gp1.tif
-3
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
-	SET2
-17
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
-	Gp1
-3
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp1
-	DIL1-Gp1.tif
+d/home/stas/Documents/GAMMARACANTHUS
+	..
+0
+d/home/stas/Documents
+	GitHub
 7
-d/home/stas/Documents/_ETC/FREELANCE
+d/home/stas/Documents/GitHub
+	morphSM
+6
+d/home/stas/Documents/GitHub/morphSM
+	importSM.r
+5
+d/home/stas/Documents/GAMMARACANTHUS
+	SET1
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1
+	PLOTS
+6
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS
 	..
 0
-d/home/stas/Documents/EnviroSurveR
-	EnviroSurveR
-1
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR
-	_data
-3
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
-	CTD1
-2
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD1
-	418.csv
-1
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
-	CTD
-1
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD
-	..
-0
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
-	CTD1
-2
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD1
-	418.csv
-1
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
-	CTD1
-2
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR
-	_R
-7
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_R
-	two-y-axes-master
-1
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_R/two-y-axes-master
-	..
-0
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_R
-	two-y-axes-master
-1
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_R/two-y-axes-master
-	two-y-axes.r
-3
+d/home/stas/Documents/GAMMARACANTHUS/SET1
+	PLOTS
+6
 d
 
 # Right window history (oldest to newest):
 D/home/stas/Downloads
-	Nucl. Acids Res.-1997-Aljanabi-4692-3.pdf
+	rclone-v1.34-linux-amd64
+1
+D/home/stas/Downloads/rclone-v1.34-linux-amd64
+	rclone
+3
+D/home/stas/Downloads
+	10.1.1.102.4034.pdf
+8
+D/home/stas/.config/vifm
+	commands
 4
-D/home/stas/Videos
-	..
-0
-D/home/stas
-	.vimperatorrc
-36
-D/home/stas/Videos
-	Лекция Оксаны Лавровой — «О комплексе жертвы»-kdDCI6EWzA0.mp4
-14
-D/home/stas/Downloads
-	LLL
+D/home/stas/.config
+	vifm
 1
-D/home/stas/Downloads/LLL
-	IMG_20161115_1_3.jpg
-2
-D/home/stas/Downloads
-	LLL
-1
-D/home/stas/Downloads/LLL
-	IMG_20161115_1_3.jpg
-2
-D/home/stas/Downloads
-	LLL
-1
-D/home/stas/Downloads/LLL
-	IMG_20161115_1_3.jpg
-1
-D/home/stas/Downloads
-	LLL
-1
-D/home/stas/Downloads/LLL
-	IMG_20161115_1_3.jpg
-3
-D/home/stas/Downloads
-	LLL
-1
-D/home/stas/Downloads/LLL
-	IMG_20161115_1_3.jpg
-3
-D/home/stas/Downloads
-	Nucl. Acids Res.-1997-Aljanabi-4692-3.pdf
-5
-D/media/stas
-	BROKEN-CARD
-1
-D/media/stas/BROKEN-CARD
-	My Files
-5
-D/media/stas/BROKEN-CARD/My Files
-	Books
-1
-D/media/stas/BROKEN-CARD/My Files/Books
-	Леви
-1
-D/media/stas/BROKEN-CARD/My Files/Books/Леви
-	..
-0
-D/media/stas/BROKEN-CARD/My Files/Books
-	Кривин
-1
-D/media/stas/BROKEN-CARD/My Files/Books/Кривин
-	Zolotoi Tielienok (polnaia viersiia) - Ievghienii Pietrov.epub
-1
-D/media/stas/BROKEN-CARD/My Files/Books
-	Кривин
-1
-D/media/stas/BROKEN-CARD/My Files/Books/Кривин
-	Zavtrashniie skazki - Fieliks Davidovich Krivin.epub
-1
-D/media/stas/BROKEN-CARD/My Files/Books
-	Кривин
-1
-D/media/stas/BROKEN-CARD/My Files
-	Books
-1
-D/media/stas/BROKEN-CARD
-	My Files
-5
-D/media/stas
-	..
-0
-D/home/stas/Downloads
-	..
-0
-D/media/stas
-	BROKEN-CARD
-1
-D/media/stas/BROKEN-CARD
-	My Files
-5
-D/media/stas/BROKEN-CARD/My Files
-	Books
-1
-D/media/stas/BROKEN-CARD/My Files/Books
-	Heriott
-1
-D/media/stas/BROKEN-CARD/My Files/Books/Heriott
-	..
-0
-D/media/stas/BROKEN-CARD/My Files/Books
-	Heriott
-1
-D/media/stas/BROKEN-CARD/My Files
-	Books
-1
-D/media/stas/BROKEN-CARD
-	My Files
-5
-D/media/stas
-	..
-0
-D/home/stas/Downloads
-	..
-0
-D/home/stas
-	Downloads
+D/home/stas/.config/vifm
+	commands
 4
-D/home/stas/Downloads
+D/home/stas/Documents
+	TRANSLATION
+8
+D/home/stas/Documents/_ETC/FREELANCE
+	Twit_RBC
+1
+D/home/stas/Documents/_ETC/FREELANCE/Twit_RBC
+	.git
+1
+D/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/.git
 	..
 0
-D/home/stas
-	Downloads
-4
-D/home/stas/Downloads
-	Image-ExifTool-10.28
-3
-D/home/stas/Downloads/Image-ExifTool-10.28
+D/home/stas/Documents/_ETC/FREELANCE/Twit_RBC
+	.git
+1
+D/home/stas/Documents/GDrive/Text-Mining
+	.git
+1
+D/home/stas/Documents/GDrive/Text-Mining/.git
 	..
 0
-D/home/stas/Downloads
-	Image-ExifTool-10.28
+D/home/stas/Documents/GDrive/Text-Mining
+	.git
+1
+D/home/stas/Documents/GDrive/Text-Mining/.git
+	..
+0
+D/home/stas/Documents/GDrive/Text-Mining
+	dict
 3
-D/home/stas/Videos
-	Благословите женщину
+D/home/stas/Documents/GDrive/Text-Mining/dict
+	PESTEL-dic.ods
+3
+D/home/stas/Documents/GDrive/Text-Mining
+	results
 6
-D/home/stas
-	Videos
-17
-D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp2
-	TYP9-Gp2.txt
+D/home/stas/Documents/GDrive/Text-Mining/results
+	2016-12-11
 1
-D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
-	Gp1
+D/home/stas/Documents/GDrive/Text-Mining/results/2016-12-11
+	tweets-pestel.csv
+1
+D/home/stas/Documents/GDrive/Text-Mining/results
+	..
+0
+D/home/stas/Documents/GDrive/Text-Mining
+	.git
+3
+D/home/stas/Documents/GDrive/Text-Mining/.git
+	logs
+1
+D/home/stas/Documents/GDrive/Text-Mining/.git/logs
+	..
+0
+D/home/stas/Documents/GDrive/Text-Mining/.git
+	logs
+1
+D/home/stas/Documents/GDrive/Text-Mining/.git/logs
+	refs
+1
+D/home/stas/Documents/GDrive/Text-Mining/.git/logs/refs
+	heads
+1
+D/home/stas/Documents/GDrive/Text-Mining/.git/logs/refs/heads
+	master
+1
+D/home/stas/Documents/GDrive/Text-Mining/.git/logs/refs
+	heads
+1
+D/home/stas/Documents/GDrive/Text-Mining/.git/logs
+	refs
+1
+D/home/stas/Documents/GDrive/Text-Mining/.git
+	logs
+1
+D/home/stas/Documents/GDrive/Text-Mining
+	results
 2
-D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp1
-	TYP9-Gp1.txt
+D/home/stas/Documents/GDrive/Text-Mining/results
+	..
+0
+D/home/stas/Documents/GDrive/Text-Mining
+	results
 2
+D/home/stas/Documents/GDrive/Text-Mining/results
+	..
+0
+D/home/stas/Documents/GDrive/Text-Mining
+	.git
+1
+D/home/stas/Documents/GDrive/Text-Mining/.git
+	logs
+1
+D/home/stas/Documents/GDrive/Text-Mining/.git/logs
+	HEAD
+2
+D/home/stas/Documents/GDrive/Text-Mining/.git
+	logs
+1
+D/home/stas/Documents/GDrive/Text-Mining
+	R
+4
+D/home/stas/Documents/GDrive/Text-Mining/R
+	helper-functions.R
+1
+D/home/stas/Documents/GDrive/Text-Mining
+	R
+1
+D/home/stas/Documents/GDrive
+	Text-Mining
+1
+D/home/stas/Documents/GDrive/Text-Mining
+	.git
+2
+D/home/stas/Documents/GDrive/Text-Mining/.git
+	logs
+2
+D/home/stas/Documents/GDrive/Text-Mining/.git/logs
+	HEAD
+2
+D/home/stas/Documents/GDrive/Text-Mining/.git
+	logs
+2
+D/home/stas/Documents/GDrive/Text-Mining
+	.git
+1
+D/home/stas/Documents/GDrive/Text-Mining/.git
+	objects
+1
+D/home/stas/Documents/GDrive/Text-Mining
+	_etc
+1
+D/home/stas/Documents/GDrive/Text-Mining/_etc
+	..
+0
+D/home/stas/Documents/GDrive/Text-Mining
+	R
+3
+D/home/stas/Documents/GDrive/Text-Mining/R
+	get-data.R
+2
+D/home/stas/Documents/GDrive/Text-Mining
+	.Rproj.user
+2
+D/home/stas/Documents/GDrive/Text-Mining/.Rproj.user
+	..
+0
+D/home/stas/Documents/GDrive/Text-Mining
+	.git
+1
+D/home/stas/Documents/GDrive/Text-Mining/.git
+	logs
+2
+D/home/stas/Documents/GDrive/Text-Mining/.git/logs
+	HEAD
+2
+D/home/stas/Documents/GDrive/Text-Mining/.git
+	logs
+2
+D/home/stas/Documents/GDrive/Text-Mining
+	test
+5
+D/home/stas/Documents/GDrive
+	Text-Mining
+1
+D/home/stas/Documents/GDrive/Text-Mining
+	.gitignore
+13
+D/home/stas/.config/vifm
+	marks
+5
 D/home/stas/Downloads
-	syen12081-sup-0001-FigureS1.pdf
-11
+	rclone-v1.34-linux-amd64
+1
+D/home/stas/Downloads/rclone-v1.34-linux-amd64
+	rclone
+3
+D/home/stas/Downloads
+	twr-master.zip
+5
+D/home/stas/.config/vifm
+	marks
+4
+D/home/stas/Downloads
+	..
+0
+D/home/stas/.config/vifm
+	commands
+4
+D/home/stas/Downloads
+	Мск-НЧ-Стас.pdf
+8
+D/home/stas/Documents/_ETC/FREELANCE
+	Twit_RBC
+1
+D/home/stas/Documents/_ETC/FREELANCE/Twit_RBC
+	dict
+2
+D/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/dict
+	PESTEL-dic.ods
+3
+D/home/stas/Downloads
+	..
+0
 D/home/stas
-	.vimperatorrc
+	.profile
 25
+D/home/stas/.config/vifm
+	commands
+4
 D/home/stas/Downloads
-	Baur-Leuenberger-2011-Analysis-of-ratios-in-multivariate-morphometry.pdf
-21
+	Мск-НЧ-Любa.pdf
+5
+D/media/stas
+	SSS
+2
+D/media/stas/SSS
+	Photo-12_12_2016
+1
+D/media/stas/SSS/Photo-12_12_2016
+	Thumbs.db
+1
+D/media/stas/SSS
+	ssss.jpg
+1
 D/media/stas
 	9016-4EF8
 1
-D/media/stas/9016-4EF8
-	Sounds
-5
-D/media/stas/9016-4EF8/Sounds
-	..
-0
-D/media/stas/9016-4EF8
-	Android
-1
-D/media/stas/9016-4EF8/Android
-	media
-3
-D/media/stas/9016-4EF8/Android/media
-	..
-0
-D/media/stas/9016-4EF8/Android
-	media
-3
-D/media/stas/9016-4EF8
-	Sounds
-5
-D/media/stas/9016-4EF8/Sounds
-	..
-0
-D/media/stas/9016-4EF8
-	ScreenCapture
-4
-D/media/stas/9016-4EF8/ScreenCapture
-	..
-0
-D/media/stas/9016-4EF8
-	ScreenCapture
-4
-D/media/stas/9016-4EF8/ScreenCapture
-	..
-0
-D/media/stas/9016-4EF8
-	DCIM
-5
-D/media/stas/9016-4EF8/DCIM
-	Camera
-1
-D/media/stas/9016-4EF8/DCIM/Camera
-	..
-0
-D/media/stas/9016-4EF8/DCIM
-	Camera
-1
-D/media/stas/9016-4EF8
-	Music
-1
-D/media/stas/9016-4EF8/Music
-	Дога
-1
-D/media/stas/9016-4EF8/Music/Дога
-	..
-0
-D/media/stas/9016-4EF8/Music
-	Дога
-1
-D/media/stas/9016-4EF8/Music/Дога
-	..
-0
-D/media/stas/9016-4EF8/Music
-	Дога
-1
-D/media/stas/9016-4EF8/Music/Дога
-	..
-0
-D/media/stas/9016-4EF8/Music
-	Дога
-1
-D/media/stas/9016-4EF8
-	Music
-1
-D/media/stas
-	..
-0
 D/home/stas/Downloads
-	mystem
-5
-D/home/stas
-	.Rprofile
-29
-D/home/stas/Videos
-	ХРЖАНОВСКИЙ-НОРШТЕЙН
-11
-D/home/stas/Videos/ХРЖАНОВСКИЙ-НОРШТЕЙН
-	Ya.k.vam.lechu.vospominan'em.VHSRip.by.SadCat.avi
-10
-D/home/stas
-	.vimperatorrc
-32
-D/home/stas/Downloads
-	tickets.pdf
-5
-D/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS
-	PCA_var_plot
-1
-D/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS/PCA_var_plot
 	..
 0
-D/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS
-	M.pca_2_3
-1
-D/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS/M.pca_2_3
-	..
-0
-D/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS
-	mice-imput-check.pdf
-3
-D/home/stas/Downloads
-	1st announcement short.pdf
-24
-D/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS
-	M_detr_PCA-PC_1-2.jpeg
-1
-D/home/stas/Downloads
-	mystem-3.0-linux3.1-64bit.tar.gz
-7
-D/home/stas
-	.vimperatorrc
-37
-D/home
-	stas
-1
-D/home/stas
-	.vimperatorrc
-37
-D/home/stas/Downloads
-	tickets.pdf
-5
-D/home/stas
-	kbenoit-dfm-question.R
-37
-D/home/stas/Videos
-	Фильм Оксаны Бычковой «Еще один год»-RkqAUHPUYg0.mp4
-15
-D/home/stas/Documents/БИБЛИОТЕКА
-	_STAT
-1
-D/home/stas/Documents/БИБЛИОТЕКА/_STAT
-	R
-1
-D/home/stas/Documents/БИБЛИОТЕКА/_STAT/R
-	Husson-Le-Pages-2010-Exploratory-multivariate-analysis.pdf
+D/home/stas/Pictures
+	StereoMorph-image-name.png
 6
-D/home/stas
-	.gksu.lock
-27
-D/home
-	stas
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/A2
+	SVL3-A2.txt
 1
-D/home/stas/Videos
-	Фильм Оксаны Бычковой «Еще один год»-RkqAUHPUYg0.mp4
-15
-D/home/stas/Downloads
-	tickets.pdf
+D/home/stas/Pictures
+	image-name.pptx
 5
-D/home/stas
-	.Rprofile
-29
 D/home/stas/Downloads
-	FactoMineR
-2
-D/home/stas/Downloads/FactoMineR
 	..
 0
-D/home/stas/Downloads
-	Fedorov
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp1
+	SVL1-Gp1.txt
+3
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Gp2
 1
-D/home/stas/Downloads/Fedorov
-	..
-0
-D/home/stas/Downloads
-	FactoMineR
-2
-D/home/stas/Downloads/FactoMineR
-	R
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp2
+	SVL3-Gp2.txt
 1
-D/home/stas/Downloads/FactoMineR/R
-	plot.HCPC.R
-28
-D/home/stas/Videos
-	..
-0
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PR5cx
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5cx
+	SVL2-PR5cx.txt
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PR5d
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5d
+	FJL1-PR5d.txt
+4
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PL3pl
+9
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PL3pl
+	CAS3-PL3pl.txt
+30
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PL3d
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PL3d
+	FJL1-PL3d.txt
+4
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Pp7
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Pp7
+	FJL1-Pp7.txt
+4
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS
+	M_hcpc.pdf
+2
 D/home/stas/Documents
-	TMP
+	GDrive
 1
+D/home/stas/Documents/GDrive
+	M_pca.pdf
+3
 D/home/stas/Downloads
-	tickets.pdf
-6
+	Хел-Спб-24_12_2016.pdf
+8
+D/home/stas/Videos
+	My-fair-lady-1964
+4
+D/home/stas/Videos/My-fair-lady-1964
+	Moya.Prekrasnaya.Ledi.1964.DUAL.BDRip.XviD.AC3.-AllFillms.avi
+1
 D
 
 # Command line history (oldest to newest):
 :mkdir BACKUP
-:!convert %c -rotate 90 tmp.png
-:!convert %c -density 300 -rotate -90 tmp.png
-:!convert -rotate
-:vim Phrases.md
-:mkdir Plot
-:vim partial-matching-in-r.md
-:!exiftool -Author="Многолетние изменения донной фауны Баренцева моря и гидрологические флюктуации вдоль разреза \"Кольский меридиан\"" %c
-:!exiftool -Title="Многолетние изменения донной фауны Баренцева моря и гидрологические флюктуации вдоль разреза \"Кольский меридиан\"" %c
-:!exiftool -Title="Многолетние изменения донной фауны Баренцева " %c
-:!exiftool -Author="С.Г. Денисенко" %c
-:invert
-:!exiftool -Author="SALVE DAHLE, STANISLAV G. DENISENKO, NINA V. DENISENKO & SABINE J. COCHRANE" %c
-:!exiftool -Title="BENTHIC FAUNA IN THE PECHORA SEA" %c
-:mkdir ETC
-:mkdir NEW
-:source ~/.config/vifm/marks
-:vim PicoPure.md
-:!file -i %c %m
-:!iconv -f windows-1251 -t utf-8 -o freqrnc_readme-utf8.txt %c
-:zip %f
-:!zip plot.zip %f
-:mkdir Шварц
-:rj
-:so
-:!pandoc -i md -o docx %c
-:!pandoc -f markdown -t docx %c
-:!pandoc -f markdown -t docx %c -o %c:r.docx
-:mkdir PORTFOLIO
-:!zip tr_examples.zip %f
-:copy %c; cd ~/
-:copy %c | cd ~/
-:!umount %c
-:cd /mnt
-:cd /mnt/OLLI
-:cd /mnt/OLLI/
-:um
-:commands
-:source /home/stas/.config/vifm/commands
-:olli
-:!sudo umount %c
 :!convert *.JPG belaya2016.pdf
 :mkdir 30percent
 :mkdir 1000
@@ -1112,10 +878,8 @@ D
 :mkdir Music
 :mkdir Дога
 :copy &
-:ej
 :mkdir SEQ
 :vim sprintf.md
-:mkdir 
 :vim Ruler.txt
 :mkdir TABLES
 :mkdir mystem
@@ -1132,15 +896,56 @@ D
 :!mystem -w mamarama.txt mamarama-res.txt
 :!mystem  mamarama.txt mamarama-res.txt
 :!mystem -d mamarama.txt mamarama-res.txt
-:!rstudio %c &
 :!mystem -ld mamarama.txt mamarama-res.txt
 :cd /usr/local/tmp
 :cd /usr/local/t
+:mkdir MUTT
+:vim colours
+:vim aliases
+:cd /usr
+:trashes
+:resore
+:restore
+:cd /
+:mkdir bin
+:mkdir _backup
+:mkdir license
+:vim mystem.txt
+:mkdir GDrive
+:mkdir test
+:command
+:win
+:map
+:rclone sync %d remote:%d
+:rclone sync %d remote:Text-Mining
+:source ~/.config/vifm/mapping
+:rclone sync . remote:Text-Mining
+:!rclone sync 
+:!rclone sync %c remote:%c %m
+:mkdir 
+:vim test
+:!rclone sync %c remote:%c
+:!echo %d:h %d:r %d:t >./testDir
+:!rclone sync %d:t remote:%d:t
+:!rclone sync %d remote:%d:t
+:!rstudio %c &
+:rclone
+:!rclone sync
+:gsyncback
+:vim google-drive-as-a-private-git-repo.md
+:source ~/.config/vifm/marks
+:mkdir lit
+:!git commit -a -m "Edit marks and commands"
+:gs
+:vim test.txt
+:source ~/.config/vifm/commands
+:gsync
 :cd /usr/local/tmp/
+:ej
+:!rclone copy %c remote:
 
 # Search history (oldest to newest):
 /Pl
-/cx
 /Cx
 /DYL
 /Bear
@@ -1165,26 +970,20 @@ D
 /Bykov
 /Slie
 /Trifon
-/A1
 /Cx5
 /D5
 /PR5\.
 /\(1\)
 /PR5d
 /PR5cx
-/Gp1
-/Gp2
-/He
 /Mdp-1
 /Mdp-2
 /Mx2
-/Pp7
 /Up2
 /Up3
 /PL3\.
 /3d
 /3d\(
-/PL3d\.
 /PL3cx\.
 /050fr-hr
 /098hl_1
@@ -1271,7 +1070,6 @@ D
 /img1*.jpg
 /img1.*.jpg
 /Kos
-/A2
 /ade
 /.feh
 /.conf
@@ -1323,7 +1121,6 @@ D
 /Lis
 /Tie
 /Her
-/.
 /Kup
 /.rpro
 /.vimp.*rc
@@ -1333,6 +1130,23 @@ D
 /my
 /.vi.*rc
 /.rprof
+/mutt
+/.muttr
+/^xls
+/.vimi
+/.
+/A1
+/A2
+/Gp1
+/Gp2
+/He
+/PL3
+/PL3d\.
+/PL3d
+/pl
+/Pp7
+/cx
+/d\.
 
 # Prompt history (oldest to newest):
 pPopulation-extract.pdf
@@ -1441,7 +1255,6 @@ pINDEX
 pDESCRIPTION(2)
 pNAMESPACE
 pLICENSE
-p_R
 pMESQUITE
 pMonoporeia-cons
 pPallaseopsis-cons
@@ -1676,11 +1489,31 @@ pПесни-нашего-века
 p_TABLES
 pBurnley.csv
 pHusson-Le-Pages-2010-Exploratory-multivariate-analysis.pdf
+pПриглашение.pdf
+pКатя-паспорт.pdf
+pdic
+pdict
+p_dict(1)
+p_dict
+p_etc
+p_lit
+pplot
+pR(1)
+p_R
+pText-Mining
+p.git
+pTODO.md
+pМск-НЧ-Любa.pdf
+pfunctions.R
+pText-Mining.Rproj
+pХел-Спб-24_12_2016.pdf
+pСпб-Мск-24_12_2016.pdf
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/mnt/DATA/.vifm-Trash-1000/000_two-y-axes-master.zip
+""/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS/M_pca.pdf
+""/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS/M_hcpc.pdf
 
 # Directory stack (oldest to newest):
 
@@ -3517,6 +3350,170 @@ t/home/stas/.local/share/vifm/Trash/000_FactoMineR_1.29.tar.gz
 	/home/stas/Downloads/FactoMineR_1.29.tar.gz
 t/mnt/DATA/.vifm-Trash-1000/000_two-y-axes-master.zip
 	/home/stas/Documents/EnviroSurveR/EnviroSurveR/_R/two-y-axes-master.zip
+t/mnt/DATA/.vifm-Trash-1000/000_NewTerms-DRAFT.ods
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/NewTerms-DRAFT.ods
+t/mnt/DATA/.vifm-Trash-1000/000_GY-wordcloud.jpeg
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/GY-wordcloud.jpeg
+t/mnt/DATA/.vifm-Trash-1000/000_DM-wordcloud.jpeg
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/DM-wordcloud.jpeg
+t/mnt/DATA/.vifm-Trash-1000/000_NewTerms-2016-11-21-with-Factors.csv
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/NewTerms-2016-11-21-with-Factors.csv
+t/mnt/DATA/.vifm-Trash-1000/000_NewTerms-2016-11-21.csv
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/NewTerms-2016-11-21.csv
+t/mnt/DATA/.vifm-Trash-1000/000_NewTerms-2016-11-21.xlsx
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/NewTerms-2016-11-21.xlsx
+t/mnt/DATA/.vifm-Trash-1000/000_рис1.pptx
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/рис1.pptx
+t/mnt/DATA/.vifm-Trash-1000/000_wrdcl.pdf
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/wrdcl.pdf
+t/home/stas/.local/share/vifm/Trash/000_mutt-1.7.2.tar.gz
+	/home/stas/Downloads/mutt-1.7.2.tar.gz
+t/home/stas/.local/share/vifm/Trash/000_evolution-3.22.2.tar.xz
+	/home/stas/Downloads/evolution-3.22.2.tar.xz
+t/home/stas/.local/share/vifm/Trash/000_evolution-3.22.2
+	/home/stas/Downloads/evolution-3.22.2
+t/home/stas/.local/share/vifm/Trash/000_asunder-2.8
+	/home/stas/Downloads/asunder-2.8
+t/home/stas/.local/share/vifm/Trash/000_Image-ExifTool-10.28
+	/home/stas/Downloads/Image-ExifTool-10.28
+t/mnt/DATA/.vifm-Trash-1000/000_twitter-setup.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/R/twitter-setup.R
+t/mnt/DATA/.vifm-Trash-1000/000_mamarama-res.txt
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/mystem/mamarama-res.txt
+t/mnt/DATA/.vifm-Trash-1000/000_mamarama.txt
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/mystem/mamarama.txt
+t/mnt/DATA/.vifm-Trash-1000/000_mystem
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/mystem
+t/mnt/DATA/.vifm-Trash-1000/000_wcloud.pdf
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/wcloud.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_dict.opcorpora.txt
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/_dict/dict.opcorpora.txt
+t/mnt/DATA/.vifm-Trash-1000/000_PESTEL-dic.xls
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/_dict/PESTEL-dic.xls
+t/mnt/DATA/.vifm-Trash-1000/000_Freq2011.zip
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/_dict/Freq2011.zip
+t/mnt/DATA/.vifm-Trash-1000/000_Rplots.pdf
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/Rplots.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_2grams-wcloud.pdf
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/2grams-wcloud.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_NewTerms-2016_12_09.csv
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/NewTerms-2016_12_09.csv
+t/mnt/DATA/.vifm-Trash-1000/001_wcloud.pdf
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/wcloud.pdf
+t/mnt/DATA/.vifm-Trash-1000/000_tweets-pestel.csv
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/results/2016-12-11/tweets-pestel.csv
+t/mnt/DATA/.vifm-Trash-1000/000_results
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/results
+t/mnt/DATA/.vifm-Trash-1000/000_helper-functions.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/_R/helper-functions.R
+t/mnt/DATA/.vifm-Trash-1000/000_settings.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/_R/settings.R
+t/mnt/DATA/.vifm-Trash-1000/000_get-data.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/_R/get-data.R
+t/mnt/DATA/.vifm-Trash-1000/000_workhorse.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/_R/workhorse.R
+t/mnt/DATA/.vifm-Trash-1000/000_dict.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/_R/dict.R
+t/mnt/DATA/.vifm-Trash-1000/000_stopwords.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/_R/stopwords.R
+t/mnt/DATA/.vifm-Trash-1000/000_libraries.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/_R/libraries.R
+t/mnt/DATA/.vifm-Trash-1000/000_twitter-auth.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/_R/twitter-auth.R
+t/mnt/DATA/.vifm-Trash-1000/000_PESTEL-dic.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/R/PESTEL-dic.R
+t/mnt/DATA/.vifm-Trash-1000/000_twits2dic.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/R/twits2dic.R
+t/mnt/DATA/.vifm-Trash-1000/000_mystem.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/R/mystem.R
+t/mnt/DATA/.vifm-Trash-1000/000_milestone1_1.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/R/milestone1_1.R
+t/mnt/DATA/.vifm-Trash-1000/000_mystem-quanteda.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/R/mystem-quanteda.R
+t/mnt/DATA/.vifm-Trash-1000/000_stemCompl.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/R/stemCompl.R
+t/mnt/DATA/.vifm-Trash-1000/001_FB-tm-exmpl.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/R/FB-tm-exmpl.R
+t/mnt/DATA/.vifm-Trash-1000/000_FB-tm-exmpl-DRAFT.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/R/FB-tm-exmpl-DRAFT.R
+t/mnt/DATA/.vifm-Trash-1000/000_milestone1.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/R/milestone1.R
+t/mnt/DATA/.vifm-Trash-1000/000_milestone2.R
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/R/milestone2.R
+t/mnt/DATA/.vifm-Trash-1000/001_results
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/results
+t/mnt/DATA/.vifm-Trash-1000/001_PESTEL-dic.xls
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/dict/PESTEL-dic.xls
+t/mnt/DATA/.vifm-Trash-1000/002_results
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/results
+t/mnt/DATA/.vifm-Trash-1000/000_TMP
+	/home/stas/Documents/_ETC/FREELANCE/TMP
+t/mnt/DATA/.vifm-Trash-1000/002_tmp
+	/home/stas/Documents/_ETC/FREELANCE/tmp
+t/home/stas/.local/share/vifm/Trash/000_mystem-3.0-linux3.1-64bit.tar.gz
+	/home/stas/Downloads/mystem-3.0-linux3.1-64bit.tar.gz
+t/mnt/DATA/.vifm-Trash-1000/000_.grive
+	/home/stas/Documents/GDrive/.grive
+t/mnt/DATA/.vifm-Trash-1000/000_Thesis
+	/home/stas/Documents/GDrive/Thesis
+t/mnt/DATA/.vifm-Trash-1000/000_GDrive
+	/home/stas/Documents/GDrive
+t/mnt/DATA/.vifm-Trash-1000/000_container.xml
+	/home/stas/Documents/TMP/META-INF/container.xml
+t/mnt/DATA/.vifm-Trash-1000/000_META-INF
+	/home/stas/Documents/TMP/META-INF
+t/mnt/DATA/.vifm-Trash-1000/000_testtwitts.txt
+	/home/stas/Documents/GDrive/Text-Mining/testtwitts.txt
+t/mnt/DATA/.vifm-Trash-1000/000_test.txt
+	/home/stas/Documents/GDrive/Text-Mining/test/test.txt
+t/home/stas/.local/share/vifm/Trash/003_.viminfo
+	/home/stas/.viminfo
+t/mnt/DATA/.vifm-Trash-1000/000_test
+	/home/stas/Documents/GDrive/Text-Mining/test/test
+t/mnt/DATA/.vifm-Trash-1000/000_test(1)
+	/home/stas/Documents/GDrive/Text-Mining/test/test(1)
+t/mnt/DATA/.vifm-Trash-1000/000_test(2)
+	/home/stas/Documents/GDrive/Text-Mining/test/test(2)
+t/mnt/DATA/.vifm-Trash-1000/000_testDir
+	/home/stas/Documents/GDrive/Text-Mining/testDir
+t/mnt/DATA/.vifm-Trash-1000/001_.git
+	/home/stas/Documents/GDrive/Text-Mining/.git
+t/mnt/DATA/.vifm-Trash-1000/000_2016-12-11
+	/home/stas/Documents/GDrive/Text-Mining/results/2016-12-11
+t/mnt/DATA/.vifm-Trash-1000/003_results
+	/home/stas/Documents/GDrive/Text-Mining/results
+t/mnt/DATA/.vifm-Trash-1000/000__backup
+	/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/_backup
+t/mnt/DATA/.vifm-Trash-1000/000__etc
+	/home/stas/Documents/GDrive/Text-Mining/_etc
+t/mnt/DATA/.vifm-Trash-1000/000_.RDataTmp
+	/home/stas/Documents/GDrive/Text-Mining/.RDataTmp
+t/home/stas/.local/share/vifm/Trash/000_marks(1)
+	/home/stas/.config/vifm/marks(1)
+t/home/stas/.local/share/vifm/Trash/000_HEAD
+	/home/stas/Downloads/HEAD
+t/home/stas/.local/share/vifm/Trash/000_rclone-v1.34-linux-amd64.zip
+	/home/stas/Downloads/rclone-v1.34-linux-amd64.zip
+t/home/stas/.local/share/vifm/Trash/000_rclone-v1.34-linux-amd64
+	/home/stas/Downloads/rclone-v1.34-linux-amd64
+t/mnt/DATA/.vifm-Trash-1000/000_rclone.log
+	/home/stas/Documents/GDrive/Text-Mining/rclone.log
+t/mnt/DATA/.vifm-Trash-1000/001_rclone.log
+	/home/stas/Documents/GDrive/Text-Mining/rclone.log
+t/mnt/DATA/.vifm-Trash-1000/002_rclone.log
+	/home/stas/Documents/GDrive/Text-Mining/rclone.log
+t/mnt/DATA/.vifm-Trash-1000/003_rclone.log
+	/home/stas/Documents/GDrive/Text-Mining/rclone.log
+t/home/stas/.local/share/vifm/Trash/000_twr-master.zip
+	/home/stas/Downloads/twr-master.zip
+t/mnt/DATA/.vifm-Trash-1000/000_PESTEL-dic.ods
+	/home/stas/Documents/GDrive/Text-Mining/dict/PESTEL-dic.ods
+t/mnt/DATA/.vifm-Trash-1000/001_test.txt
+	/home/stas/Documents/GDrive/Text-Mining/test/test.txt
+t/mnt/DATA/.vifm-Trash-1000/004_rclone.log
+	/home/stas/Documents/GDrive/Text-Mining/rclone.log
+t/mnt/DATA/.vifm-Trash-1000/000_~$зультаты экологического мониторинга.doc
+	/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD2/~$зультаты экологического мониторинга.doc
 
 # State:
 f
