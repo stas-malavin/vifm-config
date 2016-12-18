@@ -14,7 +14,7 @@
 =fusehome=/tmp/vifm_FUSE/
 =nogdefault
 =grepprg=grep\ -n\ -H\ -I\ -r\ %i\ %a\ %s
-=history=357
+=history=362
 =hlsearch
 =noiec
 =ignorecase
@@ -187,18 +187,138 @@ l12
 r-10,2
 
 # Left window history (oldest to newest):
+d/home/stas/Documents/GDrive/Text-Mining/dict
+	PESTEL-dic.xlsx
+5
 d/home/stas/Documents/GDrive/Text-Mining
-	test
+	dict
+4
+d/home/stas/Documents/GAMMARACANTHUS
+	SET1
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1
+	PHOTO
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	SET2
+17
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Pp7
+11
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	SET2
+17
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	A1
+1
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/A1
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	A2
+2
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/A2
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Gp1
+3
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp1
+	SVL1-Gp1.tif
+30
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Gp2
+4
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp2
+	SVL1-Gp2.tif
+30
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	He
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/He
+	SVL1-He.tif
+30
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PL3d
+9
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PL3d
+	SVL1-PL3d.tif
+30
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PL3pl
 10
-d/home/stas/Documents/GDrive/Text-Mining/test
-	testtwitts.txt
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PL3pl
+	SVL1-PL3pl.tif
+30
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PL3d
+9
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PL3d
+	SVL1-PL3d.tif
+30
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Pp7
+11
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Pp7
+	SVL1-Pp7.tif
+30
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PR5cx
+12
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5cx
+	SVL1-PR5cx.tif
+30
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PR5d
+13
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5d
+	SVL1-PR5d.tif
+30
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PL3d
+9
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PL3d
+	FJL3-PL3d.tif
+16
+d/home/stas/Documents/_ETC/FREELANCE
+	ALEXANDR_SPORT
+3
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
+	R
+8
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/R
+	getCoefBetfair.R
+3
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
+	R
+8
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/R
+	getCoefBetfair.R
+3
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
+	R
+8
+d/home/stas/Documents/_ETC/FREELANCE
+	ALEXANDR_SPORT
+3
+d/home/stas/Documents
+	GDrive
+6
+d/home/stas/Documents/GDrive
+	Text-Mining
 1
 d/home/stas/Documents/GDrive/Text-Mining
-	rda
-9
-d/home/stas/Documents/GDrive/Text-Mining/rda
-	twts.st
-2
+	dict
+4
+d/home/stas/Documents/GDrive
+	Text-Mining
+1
+d/home/stas/Documents/GDrive/Text-Mining
+	dict
+4
+d/home/stas/Documents/GDrive/Text-Mining/dict
+	multitran-them-rus.ods
+3
 d/home/stas/Documents/GDrive/Text-Mining
 	dict
 4
@@ -206,44 +326,167 @@ d/home/stas/Documents/GDrive
 	Text-Mining
 1
 d/home/stas/Documents
-	EnviroSurveR
-4
-d/home/stas/Documents/EnviroSurveR
-	EnviroSurveR
-1
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR
-	_data
+	GDrive
+6
+d/home/stas/Documents/_ETC/FREELANCE
+	ALEXANDR_SPORT
 3
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
-	CTD2
-3
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD2
-	..
-0
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
-	Hydrobio
-4
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/Hydrobio
-	..
-0
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
-	CTD2
-3
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD2
-	Гидрология.xlsx
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
+	RESULTS
 9
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data
-	CTD2
+d/home/stas/Documents/GAMMARACANTHUS
+	SET1
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1
+	PHOTO
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	A1
+1
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/A1
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	A2
+2
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/A2
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	Gp1
 3
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR
-	R
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/Gp1
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	Gp2
+4
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/Gp2
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	He
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/He
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	A1
+1
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/A1
+	LAC1-A1.tif
+13
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	A2
+2
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/A2
+	LAC1-A2.tif
+13
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	Gp1
+3
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/Gp1
+	LAC1-Gp1.tif
+13
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	Gp2
+4
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/Gp2
+	LAC1-Gp2.tif
+13
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	He
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/He
+	LAC1-He.tif
+13
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	SET2
+18
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	A1
+1
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/A1
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	A2
+2
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/A2
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Gp1
+3
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp1
+	SVL1-Gp1.tif
+36
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Gp2
+4
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp2
+	SVL1-Gp2.tif
+36
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	He
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/He
+	SVL1-He.tif
+36
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PL3d
+9
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PL3d
+	FJL3-PL3d.tif
+22
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PL3pl
+10
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PL3pl
+	SVL1-PL3pl.tif
+36
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Pp7
 11
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR/R
-	plot.CTD.R
-7
-d/home/stas/Documents/EnviroSurveR/EnviroSurveR
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Pp7
+	SVL1-Pp7.tif
+36
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PR5cx
+12
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5cx
+	SVL1-PR5cx.tif
+36
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PR5d
+13
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5d
+	SVL1-PR5d.tif
+36
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PR5d
+13
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	A1
+1
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/A1
+	OST4-AA.txt
+24
+d/home/stas/Documents/_ETC/FREELANCE
+	ALEXANDR_SPORT
+3
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
+	Comm_list.csv
+18
+d/home/stas/Documents/_ETC/FREELANCE
+	ALEXANDR_SPORT
+3
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT
 	R
-11
+8
+d/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/R
+	getCoefBetfair.R
+3
 d/home/stas/Documents/GAMMARACANTHUS
 	SET1
 5
@@ -269,65 +512,68 @@ d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
 	Gp1
 3
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp1
-	..
-0
+	SVL1-Gp1.tif
+37
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
 	Gp2
 4
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp2
-	..
-0
+	SVL1-Gp2.tif
+37
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
 	He
 5
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/He
-	..
-0
+	SVL1-He.tif
+37
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
 	PL3d
 9
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PL3d
-	..
-0
+	FJL3-PL3d.tif
+22
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
 	PL3pl
 10
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PL3pl
-	..
-0
+	SVL1-PL3pl.tif
+37
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
 	Pp7
 11
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Pp7
-	..
-0
+	SVL1-Pp7.tif
+37
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
 	PR5cx
 12
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5cx
-	..
-0
+	SVL1-PR5cx.tif
+37
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
 	PR5d
 13
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5d
+	SVL1-PR5d.tif
+37
+d/home/stas/Music
 	..
 0
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
-	He
+d/home/stas
+	Music
+37
+d/home/stas/Documents/GAMMARACANTHUS
+	SET1
 5
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/He
-	SVL1-He.tif
-26
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
-	He
+d/home/stas/Documents/GAMMARACANTHUS/SET1
+	PHOTO
 5
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/He
-	SVL1-He.tif
-26
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	SET2
+17
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
-	He
-5
+	A1
+1
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
 	SET2
 17
@@ -338,20 +584,68 @@ d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
 	A1
 1
 d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/A1
-	SVL3-A1.txt
-34
-d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
-	He
-5
-d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/He
-	LAP2-He.txt
-18
+	CAS3-A1.txt
+3
 d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
 	A2
 2
 d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/A2
-	DIL7-A2.txt
-25
+	AES1-A2.txt
+1
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Gp1
+3
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp1
+	SVL3-Gp1.txt
+37
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	A1
+1
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/A1
+	DVI3-A1.txt
+8
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	A2
+2
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/A2
+	CHU5-A2.txt
+11
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	A2
+2
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/A2
+	SVL3-A2.txt
+41
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Gp1
+3
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp1
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Gp2
+4
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp2
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Gp2
+4
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp2
+	KRI2-Gp2.txt
+4
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	He
+5
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/He
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PL3d
+7
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PL3d
+	..
+0
 d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
 	Mdp-2
 6
@@ -359,50 +653,68 @@ d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Mdp-2
 	..
 0
 d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
-	Gp2
-4
+	PL3d
+7
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PL3d
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PL3pl
+8
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PL3pl
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Pp7
+9
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Pp7
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PR5cx
+10
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5cx
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PR5d
+11
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5d
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PR5d
+11
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5d
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PR5cx
+10
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5cx
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PR5cx
+10
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5cx
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Pp7
+9
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Pp7
+	..
+0
+d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Pp7
+9
 d/home/stas/Documents/GAMMARACANTHUS/SET1
 	SHAPES
 8
-d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
-	Gp2
-4
-d/home/stas/Documents/GAMMARACANTHUS/SET1
-	SHAPES
-8
-d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
-	He
+d/home/stas/Documents/GAMMARACANTHUS
+	SET1
 5
-d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/He
-	LAP2-He.txt
-18
-d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
-	A2
-2
-d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/A2
-	DIL7-A2.txt
-25
-d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
-	Gp1
-3
-d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp1
-	..
-0
-d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
-	Gp1
-3
-d/home/stas/Documents/GAMMARACANTHUS/SET1
-	SHAPES
-8
-d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
-	Gp1
-3
-d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp1
-	..
-0
-d/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
-	Gp1
-3
 d/home/stas/Documents/GAMMARACANTHUS/SET1
 	PHOTO
 5
@@ -413,353 +725,404 @@ d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
 	Gp1
 3
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp1
-	SVL1-Gp1.tif
-26
+	KAR1-Gp1.tif
+20
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
 	Gp2
 4
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp2
-	SVL1-Gp2.tif
-26
+	KAR2-Gp2.tif
+21
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
-	Gp2
-4
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp2
-	SVL1-Gp2.tif
-26
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
-	PR5cx
-12
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5cx
-	SVL1-PR5cx.tif
-26
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
-	PR5d
-13
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5d
-	SVL1-PR5d.tif
-26
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
-	PL3pl
-10
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PL3pl
-	SVL1-PL3pl.tif
-26
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
-	PL3d
-9
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PL3d
-	SVL1-PL3d.tif
-26
+	A2
+2
+d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/A2
+	KAR2-A2.tif
+20
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
 	Pp7
 11
 d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Pp7
-	SVL1-Pp7.tif
-26
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
-	Pp7
-11
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
-	SET2
-17
-d/home/stas/Documents/GAMMARACANTHUS/SET1
-	PHOTO
-5
-d/home/stas/Documents
-	BRACON
-3
-d/home/stas/Documents/BRACON
-	FIN1
-2
-d/home/stas/Documents/BRACON/FIN1
-	R
-5
-d/home/stas/Documents/BRACON/FIN1/R
-	..
-0
-d/home/stas/Documents
-	GitHub
-7
-d/home/stas/Documents/GitHub
-	morphSM
-6
-d/home/stas/Documents/GitHub/morphSM
-	importSM.r
-5
-d/home/stas/Documents/GAMMARACANTHUS
-	SET1
-5
-d/home/stas/Documents/GAMMARACANTHUS/SET1
-	PHOTO
-5
-d/home/stas/Documents/GAMMARACANTHUS
-	..
-0
-d/home/stas/Documents
-	GitHub
-7
-d/home/stas/Documents/GitHub
-	morphSM
-6
-d/home/stas/Documents/GitHub/morphSM
-	importSM.r
-5
-d/home/stas/Documents/GAMMARACANTHUS
-	SET1
-5
-d/home/stas/Documents/GAMMARACANTHUS/SET1
-	PLOTS
-6
-d/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS
-	..
-0
-d/home/stas/Documents/GAMMARACANTHUS/SET1
-	PLOTS
-6
+	KAR4-Pp7.tif
+24
 d
 
 # Right window history (oldest to newest):
+D/media/stas/SSS
+	ssss.jpg
+1
+D/media/stas
+	9016-4EF8
+1
+D/media/stas/9016-4EF8
+	..
+0
+D/media/stas
+	9016-4EF8
+1
 D/home/stas/Downloads
-	rclone-v1.34-linux-amd64
+	..
+0
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PR5d
 1
-D/home/stas/Downloads/rclone-v1.34-linux-amd64
-	rclone
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5d
+	FJL3-PR5d.tif
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PR5cx
+2
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PR5cx
+	FJL5-PR5cx.tif
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Pp7
 3
-D/home/stas/Downloads
-	10.1.1.102.4034.pdf
-8
-D/home/stas/.config/vifm
-	commands
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Pp7
+	FJL2-Pp7.tif
 4
-D/home/stas/.config
-	vifm
-1
-D/home/stas/.config/vifm
-	commands
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	PL3pl
 4
-D/home/stas/Documents
-	TRANSLATION
-8
-D/home/stas/Documents/_ETC/FREELANCE
-	Twit_RBC
-1
-D/home/stas/Documents/_ETC/FREELANCE/Twit_RBC
-	.git
-1
-D/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/.git
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/PL3pl
 	..
 0
-D/home/stas/Documents/_ETC/FREELANCE/Twit_RBC
-	.git
-1
-D/home/stas/Documents/GDrive/Text-Mining
-	.git
-1
-D/home/stas/Documents/GDrive/Text-Mining/.git
-	..
-0
-D/home/stas/Documents/GDrive/Text-Mining
-	.git
-1
-D/home/stas/Documents/GDrive/Text-Mining/.git
-	..
-0
-D/home/stas/Documents/GDrive/Text-Mining
-	dict
-3
-D/home/stas/Documents/GDrive/Text-Mining/dict
-	PESTEL-dic.ods
-3
-D/home/stas/Documents/GDrive/Text-Mining
-	results
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	He
 6
-D/home/stas/Documents/GDrive/Text-Mining/results
-	2016-12-11
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/He
+	FJL2-He.tif
 1
-D/home/stas/Documents/GDrive/Text-Mining/results/2016-12-11
-	tweets-pestel.csv
-1
-D/home/stas/Documents/GDrive/Text-Mining/results
-	..
-0
-D/home/stas/Documents/GDrive/Text-Mining
-	.git
-3
-D/home/stas/Documents/GDrive/Text-Mining/.git
-	logs
-1
-D/home/stas/Documents/GDrive/Text-Mining/.git/logs
-	..
-0
-D/home/stas/Documents/GDrive/Text-Mining/.git
-	logs
-1
-D/home/stas/Documents/GDrive/Text-Mining/.git/logs
-	refs
-1
-D/home/stas/Documents/GDrive/Text-Mining/.git/logs/refs
-	heads
-1
-D/home/stas/Documents/GDrive/Text-Mining/.git/logs/refs/heads
-	master
-1
-D/home/stas/Documents/GDrive/Text-Mining/.git/logs/refs
-	heads
-1
-D/home/stas/Documents/GDrive/Text-Mining/.git/logs
-	refs
-1
-D/home/stas/Documents/GDrive/Text-Mining/.git
-	logs
-1
-D/home/stas/Documents/GDrive/Text-Mining
-	results
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Gp2
+7
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2/Gp2
+	FJL2-Gp2.tif
 2
-D/home/stas/Documents/GDrive/Text-Mining/results
-	..
-0
-D/home/stas/Documents/GDrive/Text-Mining
-	results
-2
-D/home/stas/Documents/GDrive/Text-Mining/results
-	..
-0
-D/home/stas/Documents/GDrive/Text-Mining
-	.git
-1
-D/home/stas/Documents/GDrive/Text-Mining/.git
-	logs
-1
-D/home/stas/Documents/GDrive/Text-Mining/.git/logs
-	HEAD
-2
-D/home/stas/Documents/GDrive/Text-Mining/.git
-	logs
-1
-D/home/stas/Documents/GDrive/Text-Mining
-	R
-4
-D/home/stas/Documents/GDrive/Text-Mining/R
-	helper-functions.R
-1
-D/home/stas/Documents/GDrive/Text-Mining
-	R
-1
-D/home/stas/Documents/GDrive
-	Text-Mining
-1
-D/home/stas/Documents/GDrive/Text-Mining
-	.git
-2
-D/home/stas/Documents/GDrive/Text-Mining/.git
-	logs
-2
-D/home/stas/Documents/GDrive/Text-Mining/.git/logs
-	HEAD
-2
-D/home/stas/Documents/GDrive/Text-Mining/.git
-	logs
-2
-D/home/stas/Documents/GDrive/Text-Mining
-	.git
-1
-D/home/stas/Documents/GDrive/Text-Mining/.git
-	objects
-1
-D/home/stas/Documents/GDrive/Text-Mining
-	_etc
-1
-D/home/stas/Documents/GDrive/Text-Mining/_etc
-	..
-0
-D/home/stas/Documents/GDrive/Text-Mining
-	R
-3
-D/home/stas/Documents/GDrive/Text-Mining/R
-	get-data.R
-2
-D/home/stas/Documents/GDrive/Text-Mining
-	.Rproj.user
-2
-D/home/stas/Documents/GDrive/Text-Mining/.Rproj.user
-	..
-0
-D/home/stas/Documents/GDrive/Text-Mining
-	.git
-1
-D/home/stas/Documents/GDrive/Text-Mining/.git
-	logs
-2
-D/home/stas/Documents/GDrive/Text-Mining/.git/logs
-	HEAD
-2
-D/home/stas/Documents/GDrive/Text-Mining/.git
-	logs
-2
-D/home/stas/Documents/GDrive/Text-Mining
-	test
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/SET2
+	Gp2
+7
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	SET2
 5
-D/home/stas/Documents/GDrive
-	Text-Mining
+D/home/stas/Documents/GAMMARACANTHUS/SET1
+	SHAPES
+6
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	He
 1
-D/home/stas/Documents/GDrive/Text-Mining
-	.gitignore
-13
-D/home/stas/.config/vifm
-	marks
-5
-D/home/stas/Downloads
-	rclone-v1.34-linux-amd64
-1
-D/home/stas/Downloads/rclone-v1.34-linux-amd64
-	rclone
-3
-D/home/stas/Downloads
-	twr-master.zip
-5
-D/home/stas/.config/vifm
-	marks
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/He
+	FJL2-He.txt
 4
-D/home/stas/Downloads
-	..
-0
-D/home/stas/.config/vifm
-	commands
-4
-D/home/stas/Downloads
-	Мск-НЧ-Стас.pdf
-8
-D/home/stas/Documents/_ETC/FREELANCE
-	Twit_RBC
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	A1
 1
-D/home/stas/Documents/_ETC/FREELANCE/Twit_RBC
-	dict
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/A1
+	FJL5-A1.txt
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Gp1
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp1
+	FJL2-Gp1.txt
+4
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Gp1
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1
+	SHAPES
+6
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Gp2
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp2
+	FJL2-Gp2.txt
+4
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PR5cx
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5cx
+	SVL3-PR5cx.txt
+5
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PR5d
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5d
+	FJL5-PR5d.txt
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PL3pl
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PL3pl
+	FJL2-PL3pl.txt
+4
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PL3d
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PL3d
+	FJL5-PL3d.txt
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Pp7
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Pp7
+	FJL5-Pp7.txt
+1
+D/home/stas/Videos
+	РЯЗАНОВ
 2
-D/home/stas/Documents/_ETC/FREELANCE/Twit_RBC/dict
-	PESTEL-dic.ods
-3
+D/home/stas/Videos/РЯЗАНОВ
+	Забытая мелодия для флейты.1987.mkv
+6
 D/home/stas/Downloads
-	..
-0
-D/home/stas
-	.profile
-25
-D/home/stas/.config/vifm
-	commands
-4
-D/home/stas/Downloads
-	Мск-НЧ-Любa.pdf
+	butterfly..gif
 5
+D/home/stas/Videos
+	Лекция Александра Аузана —  «Будущее российской экономики. Основные сценарии»-esHzmk9FaGo.mp4
+16
 D/media/stas
 	SSS
 2
 D/media/stas/SSS
-	Photo-12_12_2016
+	Photo-14_12_2016
 1
-D/media/stas/SSS/Photo-12_12_2016
-	Thumbs.db
+D/media/stas
+	9016-4EF8
 1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	Photo-14_12_2016
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/Photo-14_12_2016
+	DVI1-PL3pl.tif
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	Photo-14_12_2016
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/Photo-14_12_2016
+	DVI2-Pp7.tif
+2
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	Photo-14_12_2016
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/Photo-14_12_2016
+	DVI1-PR5cx.tif
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	Photo-14_12_2016
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/Photo-14_12_2016
+	..
+0
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	Photo-14_12_2016
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/Photo-14_12_2016
+	..
+0
+D/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO
+	He
+1
+D/home/stas/Videos
+	Лекция Александра Аузана —  «Будущее российской экономики. Основные сценарии»-esHzmk9FaGo.mp4
+16
+D/home/stas/Documents/GAMMARACANTHUS
+	SET1
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1
+	SHAPES
+6
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	He
+2
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/He
+	DVI1-He.txt
+6
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	A1
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/A1
+	DVI1-A1.txt
+6
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	A1
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/A1
+	DVI1-A1.txt
+6
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	A2
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/A2
+	DVI1-A2.txt
+6
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	A2
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1
+	SHAPES
+6
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Gp1
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp1
+	DVI1-Gp1.txt
+6
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Gp1
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1
+	SHAPES
+6
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Gp2
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp2
+	DVI1-Gp2.txt
+6
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PR5cx
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5cx
+	DVI1-PR5cx.txt
+6
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PR5cx
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1
+	SHAPES
+6
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PR5d
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5d
+	DVI1-PR5d.txt
+6
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PR5d
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1
+	SHAPES
+6
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PL3pl
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PL3pl
+	DVI1-PL3pl.txt
+6
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PL3pl
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1
+	SHAPES
+6
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PL3d
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PL3d
+	DVI1-PL3d.txt
+6
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Pp7
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Pp7
+	DVI1-Pp7.txt
+6
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PR5d
+4
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5d
+	DVI2-PR5d.txt
+5
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	PR5d
+4
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5d
+	DVI2-PR5d.txt
+5
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
+	Pp7
+1
+D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Pp7
+	DVI1-Pp7.txt
+6
+D/home/stas/Videos
+	..
+0
+D/media/stas
+	SSS
+2
+D/media/stas/SSS
+	Photo-14_12_2016
+2
+D/media/stas/SSS/Photo-14_12_2016
+	..
+0
+D/media/stas/SSS
+	Photo-15_12_2016
+1
+D/media/stas/SSS/Photo-15_12_2016
+	..
+0
+D/media/stas/SSS
+	Photo-15_12_2016
+1
+D/media/stas/SSS/Photo-15_12_2016
+	GRI1-A2.tif
+6
+D/media/stas/SSS
+	Photo-15_12_2016
+1
+D/media/stas/SSS/Photo-15_12_2016
+	KAR5-Pp7.tif
+18
+D/media/stas/SSS
+	Photo-15_12_2016
+1
+D/media/stas/SSS/Photo-15_12_2016
+	..
+0
+D/media/stas/SSS
+	ssss.jpg
+1
+D/media/stas
+	9016-4EF8
+1
+D/media/stas/9016-4EF8
+	Music
+9
+D/media/stas/9016-4EF8/Music
+	..
+0
+D/media/stas/9016-4EF8
+	Music
+9
+D/media/stas/9016-4EF8/Music
+	Lyuba
+5
+D/media/stas/9016-4EF8/Music/Lyuba
+	..
+0
+D/media/stas/9016-4EF8/Music
+	Бикчентаев, 1996, 'Деревянные шлягеры' (MT)
+10
+D/media/stas
+	9016-4EF8
+1
+D/media
+	stas
+1
+D/
+	media
+17
+D/media/stas
+	9016-4EF8
+1
+D/media/stas/9016-4EF8
+	Music
+9
+D/media/stas
+	SSS
+2
 D/media/stas/SSS
 	ssss.jpg
 1
@@ -769,80 +1132,16 @@ D/media/stas
 D/home/stas/Downloads
 	..
 0
-D/home/stas/Pictures
-	StereoMorph-image-name.png
-6
-D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/A2
-	SVL3-A2.txt
-1
-D/home/stas/Pictures
-	image-name.pptx
-5
-D/home/stas/Downloads
-	..
-0
-D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp1
-	SVL1-Gp1.txt
-3
-D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
-	Gp2
-1
-D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Gp2
-	SVL3-Gp2.txt
-1
-D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
-	PR5cx
-1
-D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5cx
-	SVL2-PR5cx.txt
-1
-D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
-	PR5d
-1
-D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PR5d
-	FJL1-PR5d.txt
-4
-D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
-	PL3pl
-9
-D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PL3pl
-	CAS3-PL3pl.txt
-30
-D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
-	PL3d
-1
-D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/PL3d
-	FJL1-PL3d.txt
-4
-D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES
-	Pp7
-1
-D/home/stas/Documents/GAMMARACANTHUS/SET1/SHAPES/Pp7
-	FJL1-Pp7.txt
-4
-D/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS
-	M_hcpc.pdf
-2
-D/home/stas/Documents
-	GDrive
-1
-D/home/stas/Documents/GDrive
-	M_pca.pdf
-3
-D/home/stas/Downloads
-	Хел-Спб-24_12_2016.pdf
-8
 D/home/stas/Videos
-	My-fair-lady-1964
-4
-D/home/stas/Videos/My-fair-lady-1964
-	Moya.Prekrasnaya.Ledi.1964.DUAL.BDRip.XviD.AC3.-AllFillms.avi
-1
+	РЯЗАНОВ
+2
+D/home/stas/Videos/РЯЗАНОВ
+	Вокзал для двоих_1.46
+3
 D
 
 # Command line history (oldest to newest):
 :mkdir BACKUP
-:!convert *.JPG belaya2016.pdf
 :mkdir 30percent
 :mkdir 1000
 :!zip -r belaya.zip %c
@@ -877,7 +1176,6 @@ D
 :diff
 :mkdir Music
 :mkdir Дога
-:copy &
 :mkdir SEQ
 :vim sprintf.md
 :vim Ruler.txt
@@ -928,7 +1226,6 @@ D
 :!echo %d:h %d:r %d:t >./testDir
 :!rclone sync %d:t remote:%d:t
 :!rclone sync %d remote:%d:t
-:!rstudio %c &
 :rclone
 :!rclone sync
 :gsyncback
@@ -941,8 +1238,10 @@ D
 :source ~/.config/vifm/commands
 :gsync
 :cd /usr/local/tmp/
-:ej
 :!rclone copy %c remote:
+:!rstudio %c &
+:copy &
+:ej
 
 # Search history (oldest to newest):
 /Pl
@@ -1134,19 +1433,27 @@ D
 /.muttr
 /^xls
 /.vimi
-/.
+/PL3d\.
+/d\.
+/PL3pl
+/PL3
+/Pp7
+/Div
+/DVI
+/DIV
+/Pp
+/TY
+/TYP
 /A1
 /A2
 /Gp1
 /Gp2
 /He
-/PL3
-/PL3d\.
 /PL3d
 /pl
-/Pp7
+/7
 /cx
-/d\.
+/.
 
 # Prompt history (oldest to newest):
 pPopulation-extract.pdf
@@ -1508,12 +1815,14 @@ pfunctions.R
 pText-Mining.Rproj
 pХел-Спб-24_12_2016.pdf
 pСпб-Мск-24_12_2016.pdf
+pFJL2-PL3pl.tif
+presults-2016_12_14.xlsx
+pgetCoefBetfair.R
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS/M_pca.pdf
-""/home/stas/Documents/GAMMARACANTHUS/SET1/PLOTS/M_hcpc.pdf
+""/mnt/DATA/.vifm-Trash-1000/001_tmp.csv
 
 # Directory stack (oldest to newest):
 
@@ -3514,6 +3823,28 @@ t/mnt/DATA/.vifm-Trash-1000/004_rclone.log
 	/home/stas/Documents/GDrive/Text-Mining/rclone.log
 t/mnt/DATA/.vifm-Trash-1000/000_~$зультаты экологического мониторинга.doc
 	/home/stas/Documents/EnviroSurveR/EnviroSurveR/_data/CTD2/~$зультаты экологического мониторинга.doc
+t/home/stas/.local/share/vifm/Trash/000_images.duckduckgo.com.jpeg
+	/home/stas/Downloads/images.duckduckgo.com.jpeg
+t/mnt/DATA/.vifm-Trash-1000/001_Thumbs.db
+	/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/Photo-14_12_2016/Thumbs.db
+t/mnt/DATA/.vifm-Trash-1000/000_Photo-14_12_2016
+	/home/stas/Documents/GAMMARACANTHUS/SET1/PHOTO/Photo-14_12_2016
+t/mnt/DATA/.vifm-Trash-1000/000_betfair-2016_12_15.csv
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/betfair-2016_12_15.csv
+t/mnt/DATA/.vifm-Trash-1000/001_betfair-2016_12_15.csv
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/betfair-2016_12_15.csv
+t/mnt/DATA/.vifm-Trash-1000/000_betfair-coef.csv
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/betfair-coef.csv
+t/mnt/DATA/.vifm-Trash-1000/001_betfair-coef.csv
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/betfair-coef.csv
+t/mnt/DATA/.vifm-Trash-1000/002_betfair-coef.csv
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/betfair-coef.csv
+t/mnt/DATA/.vifm-Trash-1000/003_tmp
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/tmp
+t/mnt/DATA/.vifm-Trash-1000/000_tmp.csv
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/tmp.csv
+t/mnt/DATA/.vifm-Trash-1000/001_tmp.csv
+	/home/stas/Documents/_ETC/FREELANCE/ALEXANDR_SPORT/tmp.csv
 
 # State:
 f
