@@ -71,7 +71,7 @@ fileview *.tar.xz tar -tJf %c
 filetype *.7z 7z e %c
 fileview *.7z 7z l %c
 
-"shell scripts
+" shell scripts
 filetype *.sh bash %c
 
 " torrents
@@ -79,6 +79,7 @@ filetype *.torrent transmission-gtk %c &
 
 " Open with vim in a separate terminal
 filetype *.md,*.txt,*.todo,*.notes,*.vim,*rc,*.css mate-terminal -e "vim %c"
+filetype *.fst,*.fasta mate-terminal -e "vim %c"
 
 " .msg -- for letters
 filetype *.msg mate-terminal -e 'vim %c -S ~/.vim/msg_opt.vim'
@@ -108,6 +109,7 @@ filetype *.wav,*.mp3,*.flac,*.ogg,*.m4a mate-terminal -e mplayer %c
        "\ ffplay %c,
        "\ {Play using MPlayer}
 fileviewer *.mp3 mp3info
+filetype *.3ga vlc %c >/dev/null &
 
 " Video
 filetype *.avi,*.mp4,*.wmv,*.dat,*.3gp,*.ogv,*.mkv,*.mpg,*.vob,*.flv,*.webm,*.m4v
