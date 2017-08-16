@@ -27,7 +27,7 @@
 " program.
 
 " Fasta files
-filetype *.fas,*.fst,*.fasta seaview %c &
+" filetype *.fas,*.fst,*.fasta seaview %c &
 " supposing seaview is in the PATH
 
 " Vector graphics
@@ -79,7 +79,7 @@ filetype *.torrent transmission-gtk %c &
 
 " Open with vim in a separate terminal
 filetype *.md,*.txt,*.todo,*.notes,*.vim,*rc,*.css mate-terminal -e "vim %c"
-filetype *.fst,*.fasta mate-terminal -e "vim %c"
+filetype *.fas,*.fst,*.fasta mate-terminal -e "vim %c"
 
 " .msg -- for letters
 filetype *.msg mate-terminal -e 'vim %c -S ~/.vim/msg_opt.vim'
